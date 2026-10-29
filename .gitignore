@@ -1,0 +1,37 @@
+# Локальные ключи и учётные данные
+.env
+.env.*
+!.env.example
+**/.streamlit/secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
+*authorized_key*.json
+*service-account*.json
+*credentials*.json
+
+# Документы пользователей, результаты и SQLite остаются только локально
+ui/output/
+**/input-documents/
+**/system-folder/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+
+# Неприменяемая копия примеров и входных документов внутри папки промпта
+mvp/system-prompt/documents/
+
+# Python и служебные файлы
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/

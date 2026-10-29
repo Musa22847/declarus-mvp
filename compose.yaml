@@ -1,0 +1,42 @@
+services:
+  declarus:
+    # Собрать образ по Dockerfile из текущей папки
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    # Имя создаваемого образа
+    image: declarus-mvp:0.2.0
+
+    # Связать порт Mac с портом Streamlit внутри контейнера
+    ports:
+      - "8501:8501"
+
+    # Передать приложению настройки из закрытого файла .env
+    env_file:
+      - .env
+
+    # Скрыть служебные кнопки Deploy и меню Streamlit у тестировщиков.
+    environment:
+      STREAMLIT_CLIENT_TOOLBAR_MODE: minimal
+
+    # Хранить результаты локально, а не только внутри контейнера
+    volumes:
+      - ./ui/output:/app/ui/output
+
+    # Автоматически перезапускать приложение после сбоя
+    restart: unless-stopped
+
+  worker:
+    image: declarus-mvp:0.2.0
+    pull_policy: never
+    depends_on:
+      - declarus
+    command: ["python", "ui/worker.py"]
+    env_file:
+      - .env
+    volumes:
+      - ./ui/output:/app/ui/output
+    restart: unless-stopped
+    healthcheck:
+      disable: true

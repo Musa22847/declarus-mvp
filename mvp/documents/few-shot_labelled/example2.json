@@ -1,0 +1,635 @@
+{
+  "document_id": "example-04",
+  "image": "7996dd51-ru_4.jpg",
+  "expected_output": {
+    "consignee_address": "9/F, 3/U, China View Tower, Gongri East Rd, Chaoyang District, Beijing, 100027, China/Китай, 100027, г. Пекин, райок Чаоян, Гонти Нст Рд, Чайка Вью Тауер, 3/У, 9/Ф",
+    "sender": "ООО \"Образец\". РФ 11111",
+    "consignee": "XUAN YUAN INTERNATIONAL INVESTENT BEIJING CO.,LTD./КОМПАНИЯ СЮАНЬ ЮАНЬ МЕЖДУНАРОДНЫЕ ИНВЕСТИЦИИ (ПЕКИН)",
+    "consignor_address": "г. Москва, ул. Образцова, дом 1",
+    "items": [
+      {
+        "item_description": "Устройство КЛУБ-У-206 без компл. кабелей",
+        "item_boxes_count": {
+          "value": 156
+        },
+        "item_net_weight": {
+          "value": 3091.0
+        },
+        "item_gross_weight": {
+          "value": 4339.4
+        },
+        "item_quantity": {
+          "value": 22,
+          "unit": "компл."
+        }
+      },
+      {
+        "item_description": "Система ТСКБМ без компл. кабелей",
+        "item_boxes_count": {
+          "value": 5
+        },
+        "item_net_weight": {
+          "value": 219.0
+        },
+        "item_gross_weight": {
+          "value": 240.0
+        },
+        "item_quantity": {
+          "value": 20,
+          "unit": "компл."
+        }
+      },
+      {
+        "item_description": "ТСКБМ-Н",
+        "item_quantity": {
+          "value": 44,
+          "unit": "шт."
+        },
+        "item_boxes_count": {
+          "value": 5
+        },
+        "item_net_weight": {
+          "value": 4.4
+        },
+        "item_gross_weight": {
+          "value": 13.7
+        }
+      },
+      {
+        "item_description": "ТЛ-ТСКБМ",
+        "item_quantity": {
+          "value": 1,
+          "unit": "шт."
+        },
+        "item_net_weight": {
+          "value": 0.1
+        },
+        "item_gross_weight": {
+          "value": 1.0
+        }
+      },
+      {
+        "item_description": "УБП",
+        "item_quantity": {
+          "value": 1,
+          "unit": "шт."
+        },
+        "item_boxes_count": {
+          "value": 1
+        },
+        "item_net_weight": {
+          "value": 19.4
+        },
+        "item_gross_weight": {
+          "value": 32.4
+        }
+      },
+      {
+        "item_description": "Блок БВДУ-У-01",
+        "item_quantity": {
+          "value": 1,
+          "unit": "шт."
+        },
+        "item_boxes_count": {
+          "value": 1
+        },
+        "item_net_weight": {
+          "value": 2.2
+        },
+        "item_gross_weight": {
+          "value": 4.0
+        }
+      },
+      {
+        "item_description": "СУД-У без ПК",
+        "item_quantity": {
+          "value": 1,
+          "unit": "шт."
+        },
+        "item_boxes_count": {
+          "value": 1
+        },
+        "item_net_weight": {
+          "value": 2.9
+        },
+        "item_gross_weight": {
+          "value": 4.5
+        }
+      },
+      {
+        "item_description": "МПК",
+        "item_quantity": {
+          "value": 1,
+          "unit": "шт."
+        },
+        "item_boxes_count": {
+          "value": 1
+        },
+        "item_net_weight": {
+          "value": 3.1
+        },
+        "item_gross_weight": {
+          "value": 4.8
+        }
+      },
+      {
+        "item_description": "Блок БОП",
+        "item_quantity": {
+          "value": 22,
+          "unit": "шт."
+        },
+        "item_boxes_count": {
+          "value": 3
+        },
+        "item_net_weight": {
+          "value": 63.8
+        },
+        "item_gross_weight": {
+          "value": 103.9
+        }
+      }
+    ],
+    "totals": {
+      "total_net_weight": {
+        "value": 3405.9
+      },
+      "total_gross_weight": {
+        "value": 4743.7
+      }
+    }
+  },
+  "evidence": {
+    "consignee_address": {
+      "text": "9/F, 3/U, China View Tower, Gongri East Rd, Chaoyang District, Beijing, 100027, China/Китай, 100027, г. Пекин, райок Чаоян, Гонти Нст Рд, Чайка Вью Тауер, 3/У, 9/Ф",
+      "bbox_percent": {
+        "x": 7.1737,
+        "y": 39.9314,
+        "width": 86.3895,
+        "height": 5.7208
+      }
+    },
+    "sender": {
+      "text": "ООО \"Образец\". РФ 11111",
+      "bbox_percent": {
+        "x": 17.5738,
+        "y": 29.6674,
+        "width": 26.6585,
+        "height": 2.9027
+      }
+    },
+    "consignee": {
+      "text": "XUAN YUAN INTERNATIONAL INVESTENT BEIJING CO.,LTD./КОМПАНИЯ СЮАНЬ ЮАНЬ МЕЖДУНАРОДНЫЕ ИНВЕСТИЦИИ (ПЕКИН)",
+      "bbox_percent": {
+        "x": 7.7842,
+        "y": 34.5538,
+        "width": 84.7105,
+        "height": 5.2632
+      }
+    },
+    "consignor_address": {
+      "text": "г. Москва, ул. Образцова, дом 1",
+      "bbox_percent": {
+        "x": 44.9769,
+        "y": 30.114,
+        "width": 30.9775,
+        "height": 2.4561
+      }
+    },
+    "items": [
+      {
+        "item_description": {
+          "text": "Устройство КЛУБ-У-206 без компл. кабелей",
+          "bbox_percent": {
+            "x": 3.2053,
+            "y": 56.2337,
+            "width": 27.9316,
+            "height": 5.4732
+          }
+        },
+        "item_boxes_count": {
+          "text": "156",
+          "bbox_percent": {
+            "x": 35.8684,
+            "y": 56.5217,
+            "width": 8.5474,
+            "height": 4.3478
+          }
+        },
+        "item_net_weight": {
+          "text": "3091,0",
+          "bbox_percent": {
+            "x": 49.3,
+            "y": 56.1785,
+            "width": 13.1263,
+            "height": 4.5767
+          }
+        },
+        "item_gross_weight": {
+          "text": "4339,4",
+          "bbox_percent": {
+            "x": 65.1737,
+            "y": 55.9497,
+            "width": 11.1421,
+            "height": 4.8055
+          }
+        },
+        "item_quantity": {
+          "text": "22 компл.",
+          "bbox_percent": {
+            "x": 19.8224,
+            "y": 58.9528,
+            "width": 10.5316,
+            "height": 1.8307
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Система ТСКБМ без компл. кабелей",
+          "bbox_percent": {
+            "x": 3.1478,
+            "y": 66.161,
+            "width": 27.3211,
+            "height": 3.6722
+          }
+        },
+        "item_boxes_count": {
+          "text": "5",
+          "bbox_percent": {
+            "x": 35.1053,
+            "y": 67.1625,
+            "width": 8.7,
+            "height": 5.6064
+          }
+        },
+        "item_net_weight": {
+          "text": "219,0",
+          "bbox_percent": {
+            "x": 50.5211,
+            "y": 66.8192,
+            "width": 9.1579,
+            "height": 2.6316
+          }
+        },
+        "item_gross_weight": {
+          "text": "240,0",
+          "bbox_percent": {
+            "x": 65.9317,
+            "y": 66.5916,
+            "width": 8.8157,
+            "height": 2.7923
+          }
+        },
+        "item_quantity": {
+          "text": "20 компл.",
+          "bbox_percent": {
+            "x": 12.839,
+            "y": 67.9917,
+            "width": 11.6,
+            "height": 2.0595
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "ТСКБМ-Н",
+          "bbox_percent": {
+            "x": 3.2283,
+            "y": 70.0355,
+            "width": 11.1749,
+            "height": 1.7685
+          }
+        },
+        "item_quantity": {
+          "text": "44 шт.",
+          "bbox_percent": {
+            "x": 15.6448,
+            "y": 70.3147,
+            "width": 8.3191,
+            "height": 1.6754
+          }
+        },
+        "item_boxes_count": {
+          "text": "5",
+          "bbox_percent": {
+            "x": 35.1053,
+            "y": 67.1625,
+            "width": 8.7,
+            "height": 5.6064
+          }
+        },
+        "item_net_weight": {
+          "text": "4,4",
+          "bbox_percent": {
+            "x": 51.4044,
+            "y": 70.0355,
+            "width": 6.9532,
+            "height": 2.0477
+          }
+        },
+        "item_gross_weight": {
+          "text": "13,7",
+          "bbox_percent": {
+            "x": 66.3042,
+            "y": 70.0355,
+            "width": 8.0707,
+            "height": 1.7685
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "ТЛ-ТСКБМ",
+          "bbox_percent": {
+            "x": 3.4766,
+            "y": 72.1762,
+            "width": 12.1682,
+            "height": 1.3962
+          }
+        },
+        "item_quantity": {
+          "text": "1 шт.",
+          "bbox_percent": {
+            "x": 15.8931,
+            "y": 72.1762,
+            "width": 6.0841,
+            "height": 1.3031
+          }
+        },
+        "item_net_weight": {
+          "text": "0,1",
+          "bbox_percent": {
+            "x": 52.3977,
+            "y": 72.1762,
+            "width": 5.5874,
+            "height": 1.3031
+          }
+        },
+        "item_gross_weight": {
+          "text": "1,0",
+          "bbox_percent": {
+            "x": 68.0425,
+            "y": 72.0832,
+            "width": 5.4633,
+            "height": 1.3031
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "УБП",
+          "bbox_percent": {
+            "x": 3.3525,
+            "y": 73.9034,
+            "width": 5.0908,
+            "height": 1.7685
+          }
+        },
+        "item_quantity": {
+          "text": "1 шт.",
+          "bbox_percent": {
+            "x": 8.5674,
+            "y": 74.0896,
+            "width": 5.4633,
+            "height": 1.3031
+          }
+        },
+        "item_boxes_count": {
+          "text": "1",
+          "bbox_percent": {
+            "x": 36.1321,
+            "y": 73.7173,
+            "width": 5.8358,
+            "height": 2.1408
+          }
+        },
+        "item_net_weight": {
+          "text": "19,4",
+          "bbox_percent": {
+            "x": 51.7769,
+            "y": 73.9965,
+            "width": 6.5808,
+            "height": 1.8615
+          }
+        },
+        "item_gross_weight": {
+          "text": "32,4",
+          "bbox_percent": {
+            "x": 67.2975,
+            "y": 73.9965,
+            "width": 5.7116,
+            "height": 1.5823
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Блок БВДУ-У-01",
+          "bbox_percent": {
+            "x": 3.2,
+            "y": 76.31,
+            "width": 15.2509,
+            "height": 1.65
+          }
+        },
+        "item_quantity": {
+          "text": "1 шт.",
+          "bbox_percent": {
+            "x": 19.8978,
+            "y": 75.8819,
+            "width": 7.2,
+            "height": 1.65
+          }
+        },
+        "item_boxes_count": {
+          "text": "1",
+          "bbox_percent": {
+            "x": 38.0,
+            "y": 76.31,
+            "width": 4.4,
+            "height": 5.25
+          }
+        },
+        "item_net_weight": {
+          "text": "2,2",
+          "bbox_percent": {
+            "x": 52.8,
+            "y": 76.31,
+            "width": 4.6,
+            "height": 1.65
+          }
+        },
+        "item_gross_weight": {
+          "text": "4,0",
+          "bbox_percent": {
+            "x": 68.0,
+            "y": 76.31,
+            "width": 5.4,
+            "height": 1.65
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "СУД-У без ПК",
+          "bbox_percent": {
+            "x": 3.2,
+            "y": 78.26,
+            "width": 14.5654,
+            "height": 1.65
+          }
+        },
+        "item_quantity": {
+          "text": "1 шт.",
+          "bbox_percent": {
+            "x": 18.1557,
+            "y": 77.9033,
+            "width": 7.4,
+            "height": 1.65
+          }
+        },
+        "item_boxes_count": {
+          "text": "1",
+          "bbox_percent": {
+            "x": 38.0,
+            "y": 76.31,
+            "width": 4.4,
+            "height": 5.25
+          }
+        },
+        "item_net_weight": {
+          "text": "2,9",
+          "bbox_percent": {
+            "x": 52.8,
+            "y": 78.26,
+            "width": 4.6,
+            "height": 1.65
+          }
+        },
+        "item_gross_weight": {
+          "text": "4,5",
+          "bbox_percent": {
+            "x": 68.0,
+            "y": 78.26,
+            "width": 5.4,
+            "height": 1.65
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "МПК",
+          "bbox_percent": {
+            "x": 3.2,
+            "y": 80.21,
+            "width": 7.8,
+            "height": 1.65
+          }
+        },
+        "item_quantity": {
+          "text": "1 шт.",
+          "bbox_percent": {
+            "x": 10.5254,
+            "y": 80.21,
+            "width": 6.6,
+            "height": 1.65
+          }
+        },
+        "item_boxes_count": {
+          "text": "1",
+          "bbox_percent": {
+            "x": 38.0,
+            "y": 76.31,
+            "width": 4.4,
+            "height": 5.25
+          }
+        },
+        "item_net_weight": {
+          "text": "3,1",
+          "bbox_percent": {
+            "x": 52.8,
+            "y": 80.21,
+            "width": 4.6,
+            "height": 1.65
+          }
+        },
+        "item_gross_weight": {
+          "text": "4,8",
+          "bbox_percent": {
+            "x": 68.0,
+            "y": 80.21,
+            "width": 5.4,
+            "height": 1.65
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Блок БОП",
+          "bbox_percent": {
+            "x": 3.2,
+            "y": 82.16,
+            "width": 10.603,
+            "height": 1.65
+          }
+        },
+        "item_quantity": {
+          "text": "22 шт.",
+          "bbox_percent": {
+            "x": 13.8806,
+            "y": 81.8378,
+            "width": 8.4,
+            "height": 1.65
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 38.0,
+            "y": 82.16,
+            "width": 4.4,
+            "height": 1.65
+          }
+        },
+        "item_net_weight": {
+          "text": "63,8",
+          "bbox_percent": {
+            "x": 52.2925,
+            "y": 81.9989,
+            "width": 5.6,
+            "height": 1.65
+          }
+        },
+        "item_gross_weight": {
+          "text": "103,9",
+          "bbox_percent": {
+            "x": 67.3851,
+            "y": 81.7572,
+            "width": 6.4,
+            "height": 1.65
+          }
+        }
+      }
+    ],
+    "totals": {
+      "total_net_weight": {
+        "text": "3 405,9",
+        "bbox_percent": {
+          "x": 50.0,
+          "y": 84.6808,
+          "width": 10.8,
+          "height": 1.8
+        }
+      },
+      "total_gross_weight": {
+        "text": "4 743,7",
+        "bbox_percent": {
+          "x": 65.0,
+          "y": 84.4667,
+          "width": 11.0,
+          "height": 1.8
+        }
+      }
+    }
+  }
+}
