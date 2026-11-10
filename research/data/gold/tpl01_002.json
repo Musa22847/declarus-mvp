@@ -1,0 +1,309 @@
+{
+  "document_id": "tpl01_002",
+  "image": "tpl01_002.png",
+  "expected_output": {
+    "sender": "Boreal Industrial Trading Ltd.",
+    "consignor_address": "22 Meridian Road, Ningbo, China",
+    "consignee": "Boreal Technical Supply LLC",
+    "consignee_address": "42 Harbor Avenue, Almaty, Kazakhstan",
+    "items": [
+      {
+        "item_article": "AST-SOLAR-01002-1",
+        "item_description": "solar garden lamp",
+        "item_quantity": {
+          "value": 280,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 20,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 14,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 144.2,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 164.36,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "AST-SOLAR-01002-2",
+        "item_description": "solar wall lantern",
+        "item_quantity": {
+          "value": 560,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 40,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 14,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 53.06,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 64.68,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 840.0,
+        "unit": "pcs"
+      },
+      "item_boxes_count_total": {
+        "value": 28,
+        "unit": "box"
+      },
+      "total_net_weight": {
+        "value": 197.26,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 229.04,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 0.487,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_article": {
+          "text": "AST-SOLAR-01002-1",
+          "bbox_percent": {
+            "x": 3.5474609375,
+            "y": 64.77987421383648,
+            "width": 11.605078125,
+            "height": 1.416568396226415
+          }
+        },
+        "item_description": {
+          "text": "solar garden lamp",
+          "bbox_percent": {
+            "x": 21.746923828125002,
+            "y": 64.77987421383648,
+            "width": 11.20615234375,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_units_per_box": {
+          "text": "20pcs/CTN",
+          "bbox_percent": {
+            "x": 39.448974609375,
+            "y": 64.77987421383648,
+            "width": 7.0020507812499995,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_quantity": {
+          "text": "280PCS in total",
+          "bbox_percent": {
+            "x": 38.4333251953125,
+            "y": 67.42138364779873,
+            "width": 9.033349609375,
+            "height": 1.5346157625786163
+          }
+        },
+        "item_boxes_count": {
+          "text": "14",
+          "bbox_percent": {
+            "x": 67.87138671875,
+            "y": 66.0377358490566,
+            "width": 1.5572265625,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_gross_weight": {
+          "text": "164.36",
+          "bbox_percent": {
+            "x": 77.508984375,
+            "y": 66.0377358490566,
+            "width": 4.28203125,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_net_weight": {
+          "text": "144.20",
+          "bbox_percent": {
+            "x": 85.808984375,
+            "y": 66.0377358490566,
+            "width": 4.28203125,
+            "height": 1.6526631289308176
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "AST-SOLAR-01002-2",
+          "bbox_percent": {
+            "x": 3.5474609375,
+            "y": 83.64779874213836,
+            "width": 11.605078125,
+            "height": 1.416568396226415
+          }
+        },
+        "item_description": {
+          "text": "solar wall lantern",
+          "bbox_percent": {
+            "x": 22.097607421875,
+            "y": 83.64779874213836,
+            "width": 10.50478515625,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_units_per_box": {
+          "text": "40pcs/CTN",
+          "bbox_percent": {
+            "x": 39.448974609375,
+            "y": 83.64779874213836,
+            "width": 7.0020507812499995,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_quantity": {
+          "text": "560PCS in total",
+          "bbox_percent": {
+            "x": 38.4333251953125,
+            "y": 86.28930817610063,
+            "width": 9.033349609375,
+            "height": 1.5346157625786163
+          }
+        },
+        "item_boxes_count": {
+          "text": "14",
+          "bbox_percent": {
+            "x": 67.87138671875,
+            "y": 84.90566037735849,
+            "width": 1.5572265625,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_gross_weight": {
+          "text": "64.68",
+          "bbox_percent": {
+            "x": 77.898291015625,
+            "y": 84.90566037735849,
+            "width": 3.50341796875,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_net_weight": {
+          "text": "53.06",
+          "bbox_percent": {
+            "x": 86.19829101562499,
+            "y": 84.90566037735849,
+            "width": 3.50341796875,
+            "height": 1.6526631289308176
+          }
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "text": "840PCS",
+        "bbox_percent": {
+          "x": 40.52900390625,
+          "y": 96.72955974842768,
+          "width": 4.8419921875,
+          "height": 1.5346157625786163
+        }
+      },
+      "item_boxes_count_total": {
+        "text": "28",
+        "bbox_percent": {
+          "x": 67.927001953125,
+          "y": 96.72955974842768,
+          "width": 1.44599609375,
+          "height": 1.5346157625786163
+        }
+      },
+      "total_gross_weight": {
+        "text": "229.040",
+        "bbox_percent": {
+          "x": 77.3004150390625,
+          "y": 96.72955974842768,
+          "width": 4.699169921875,
+          "height": 1.5346157625786163
+        }
+      },
+      "total_net_weight": {
+        "text": "197.260",
+        "bbox_percent": {
+          "x": 85.60041503906251,
+          "y": 96.72955974842768,
+          "width": 4.699169921875,
+          "height": 1.5346157625786163
+        }
+      },
+      "total_volume_cbm": {
+        "text": "0.487",
+        "bbox_percent": {
+          "x": 94.1234130859375,
+          "y": 96.72955974842768,
+          "width": 3.253173828125,
+          "height": 1.5346157625786163
+        }
+      }
+    },
+    "sender": {
+      "text": "Boreal Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 15.345911949685535,
+        "width": 19.260498046875,
+        "height": 1.7707104952830188
+      }
+    },
+    "consignor_address": {
+      "text": "22 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 20.628930817610065,
+        "width": 20.70126953125,
+        "height": 1.6526631289308176
+      }
+    },
+    "consignee": {
+      "text": "Boreal Technical Supply LLC",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 32.9559748427673,
+        "width": 19.343994140625,
+        "height": 1.7707104952830188
+      }
+    },
+    "consignee_address": {
+      "text": "42 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 38.23899371069183,
+        "width": 24.51298828125,
+        "height": 1.6526631289308176
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-01002-INV",
+    "document_date": "2026-10-12",
+    "item_volume_cbm": [
+      "0.249",
+      "0.238"
+    ],
+    "variant_code": "01002"
+  },
+  "group_annotations": []
+}

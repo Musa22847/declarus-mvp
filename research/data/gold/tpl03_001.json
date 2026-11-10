@@ -1,0 +1,196 @@
+{
+  "document_id": "tpl03_001",
+  "image": "tpl03_001.png",
+  "expected_output": {
+    "sender": "Aster Industrial Trading Ltd.",
+    "consignor_address": "21 Meridian Road, Ningbo, China",
+    "consignee": "Aster Technical Supply LLC",
+    "items": [
+      {
+        "item_article": "AT-CS-03001/4L",
+        "item_description": "facial tissue machine",
+        "item_quantity": {
+          "value": 3,
+          "unit": "set"
+        },
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package"
+        },
+        "item_net_weight": {
+          "value": 3551.0,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 3747.0,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 3.0,
+        "unit": "set"
+      },
+      "item_boxes_count_total": {
+        "value": 3,
+        "unit": "package"
+      },
+      "total_net_weight": {
+        "value": 3551.0,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 3747.0,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 16.0,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_boxes_count": {
+          "text": "3 packages",
+          "bbox_percent": {
+            "x": 14.233612060546875,
+            "y": 43.11152764761012,
+            "width": 7.03277587890625,
+            "height": 0.9675016108247423
+          }
+        },
+        "item_article": {
+          "text": "AT-CS-03001/4L",
+          "bbox_percent": {
+            "x": 23.0,
+            "y": 44.798500468603564,
+            "width": 12.37237548828125,
+            "height": 1.143410994611059
+          }
+        },
+        "item_description": {
+          "text": "facial tissue machine",
+          "bbox_percent": {
+            "x": 23.0,
+            "y": 46.67291471415182,
+            "width": 16.34759521484375,
+            "height": 1.143410994611059
+          }
+        },
+        "item_quantity": {
+          "text": "3 set",
+          "bbox_percent": {
+            "x": 47.5,
+            "y": 44.798500468603564,
+            "width": 3.5229492187500004,
+            "height": 1.143410994611059
+          }
+        },
+        "item_net_weight": {
+          "text": "3551kgs",
+          "bbox_percent": {
+            "x": 60.053131103515625,
+            "y": 44.798500468603564,
+            "width": 6.14373779296875,
+            "height": 1.143410994611059
+          }
+        },
+        "item_gross_weight": {
+          "text": "3747kgs",
+          "bbox_percent": {
+            "x": 71.24063110351562,
+            "y": 44.798500468603564,
+            "width": 6.14373779296875,
+            "height": 1.143410994611059
+          }
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "text": "3 PACKAGES",
+        "bbox_percent": {
+          "x": 13.248901367187498,
+          "y": 67.29147141518276,
+          "width": 9.752197265625,
+          "height": 1.0554563027179007
+        }
+      },
+      "total_quantity": {
+        "text": "3 SETS",
+        "bbox_percent": {
+          "x": 49.6656494140625,
+          "y": 67.29147141518276,
+          "width": 5.168701171875,
+          "height": 1.0554563027179007
+        }
+      },
+      "total_net_weight": {
+        "text": "3551KGS",
+        "bbox_percent": {
+          "x": 59.831298828125,
+          "y": 67.29147141518276,
+          "width": 6.58740234375,
+          "height": 1.0554563027179007
+        }
+      },
+      "total_gross_weight": {
+        "text": "3747KGS",
+        "bbox_percent": {
+          "x": 71.081298828125,
+          "y": 67.29147141518276,
+          "width": 6.58740234375,
+          "height": 1.0554563027179007
+        }
+      },
+      "total_volume_cbm": {
+        "text": "16m3",
+        "bbox_percent": {
+          "x": 87.144287109375,
+          "y": 67.29147141518276,
+          "width": 3.8364257812499996,
+          "height": 1.0554563027179007
+        }
+      }
+    },
+    "sender": {
+      "text": "Aster Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 34.956207275390625,
+        "y": 11.152764761012184,
+        "width": 30.08758544921875,
+        "height": 1.5902775743908155
+      }
+    },
+    "consignor_address": {
+      "text": "21 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 12.75,
+        "y": 20.524835988753516,
+        "width": 22.179931640625,
+        "height": 1.0554563027179007
+      }
+    },
+    "consignee": {
+      "text": "Aster Technical Supply LLC",
+      "bbox_percent": {
+        "x": 20.5,
+        "y": 29.42830365510778,
+        "width": 20.05145263671875,
+        "height": 1.143410994611059
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-03001-INV",
+    "document_date": "2026-10-11",
+    "item_volume_cbm": [
+      "16"
+    ],
+    "variant_code": "03001"
+  },
+  "group_annotations": []
+}

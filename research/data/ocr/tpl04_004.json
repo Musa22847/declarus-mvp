@@ -1,0 +1,1371 @@
+{
+  "page": 1,
+  "page_size_px": {
+    "width": 1600,
+    "height": 2134
+  },
+  "full_text": "ООО «Delta Прибор»\nРоссия, г. Казань, ул. Заводская, д. 16\nУпаковочный лист\nАппаратура для\nDelta Rail Equipment Ltd.\nКонтракт № SYN-04004\n2026-10-14\nПродавец: ООО «Delta Прибор»\nГрузоотправитель: ООО «Delta Прибор»\nГрузополучатель:\nDelta Rail Equipment Ltd.\nадрес: 34 East Road, Beijing, China\nУсловия поставки: FCA\nНаименование\nКол-во\nящиков (шт)\nОбщий вес\nнетто (кг)\nОбщий вес\nбрутто (кг)\nГабариты (мм)\nR04004-01\nУстройство контроля без комплекта\nкабелей\n11\n74,14\n91,85\n360*360*180\nR04004-02\nСистема контроля с комплектом кабелей\n7,58\n8,50\n368*365*187\nR04004-03\nМодуль контроля\n88,48\n98,35\nR04004-04\nТелеметрический модуль\n12,58\n15,94\nR04004-05\nУзел питания\n27,65\n31,65\n392*380*208\nR04004-06\nБлок входных данных\n15,75\n23,00\nR04004-07\nСогласующее устройство\n5\n70,40\n88,11\n400*385*215\nR04004-08\nМодуль телеметрии\n20,34\n24,18\nR04004-09\nБлок обработки линии\n5\n38,30\n47,20\n424*400*236\nИтого:\n28\n355,22\n428,78\nГенеральный директор\nСинтетический образец\nSYNTHETIC / NOT FOR SHIPPING\n",
+  "lines": [
+    {
+      "text": "ООО «Delta Прибор»",
+      "bbox_percent": {
+        "x": 34.9375,
+        "y": 2.671,
+        "width": 30.5,
+        "height": 1.4058
+      }
+    },
+    {
+      "text": "Россия, г. Казань, ул. Заводская, д. 16",
+      "bbox_percent": {
+        "x": 37.5625,
+        "y": 8.3411,
+        "width": 24.75,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "Упаковочный лист",
+      "bbox_percent": {
+        "x": 41.0625,
+        "y": 12.9803,
+        "width": 18.125,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "Аппаратура для",
+      "bbox_percent": {
+        "x": 43.875,
+        "y": 15.089,
+        "width": 12.125,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "Delta Rail Equipment Ltd.",
+      "bbox_percent": {
+        "x": 38.5625,
+        "y": 17.1978,
+        "width": 23.125,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "Контракт № SYN-04004",
+      "bbox_percent": {
+        "x": 40.25,
+        "y": 20.6186,
+        "width": 19.5625,
+        "height": 0.9372
+      }
+    },
+    {
+      "text": "2026-10-14",
+      "bbox_percent": {
+        "x": 86.9375,
+        "y": 26.7573,
+        "width": 8.4375,
+        "height": 0.8435
+      }
+    },
+    {
+      "text": "Продавец: ООО «Delta Прибор»",
+      "bbox_percent": {
+        "x": 7.4375,
+        "y": 30.6935,
+        "width": 23.125,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "Грузоотправитель: ООО «Delta Прибор»",
+      "bbox_percent": {
+        "x": 7.5625,
+        "y": 32.6617,
+        "width": 29.0,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "Грузополучатель:",
+      "bbox_percent": {
+        "x": 7.5625,
+        "y": 34.6767,
+        "width": 13.0625,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "Delta Rail Equipment Ltd.",
+      "bbox_percent": {
+        "x": 26.4375,
+        "y": 34.6298,
+        "width": 19.3125,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "адрес: 34 East Road, Beijing, China",
+      "bbox_percent": {
+        "x": 7.625,
+        "y": 37.1603,
+        "width": 26.8125,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "Условия поставки: FCA",
+      "bbox_percent": {
+        "x": 7.625,
+        "y": 39.5501,
+        "width": 16.9375,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "Наименование",
+      "bbox_percent": {
+        "x": 12.3125,
+        "y": 48.313,
+        "width": 10.9375,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "Кол-во",
+      "bbox_percent": {
+        "x": 37.375,
+        "y": 48.2662,
+        "width": 5.8125,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "ящиков (шт)",
+      "bbox_percent": {
+        "x": 35.5625,
+        "y": 49.9063,
+        "width": 9.1875,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "Общий вес",
+      "bbox_percent": {
+        "x": 51.25,
+        "y": 48.2662,
+        "width": 8.0,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "нетто (кг)",
+      "bbox_percent": {
+        "x": 51.5,
+        "y": 49.7657,
+        "width": 7.4375,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "Общий вес",
+      "bbox_percent": {
+        "x": 66.9375,
+        "y": 48.2662,
+        "width": 8.0625,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "брутто (кг)",
+      "bbox_percent": {
+        "x": 66.6875,
+        "y": 49.8126,
+        "width": 8.375,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "Габариты (мм)",
+      "bbox_percent": {
+        "x": 82.6875,
+        "y": 48.313,
+        "width": 10.9375,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "R04004-01",
+      "bbox_percent": {
+        "x": 3.375,
+        "y": 57.0291,
+        "width": 7.25,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "Устройство контроля без комплекта",
+      "bbox_percent": {
+        "x": 3.5625,
+        "y": 58.4349,
+        "width": 23.4375,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "кабелей",
+      "bbox_percent": {
+        "x": 3.375,
+        "y": 59.7001,
+        "width": 5.375,
+        "height": 0.5155
+      }
+    },
+    {
+      "text": "11",
+      "bbox_percent": {
+        "x": 39.125,
+        "y": 58.2006,
+        "width": 2.0,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "74,14",
+      "bbox_percent": {
+        "x": 53.3125,
+        "y": 58.1537,
+        "width": 4.0,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "91,85",
+      "bbox_percent": {
+        "x": 68.9375,
+        "y": 58.1537,
+        "width": 3.9375,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "360*360*180",
+      "bbox_percent": {
+        "x": 84.0625,
+        "y": 58.1068,
+        "width": 8.3125,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "R04004-02",
+      "bbox_percent": {
+        "x": 3.375,
+        "y": 66.5886,
+        "width": 6.125,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "Система контроля с комплектом кабелей",
+      "bbox_percent": {
+        "x": 3.5,
+        "y": 67.8538,
+        "width": 22.125,
+        "height": 0.5155
+      }
+    },
+    {
+      "text": "7,58",
+      "bbox_percent": {
+        "x": 53.625,
+        "y": 67.4789,
+        "width": 3.25,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "8,50",
+      "bbox_percent": {
+        "x": 69.375,
+        "y": 67.5258,
+        "width": 3.125,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "368*365*187",
+      "bbox_percent": {
+        "x": 84.0625,
+        "y": 69.447,
+        "width": 8.375,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "R04004-03",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 70.4311,
+        "width": 4.75,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Модуль контроля",
+      "bbox_percent": {
+        "x": 14.75,
+        "y": 70.3374,
+        "width": 8.875,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "88,48",
+      "bbox_percent": {
+        "x": 53.125,
+        "y": 70.478,
+        "width": 4.0625,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "98,35",
+      "bbox_percent": {
+        "x": 68.875,
+        "y": 70.4311,
+        "width": 4.0,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "R04004-04",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 72.5867,
+        "width": 4.75,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Телеметрический модуль",
+      "bbox_percent": {
+        "x": 14.625,
+        "y": 72.6804,
+        "width": 12.5625,
+        "height": 0.4686
+      }
+    },
+    {
+      "text": "12,58",
+      "bbox_percent": {
+        "x": 53.25,
+        "y": 72.6804,
+        "width": 3.875,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "15,94",
+      "bbox_percent": {
+        "x": 69.0,
+        "y": 72.5867,
+        "width": 3.9375,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "R04004-05",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 74.7423,
+        "width": 4.8125,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Узел питания",
+      "bbox_percent": {
+        "x": 14.6875,
+        "y": 74.7891,
+        "width": 6.875,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "27,65",
+      "bbox_percent": {
+        "x": 53.0625,
+        "y": 74.7423,
+        "width": 4.25,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "31,65",
+      "bbox_percent": {
+        "x": 68.75,
+        "y": 74.7423,
+        "width": 4.25,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "392*380*208",
+      "bbox_percent": {
+        "x": 84.0,
+        "y": 74.6954,
+        "width": 8.1875,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "R04004-06",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 76.8978,
+        "width": 4.875,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Блок входных данных",
+      "bbox_percent": {
+        "x": 14.75,
+        "y": 76.9916,
+        "width": 10.8125,
+        "height": 0.4217
+      }
+    },
+    {
+      "text": "15,75",
+      "bbox_percent": {
+        "x": 53.25,
+        "y": 76.9447,
+        "width": 4.0,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "23,00",
+      "bbox_percent": {
+        "x": 68.9375,
+        "y": 76.9447,
+        "width": 4.0625,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "R04004-07",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 79.0534,
+        "width": 4.8125,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Согласующее устройство",
+      "bbox_percent": {
+        "x": 14.625,
+        "y": 79.0534,
+        "width": 12.75,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "5",
+      "bbox_percent": {
+        "x": 39.5,
+        "y": 79.1003,
+        "width": 1.3125,
+        "height": 0.5623
+      }
+    },
+    {
+      "text": "70,40",
+      "bbox_percent": {
+        "x": 53.3125,
+        "y": 79.0066,
+        "width": 4.0,
+        "height": 0.8903
+      }
+    },
+    {
+      "text": "88,11",
+      "bbox_percent": {
+        "x": 68.8125,
+        "y": 79.1003,
+        "width": 4.25,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "400*385*215",
+      "bbox_percent": {
+        "x": 83.9375,
+        "y": 78.9128,
+        "width": 8.25,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "R04004-08",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 81.209,
+        "width": 4.75,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Модуль телеметрии",
+      "bbox_percent": {
+        "x": 14.75,
+        "y": 81.1621,
+        "width": 9.8125,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "20,34",
+      "bbox_percent": {
+        "x": 53.1875,
+        "y": 81.209,
+        "width": 4.125,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "24,18",
+      "bbox_percent": {
+        "x": 68.8125,
+        "y": 81.209,
+        "width": 3.9375,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "R04004-09",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 83.3646,
+        "width": 4.8125,
+        "height": 0.3749
+      }
+    },
+    {
+      "text": "Блок обработки линии",
+      "bbox_percent": {
+        "x": 14.6875,
+        "y": 83.4583,
+        "width": 11.0625,
+        "height": 0.4686
+      }
+    },
+    {
+      "text": "5",
+      "bbox_percent": {
+        "x": 39.5625,
+        "y": 83.5989,
+        "width": 1.25,
+        "height": 0.5155
+      }
+    },
+    {
+      "text": "38,30",
+      "bbox_percent": {
+        "x": 53.0,
+        "y": 83.3646,
+        "width": 4.0625,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "47,20",
+      "bbox_percent": {
+        "x": 68.8125,
+        "y": 83.3646,
+        "width": 4.125,
+        "height": 0.8435
+      }
+    },
+    {
+      "text": "424*400*236",
+      "bbox_percent": {
+        "x": 84.0,
+        "y": 83.3177,
+        "width": 8.3125,
+        "height": 0.656
+      }
+    },
+    {
+      "text": "Итого:",
+      "bbox_percent": {
+        "x": 3.375,
+        "y": 86.0356,
+        "width": 6.0,
+        "height": 1.0309
+      }
+    },
+    {
+      "text": "28",
+      "bbox_percent": {
+        "x": 39.0,
+        "y": 86.0356,
+        "width": 2.25,
+        "height": 0.7498
+      }
+    },
+    {
+      "text": "355,22",
+      "bbox_percent": {
+        "x": 52.5625,
+        "y": 86.0825,
+        "width": 5.25,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "428,78",
+      "bbox_percent": {
+        "x": 68.375,
+        "y": 86.0825,
+        "width": 5.1875,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "Генеральный директор",
+      "bbox_percent": {
+        "x": 7.3125,
+        "y": 94.7985,
+        "width": 18.0625,
+        "height": 0.7966
+      }
+    },
+    {
+      "text": "Синтетический образец",
+      "bbox_percent": {
+        "x": 59.6875,
+        "y": 94.7985,
+        "width": 17.1875,
+        "height": 0.7029
+      }
+    },
+    {
+      "text": "SYNTHETIC / NOT FOR SHIPPING",
+      "bbox_percent": {
+        "x": 43.8125,
+        "y": 98.8285,
+        "width": 12.3125,
+        "height": 0.3749
+      }
+    }
+  ],
+  "tables": [
+    {
+      "row_count": 13,
+      "column_count": 5,
+      "bbox_percent": {
+        "x": 2.25,
+        "y": 0.7498,
+        "width": 95.375,
+        "height": 97.8913
+      },
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Продавец: ООО «Delta Прибор»\nГрузоотправитель: ООО «Delta\nГрузополучатель:\nDelta Rail\nадрес: 34 East Road, Beijing, China\nУсловия поставки: FCA",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 0.7498,
+            "width": 30.5,
+            "height": 46.5323
+          }
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "ООО\nРоссия, г. Казань,\nDelta Rail\nКонтракт\nПрибор»\nEquipment Ltd.",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 0.7498,
+            "width": 14.5,
+            "height": 46.5323
+          }
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "«Delta Прибор»\nул. Заводская, д. 16\nУпаковочный лист\nАппаратура для\nEquipment Ltd.\n№ SYN-04004",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 0.7498,
+            "width": 15.625,
+            "height": 46.5323
+          }
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 0.7498,
+            "width": 16.5625,
+            "height": 46.5323
+          }
+        },
+        {
+          "row": 0,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2026-10-14",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 0.7498,
+            "width": 19.1875,
+            "height": 46.5323
+          }
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Наименование",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 47.2821,
+            "width": 30.5,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Кол-во\nящиков (шт)",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 47.2821,
+            "width": 14.5,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Общий вес\nнетто (кг)",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 47.2821,
+            "width": 15.625,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Общий вес\nбрутто (кг)",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 47.2821,
+            "width": 16.5625,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Габариты (мм)",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 47.2821,
+            "width": 19.1875,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-01\nУстройство контроля без комплекта\nкабелей",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 50.9372,
+            "width": 30.5,
+            "height": 15.089
+          }
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "11",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 50.9372,
+            "width": 14.5,
+            "height": 15.089
+          }
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "74,14",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 50.9372,
+            "width": 15.625,
+            "height": 15.089
+          }
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "91,85",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 50.9372,
+            "width": 16.5625,
+            "height": 15.089
+          }
+        },
+        {
+          "row": 2,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "360*360*180",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 50.9372,
+            "width": 19.1875,
+            "height": 15.089
+          }
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-02\nСистема контроля с комплектом кабелей",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 65.8857,
+            "width": 30.5,
+            "height": 3.7488
+          }
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 3,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 65.8857,
+            "width": 14.5,
+            "height": 8.1537
+          }
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "7,58",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 65.8857,
+            "width": 15.625,
+            "height": 3.7488
+          }
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "8,50",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 65.8857,
+            "width": 16.5625,
+            "height": 3.7488
+          }
+        },
+        {
+          "row": 3,
+          "column": 4,
+          "row_span": 3,
+          "column_span": 1,
+          "text": "368*365*187",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 65.8857,
+            "width": 19.1875,
+            "height": 8.1537
+          }
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-03\nМодуль контроля",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 69.7751,
+            "width": 30.5,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "88,48",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 69.7751,
+            "width": 15.625,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "98,35",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 69.7751,
+            "width": 16.5625,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-04\nТелеметрический модуль",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 71.8369,
+            "width": 30.5,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 5,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12,58",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 71.8369,
+            "width": 15.625,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "15,94",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 71.8369,
+            "width": 16.5625,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-05\nУзел питания",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 74.0862,
+            "width": 30.5,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 74.0862,
+            "width": 14.5,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "27,65",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 74.0862,
+            "width": 15.625,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "31,65",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 74.0862,
+            "width": 16.5625,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 6,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "392*380*208",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 74.0862,
+            "width": 19.1875,
+            "height": 2.1556
+          }
+        },
+        {
+          "row": 7,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-06\nБлок входных данных",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 76.1481,
+            "width": 30.5,
+            "height": 2.2962
+          }
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "row_span": 3,
+          "column_span": 1,
+          "text": "5",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 76.1481,
+            "width": 14.5,
+            "height": 6.6073
+          }
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "15,75",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 76.1481,
+            "width": 15.625,
+            "height": 2.2962
+          }
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "23,00",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 76.1481,
+            "width": 16.5625,
+            "height": 2.2962
+          }
+        },
+        {
+          "row": 7,
+          "column": 4,
+          "row_span": 3,
+          "column_span": 1,
+          "text": "400*385*215",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 76.1481,
+            "width": 19.1875,
+            "height": 6.6073
+          }
+        },
+        {
+          "row": 8,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-07\nСогласующее устройство",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 78.2099,
+            "width": 30.5,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 8,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "70,40",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 78.2099,
+            "width": 15.625,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 8,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "88,11",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 78.2099,
+            "width": 16.5625,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 9,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-08\nМодуль телеметрии",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 80.3655,
+            "width": 30.5,
+            "height": 2.3899
+          }
+        },
+        {
+          "row": 9,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "20,34",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 80.3655,
+            "width": 15.625,
+            "height": 2.3899
+          }
+        },
+        {
+          "row": 9,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "24,18",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 80.3655,
+            "width": 16.5625,
+            "height": 2.3899
+          }
+        },
+        {
+          "row": 10,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "R04004-09\nБлок обработки линии",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 82.7554,
+            "width": 30.5,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 10,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "5",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 82.7554,
+            "width": 14.5,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 10,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "38,30",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 82.7554,
+            "width": 15.625,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 10,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "47,20",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 82.7554,
+            "width": 16.5625,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 10,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "424*400*236",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 82.7554,
+            "width": 19.1875,
+            "height": 2.2024
+          }
+        },
+        {
+          "row": 11,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Итого:",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 84.7704,
+            "width": 30.5,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 11,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "28",
+          "bbox_percent": {
+            "x": 32.6875,
+            "y": 84.7704,
+            "width": 14.5,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 11,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "355,22",
+          "bbox_percent": {
+            "x": 47.1875,
+            "y": 84.7704,
+            "width": 15.625,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 11,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "428,78",
+          "bbox_percent": {
+            "x": 62.4375,
+            "y": 84.7704,
+            "width": 16.5625,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 11,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 78.3125,
+            "y": 84.7704,
+            "width": 19.1875,
+            "height": 3.7957
+          }
+        },
+        {
+          "row": 12,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 5,
+          "text": "Генеральный директор\nСинтетический образец",
+          "bbox_percent": {
+            "x": 2.3125,
+            "y": 88.4255,
+            "width": 95.1875,
+            "height": 9.6532
+          }
+        }
+      ]
+    }
+  ],
+  "document_id": "tpl04_004.png"
+}

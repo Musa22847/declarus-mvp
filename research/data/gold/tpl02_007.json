@@ -1,0 +1,1485 @@
+{
+  "document_id": "tpl02_007",
+  "image": "tpl02_007.png",
+  "expected_output": {
+    "items": [
+      {
+        "item_article": "PF0200701_R",
+        "item_description": "Форма бумажная МАФФИН 90x90 FLOWERS",
+        "item_quantity": {
+          "value": 83600,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 38,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 206.34,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 219.64,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200702_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+        "item_quantity": {
+          "value": 84000,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 3000,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 28,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 78.96,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 88.76,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200703_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 90x90 BROWN",
+        "item_quantity": {
+          "value": 81600,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2400,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 34,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 46.58,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 58.48,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200704_R",
+        "item_description": "Форма бумажная МАФФИН 70x60 MOSAIC",
+        "item_quantity": {
+          "value": 16800,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 14,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 71.68,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 76.58,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200705_R",
+        "item_description": "Форма бумажная МАФФИН 70x60 MOSAIC",
+        "item_quantity": {
+          "value": 20400,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 17,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 54.74,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 60.69,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200706_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 110x85 FLOWERS",
+        "item_quantity": {
+          "value": 2400,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 13.9,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 14.6,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200707_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+        "item_quantity": {
+          "value": 59400,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 27,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 76.41,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 85.86,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200708_R",
+        "item_description": "Форма бумажная КЕКС 90x90 BROWN",
+        "item_quantity": {
+          "value": 25500,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 1500,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 17,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 43.69,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 49.64,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200709_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 90x90 BROWN",
+        "item_quantity": {
+          "value": 99000,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 3000,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 33,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 207.57,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 219.12,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200710_R",
+        "item_description": "Форма бумажная КЕКС 90x90 MOSAIC",
+        "item_quantity": {
+          "value": 9600,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2400,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 4,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 14.44,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 15.84,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200711_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 110x85 FLOWERS",
+        "item_quantity": {
+          "value": 3000,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 1500,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 12.14,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 12.84,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200712_R",
+        "item_description": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+        "item_quantity": {
+          "value": 13200,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 6,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 31.32,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 33.42,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200713_R",
+        "item_description": "Форма бумажная МАФФИН 90x90 FLOWERS",
+        "item_quantity": {
+          "value": 10000,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2000,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 24.4,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 26.15,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200714_R",
+        "item_description": "Форма бумажная КЕКС 110x85 BROWN",
+        "item_quantity": {
+          "value": 48000,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2000,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 24,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 167.28,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 175.68,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200715_R",
+        "item_description": "Форма бумажная МАФФИН 90x90 BROWN",
+        "item_quantity": {
+          "value": 46200,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 21,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 141.54,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 148.89,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "PF0200716_R",
+        "item_description": "Форма бумажная МАФФИН 90x90 BROWN",
+        "item_quantity": {
+          "value": 6600,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 2200,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 19.74,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 20.79,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "value": 275,
+        "unit": "box"
+      },
+      "total_net_weight": {
+        "value": 1210.73,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 1306.98,
+        "unit": "kg"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_article": {
+          "text": "PF0200701_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 15.81272084805654,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная МАФФИН 90x90 FLOWERS",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 16.872791519434628,
+            "width": 24.929962158203125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "83600",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 16.519434628975265,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 16.519434628975265,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "38",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 16.519434628975265,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "219,64",
+          "bbox_percent": {
+            "x": 78.8677978515625,
+            "y": 16.519434628975265,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "206,34",
+          "bbox_percent": {
+            "x": 89.2427978515625,
+            "y": 16.519434628975265,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200702_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 18.81625441696113,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 19.87632508833922,
+            "width": 26.951263427734375,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "84000",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 19.52296819787986,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "3000",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 19.52296819787986,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "28",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 19.52296819787986,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "88,76",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 19.52296819787986,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "78,96",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 19.52296819787986,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200703_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 21.819787985865723,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 90x90 BROWN",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 22.879858657243815,
+            "width": 25.6309814453125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "81600",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 22.526501766784452,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2400",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 22.526501766784452,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "34",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 22.526501766784452,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "58,48",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 22.526501766784452,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "46,58",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 22.526501766784452,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200704_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 24.823321554770317,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная МАФФИН 70x60 MOSAIC",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 25.88339222614841,
+            "width": 23.742462158203125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "16800",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 25.530035335689043,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "1200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 25.530035335689043,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "14",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 25.530035335689043,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "76,58",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 25.530035335689043,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "71,68",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 25.530035335689043,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200705_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 27.82685512367491,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная МАФФИН 70x60 MOSAIC",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 28.886925795053003,
+            "width": 23.742462158203125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "20400",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 28.533568904593636,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "1200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 28.533568904593636,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "17",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 28.533568904593636,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "60,69",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 28.533568904593636,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "54,74",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 28.533568904593636,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200706_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 30.830388692579508,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 110x85 FLOWERS",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 31.890459363957596,
+            "width": 27.611694335937496,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "2400",
+          "bbox_percent": {
+            "x": 47.79010009765625,
+            "y": 31.537102473498237,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "1200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 31.537102473498237,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 70.26002502441406,
+            "y": 31.537102473498237,
+            "width": 0.729949951171875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "14,60",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 31.537102473498237,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "13,90",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 31.537102473498237,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200707_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 33.8339222614841,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 34.89399293286219,
+            "width": 25.763763427734375,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "59400",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 34.54063604240283,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 34.54063604240283,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "27",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 34.54063604240283,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "85,86",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 34.54063604240283,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "76,41",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 34.54063604240283,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200708_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 36.83745583038869,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная КЕКС 90x90 BROWN",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 37.897526501766784,
+            "width": 21.3448486328125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "25500",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 37.544169611307424,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "1500",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 37.544169611307424,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "17",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 37.544169611307424,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "49,64",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 37.544169611307424,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "43,69",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 37.544169611307424,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200709_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 39.840989399293285,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 90x90 BROWN",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 40.90106007067138,
+            "width": 25.6309814453125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "99000",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 40.54770318021201,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "3000",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 40.54770318021201,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "33",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 40.54770318021201,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "219,12",
+          "bbox_percent": {
+            "x": 78.8677978515625,
+            "y": 40.54770318021201,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "207,57",
+          "bbox_percent": {
+            "x": 89.2427978515625,
+            "y": 40.54770318021201,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200710_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 42.84452296819788,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная КЕКС 90x90 MOSAIC",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 43.90459363957597,
+            "width": 21.477630615234375,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "9600",
+          "bbox_percent": {
+            "x": 47.79010009765625,
+            "y": 43.551236749116605,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2400",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 43.551236749116605,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "4",
+          "bbox_percent": {
+            "x": 70.26002502441406,
+            "y": 43.551236749116605,
+            "width": 0.729949951171875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "15,84",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 43.551236749116605,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "14,44",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 43.551236749116605,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200711_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 45.84805653710247,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 110x85 FLOWERS",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 46.908127208480565,
+            "width": 27.611694335937496,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "3000",
+          "bbox_percent": {
+            "x": 47.79010009765625,
+            "y": 46.5547703180212,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "1500",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 46.5547703180212,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 70.26002502441406,
+            "y": 46.5547703180212,
+            "width": 0.729949951171875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "12,84",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 46.5547703180212,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "12,14",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 46.5547703180212,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200712_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 48.851590106007066,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 49.91166077738516,
+            "width": 26.951263427734375,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "13200",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 49.5583038869258,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 49.5583038869258,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "6",
+          "bbox_percent": {
+            "x": 70.26002502441406,
+            "y": 49.5583038869258,
+            "width": 0.729949951171875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "33,42",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 49.5583038869258,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "31,32",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 49.5583038869258,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200713_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 51.85512367491166,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная МАФФИН 90x90 FLOWERS",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 52.91519434628975,
+            "width": 24.929962158203125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "10000",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 52.561837455830386,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2000",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 52.561837455830386,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "5",
+          "bbox_percent": {
+            "x": 70.26002502441406,
+            "y": 52.561837455830386,
+            "width": 0.729949951171875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "26,15",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 52.561837455830386,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "24,40",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 52.561837455830386,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200714_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 54.85865724381625,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная КЕКС 110x85 BROWN",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 55.918727915194346,
+            "width": 22.005279541015625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "48000",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 55.56537102473498,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2000",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 55.56537102473498,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "24",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 55.56537102473498,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "175,68",
+          "bbox_percent": {
+            "x": 78.8677978515625,
+            "y": 55.56537102473498,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "167,28",
+          "bbox_percent": {
+            "x": 89.2427978515625,
+            "y": 55.56537102473498,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200715_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 57.86219081272085,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная МАФФИН 90x90 BROWN",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 58.92226148409894,
+            "width": 23.60968017578125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "46200",
+          "bbox_percent": {
+            "x": 47.42512512207031,
+            "y": 58.56890459363958,
+            "width": 3.649749755859375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 58.56890459363958,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "21",
+          "bbox_percent": {
+            "x": 69.89505004882812,
+            "y": 58.56890459363958,
+            "width": 1.45989990234375,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "148,89",
+          "bbox_percent": {
+            "x": 78.8677978515625,
+            "y": 58.56890459363958,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "141,54",
+          "bbox_percent": {
+            "x": 89.2427978515625,
+            "y": 58.56890459363958,
+            "width": 4.014404296875,
+            "height": 0.8704950447217314
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "PF0200716_R",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 60.86572438162544,
+            "width": 7.658447265625,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_description": {
+          "text": "Форма бумажная МАФФИН 90x90 BROWN",
+          "bbox_percent": {
+            "x": 8.5,
+            "y": 61.925795053003526,
+            "width": 23.60968017578125,
+            "height": 0.7875907547482331
+          }
+        },
+        "item_quantity": {
+          "text": "6600",
+          "bbox_percent": {
+            "x": 47.79010009765625,
+            "y": 61.572438162544174,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_units_per_box": {
+          "text": "2200",
+          "bbox_percent": {
+            "x": 58.54010009765624,
+            "y": 61.572438162544174,
+            "width": 2.9197998046875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 70.26002502441406,
+            "y": 61.572438162544174,
+            "width": 0.729949951171875,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_gross_weight": {
+          "text": "20,79",
+          "bbox_percent": {
+            "x": 79.23277282714844,
+            "y": 61.572438162544174,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        },
+        "item_net_weight": {
+          "text": "19,74",
+          "bbox_percent": {
+            "x": 89.60777282714844,
+            "y": 61.572438162544174,
+            "width": 3.284454345703125,
+            "height": 0.8704950447217314
+          }
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "text": "275",
+        "bbox_percent": {
+          "x": 69.53007507324219,
+          "y": 63.869257950530034,
+          "width": 2.189849853515625,
+          "height": 0.8704950447217314
+        }
+      },
+      "total_gross_weight": {
+        "text": "1306,98",
+        "bbox_percent": {
+          "x": 78.50282287597656,
+          "y": 63.869257950530034,
+          "width": 4.744354248046875,
+          "height": 0.8704950447217314
+        }
+      },
+      "total_net_weight": {
+        "text": "1210,73",
+        "bbox_percent": {
+          "x": 88.87782287597656,
+          "y": 63.869257950530034,
+          "width": 4.744354248046875,
+          "height": 0.8704950447217314
+        }
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-02007-INV",
+    "document_date": "2026-10-17",
+    "variant_code": "02007"
+  },
+  "group_annotations": []
+}

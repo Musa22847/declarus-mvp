@@ -1,0 +1,3051 @@
+{
+  "/batch_id": "tpl05_003",
+  "documents": [
+    {
+      "document_id": "tpl05_003.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "Cobalt Industrial Trading Ltd.",
+          "unit": null,
+          "raw_text": "Cobalt Industrial Trading Ltd.",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 50.125,
+                "y": 1.74,
+                "width": 35.6875,
+                "height": 1.1771
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 60.6875,
+                "y": 4.9642,
+                "width": 21.25,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "23 Meridian Road, Ningbo, China",
+          "unit": null,
+          "raw_text": "23 Meridian Road, Ningbo, China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 60.6875,
+                "y": 4.9642,
+                "width": 21.25,
+                "height": 0.6653
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Cobalt Technical Supply LLC",
+          "unit": null,
+          "raw_text": "Cobalt Technical Supply LLC",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 1.5,
+                "y": 19.4985,
+                "width": 21.25,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "Kazakhstan",
+          "unit": null,
+          "raw_text": "Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 1.5,
+                "y": 21.2385,
+                "width": 25.1875,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "43 Harbor Avenue, Almaty, Kazakhstan",
+          "unit": null,
+          "raw_text": "43 Harbor Avenue, Almaty, Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 1.5,
+                "y": 21.2385,
+                "width": 25.1875,
+                "height": 0.7677
+              }
+            }
+          ]
+        }
+      },
+      "document_date": {
+        "value": "2026-10-13",
+        "unit": null,
+        "raw_text": "2026-10-13",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 46.125,
+              "y": 20.522,
+              "width": 13.3125,
+              "height": 0.8188
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-05003-INV",
+        "unit": null,
+        "raw_text": "SYN-05003-INV",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 46.25,
+              "y": 18.5773,
+              "width": 17.625,
+              "height": 0.87
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "Ningbo",
+        "unit": null,
+        "raw_text": "Ningbo",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 1.5,
+              "y": 75.4862,
+              "width": 16.5625,
+              "height": 0.7677
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": {
+            "value": "2.5-S05003-01",
+            "unit": null,
+            "raw_text": "2.5-S05003-01",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.875,
+                  "y": 31.4227,
+                  "width": 8.5,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 2.5m-Openness 3%-520gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 2.5m-Openness 3%-520gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.0625,
+                  "y": 30.7062,
+                  "width": 21.9375,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 362.5,
+            "unit": "m2",
+            "raw_text": "362.50",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.75,
+                  "y": 31.3715,
+                  "width": 4.8125,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 5,
+            "unit": "package",
+            "raw_text": "5",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.6875,
+                  "y": 31.3715,
+                  "width": 1.5,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 218.5,
+            "unit": "kg",
+            "raw_text": "218.50",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.625,
+                  "y": 31.3204,
+                  "width": 4.9375,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 188.5,
+            "unit": "kg",
+            "raw_text": "188.50",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.4375,
+                  "y": 31.3715,
+                  "width": 4.875,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "3.0-S05003-02",
+            "unit": null,
+            "raw_text": "3.0-S05003-02",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.8125,
+                  "y": 35.4145,
+                  "width": 8.3125,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 3.0m-Openness 5%-390gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 3.0m-Openness 5%-390gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.125,
+                  "y": 34.6469,
+                  "width": 21.8125,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 180.0,
+            "unit": "m2",
+            "raw_text": "180.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.75,
+                  "y": 35.3634,
+                  "width": 4.875,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 2,
+            "unit": "package",
+            "raw_text": "2",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.75,
+                  "y": 35.261,
+                  "width": 1.625,
+                  "height": 0.9724
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 82.2,
+            "unit": "kg",
+            "raw_text": "82.20",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 83.0625,
+                  "y": 35.4145,
+                  "width": 4.125,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 70.2,
+            "unit": "kg",
+            "raw_text": "70.20",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.875,
+                  "y": 35.3634,
+                  "width": 4.1875,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "3.0-S05003-03",
+            "unit": null,
+            "raw_text": "3.0-S05003-03",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.875,
+                  "y": 39.4063,
+                  "width": 8.1875,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 3.0m-Openness 5%-430gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 3.0m-Openness 5%-430gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.0625,
+                  "y": 38.6387,
+                  "width": 21.75,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 180.0,
+            "unit": "m2",
+            "raw_text": "180.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.75,
+                  "y": 39.3552,
+                  "width": 4.9375,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 2,
+            "unit": "package",
+            "raw_text": "2",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.8125,
+                  "y": 39.3552,
+                  "width": 1.4375,
+                  "height": 0.87
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 97.4,
+            "unit": "kg",
+            "raw_text": "97.40",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 83.0,
+                  "y": 39.3552,
+                  "width": 4.125,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 77.4,
+            "unit": "kg",
+            "raw_text": "77.40",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.875,
+                  "y": 39.3552,
+                  "width": 4.125,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "3.0-S05003-04",
+            "unit": null,
+            "raw_text": "3.0-S05003-04",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.875,
+                  "y": 43.4493,
+                  "width": 8.3125,
+                  "height": 0.5629
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 3.0m-Openness 3%-520gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 3.0m-Openness 3%-520gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.125,
+                  "y": 42.6305,
+                  "width": 21.75,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 540.0,
+            "unit": "m2",
+            "raw_text": "540.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.75,
+                  "y": 43.2958,
+                  "width": 4.875,
+                  "height": 0.87
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 6,
+            "unit": "package",
+            "raw_text": "6",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.875,
+                  "y": 43.5005,
+                  "width": 1.3125,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 316.8,
+            "unit": "kg",
+            "raw_text": "316.80",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.625,
+                  "y": 43.347,
+                  "width": 5.0,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 280.8,
+            "unit": "kg",
+            "raw_text": "280.80",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.375,
+                  "y": 43.347,
+                  "width": 4.9375,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "2.5-S05003-05",
+            "unit": null,
+            "raw_text": "2.5-S05003-05",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.9375,
+                  "y": 47.4923,
+                  "width": 8.125,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.1875,
+                  "y": 46.7758,
+                  "width": 21.75,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 270.0,
+            "unit": "m2",
+            "raw_text": "270.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.75,
+                  "y": 47.4411,
+                  "width": 4.875,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 3,
+            "unit": "package",
+            "raw_text": "3",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.875,
+                  "y": 47.39,
+                  "width": 1.375,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 145.56,
+            "unit": "kg",
+            "raw_text": "145.56",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.75,
+                  "y": 47.39,
+                  "width": 4.75,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 115.56,
+            "unit": "kg",
+            "raw_text": "115.56",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.5,
+                  "y": 47.4411,
+                  "width": 4.875,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "2.5-S05003-06",
+            "unit": null,
+            "raw_text": "2.5-S05003-06",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 36.0,
+                  "y": 51.4841,
+                  "width": 8.375,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.25,
+                  "y": 50.6653,
+                  "width": 21.6875,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 864.0,
+            "unit": "m2",
+            "raw_text": "864.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.8125,
+                  "y": 51.433,
+                  "width": 4.875,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 9,
+            "unit": "package",
+            "raw_text": "9",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.8125,
+                  "y": 51.4841,
+                  "width": 1.25,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 426.96,
+            "unit": "kg",
+            "raw_text": "426.96",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.6875,
+                  "y": 51.3818,
+                  "width": 4.875,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 336.96,
+            "unit": "kg",
+            "raw_text": "336.96",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.5625,
+                  "y": 51.3818,
+                  "width": 4.9375,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "2.5-S05003-07",
+            "unit": null,
+            "raw_text": "2.5-S05003-07",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.875,
+                  "y": 55.4759,
+                  "width": 8.5,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.125,
+                  "y": 54.7595,
+                  "width": 21.8125,
+                  "height": 0.6141
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 425.0,
+            "unit": "m2",
+            "raw_text": "425.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.8125,
+                  "y": 55.4248,
+                  "width": 4.875,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 5,
+            "unit": "package",
+            "raw_text": "5",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.6875,
+                  "y": 55.4248,
+                  "width": 1.625,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 195.75,
+            "unit": "kg",
+            "raw_text": "195.75",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.5625,
+                  "y": 55.4759,
+                  "width": 4.9375,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 165.75,
+            "unit": "kg",
+            "raw_text": "165.75",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.4375,
+                  "y": 55.4759,
+                  "width": 4.875,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "2.5-S05003-08",
+            "unit": null,
+            "raw_text": "2.5-S05003-08",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.875,
+                  "y": 59.3654,
+                  "width": 8.5,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.125,
+                  "y": 58.7001,
+                  "width": 21.8125,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 362.5,
+            "unit": "m2",
+            "raw_text": "362.50",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.8125,
+                  "y": 59.4678,
+                  "width": 4.875,
+                  "height": 0.7677
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 5,
+            "unit": "package",
+            "raw_text": "5",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.6875,
+                  "y": 59.4166,
+                  "width": 1.625,
+                  "height": 0.8188
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 185.15,
+            "unit": "kg",
+            "raw_text": "185.15",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.625,
+                  "y": 59.4678,
+                  "width": 5.0625,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 155.15,
+            "unit": "kg",
+            "raw_text": "155.15",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.5,
+                  "y": 59.4678,
+                  "width": 5.0,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "3.0-S05003-09",
+            "unit": null,
+            "raw_text": "3.0-S05003-09",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.8125,
+                  "y": 63.4084,
+                  "width": 8.5,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Sunscreen Fabric 3.0m-Openness 6%-430gsm",
+            "unit": null,
+            "raw_text": "Sunscreen Fabric 3.0m-Openness 6%-430gsm",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 9.125,
+                  "y": 62.7431,
+                  "width": 21.8125,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 480.0,
+            "unit": "m2",
+            "raw_text": "480.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 62.8125,
+                  "y": 63.4596,
+                  "width": 4.875,
+                  "height": 0.7165
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 5,
+            "unit": "package",
+            "raw_text": "5",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 49.625,
+                  "y": 63.4596,
+                  "width": 1.6875,
+                  "height": 0.87
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 256.4,
+            "unit": "kg",
+            "raw_text": "256.40",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 82.6875,
+                  "y": 63.5107,
+                  "width": 4.6875,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 206.4,
+            "unit": "kg",
+            "raw_text": "206.40",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl05_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 72.4375,
+                  "y": 63.5107,
+                  "width": 4.875,
+                  "height": 0.6653
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 42,
+          "unit": "package",
+          "raw_text": "42",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.4375,
+                "y": 66.9396,
+                "width": 2.25,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 42,
+          "unit": "package",
+          "raw_text": "42",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.4375,
+                "y": 66.9396,
+                "width": 2.25,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 1924.72,
+          "unit": "kg",
+          "raw_text": "1924.72",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.1875,
+                "y": 66.8884,
+                "width": 5.625,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 1596.72,
+          "unit": "kg",
+          "raw_text": "1596.72",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.1875,
+                "y": 66.9396,
+                "width": 5.5,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": 4.627,
+          "unit": "m3",
+          "raw_text": "4.627",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 92.1875,
+                "y": 67.042,
+                "width": 3.8125,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "total_customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": "Cobalt Industrial Trading Ltd.",
+        "unit": null,
+        "raw_text": "Cobalt Industrial Trading Ltd.",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 50.125,
+              "y": 1.74,
+              "width": 35.6875,
+              "height": 1.1771
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 60.6875,
+              "y": 4.9642,
+              "width": 21.25,
+              "height": 0.6653
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "23 Meridian Road, Ningbo, China",
+        "unit": null,
+        "raw_text": "23 Meridian Road, Ningbo, China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 60.6875,
+              "y": 4.9642,
+              "width": 21.25,
+              "height": 0.6653
+            }
+          }
+        ]
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": "Cobalt Technical Supply LLC",
+        "unit": null,
+        "raw_text": "Cobalt Technical Supply LLC",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 1.5,
+              "y": 19.4985,
+              "width": 21.25,
+              "height": 0.7677
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "Kazakhstan",
+        "unit": null,
+        "raw_text": "Kazakhstan",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 1.5,
+              "y": 21.2385,
+              "width": 25.1875,
+              "height": 0.7677
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "43 Harbor Avenue, Almaty, Kazakhstan",
+        "unit": null,
+        "raw_text": "43 Harbor Avenue, Almaty, Kazakhstan",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 1.5,
+              "y": 21.2385,
+              "width": 25.1875,
+              "height": 0.7677
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "item_article": {
+          "value": "2.5-S05003-01",
+          "unit": null,
+          "raw_text": "2.5-S05003-01",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.875,
+                "y": 31.4227,
+                "width": 8.5,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 2.5m-Openness 3%-520gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 2.5m-Openness 3%-520gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.0625,
+                "y": 30.7062,
+                "width": 21.9375,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 362.5,
+          "unit": "m2",
+          "raw_text": "362.50",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.75,
+                "y": 31.3715,
+                "width": 4.8125,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "package",
+          "raw_text": "5",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.6875,
+                "y": 31.3715,
+                "width": 1.5,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 218.5,
+          "unit": "kg",
+          "raw_text": "218.50",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.625,
+                "y": 31.3204,
+                "width": 4.9375,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 188.5,
+          "unit": "kg",
+          "raw_text": "188.50",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.4375,
+                "y": 31.3715,
+                "width": 4.875,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "3.0-S05003-02",
+          "unit": null,
+          "raw_text": "3.0-S05003-02",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.8125,
+                "y": 35.4145,
+                "width": 8.3125,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 3.0m-Openness 5%-390gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 3.0m-Openness 5%-390gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.125,
+                "y": 34.6469,
+                "width": 21.8125,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 180.0,
+          "unit": "m2",
+          "raw_text": "180.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.75,
+                "y": 35.3634,
+                "width": 4.875,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "package",
+          "raw_text": "2",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.75,
+                "y": 35.261,
+                "width": 1.625,
+                "height": 0.9724
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 82.2,
+          "unit": "kg",
+          "raw_text": "82.20",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 83.0625,
+                "y": 35.4145,
+                "width": 4.125,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 70.2,
+          "unit": "kg",
+          "raw_text": "70.20",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.875,
+                "y": 35.3634,
+                "width": 4.1875,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "3.0-S05003-03",
+          "unit": null,
+          "raw_text": "3.0-S05003-03",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.875,
+                "y": 39.4063,
+                "width": 8.1875,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 3.0m-Openness 5%-430gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 3.0m-Openness 5%-430gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.0625,
+                "y": 38.6387,
+                "width": 21.75,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 180.0,
+          "unit": "m2",
+          "raw_text": "180.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.75,
+                "y": 39.3552,
+                "width": 4.9375,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "package",
+          "raw_text": "2",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.8125,
+                "y": 39.3552,
+                "width": 1.4375,
+                "height": 0.87
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 97.4,
+          "unit": "kg",
+          "raw_text": "97.40",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 83.0,
+                "y": 39.3552,
+                "width": 4.125,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 77.4,
+          "unit": "kg",
+          "raw_text": "77.40",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.875,
+                "y": 39.3552,
+                "width": 4.125,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "3.0-S05003-04",
+          "unit": null,
+          "raw_text": "3.0-S05003-04",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.875,
+                "y": 43.4493,
+                "width": 8.3125,
+                "height": 0.5629
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 3.0m-Openness 3%-520gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 3.0m-Openness 3%-520gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.125,
+                "y": 42.6305,
+                "width": 21.75,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 540.0,
+          "unit": "m2",
+          "raw_text": "540.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.75,
+                "y": 43.2958,
+                "width": 4.875,
+                "height": 0.87
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 6,
+          "unit": "package",
+          "raw_text": "6",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.875,
+                "y": 43.5005,
+                "width": 1.3125,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 316.8,
+          "unit": "kg",
+          "raw_text": "316.80",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.625,
+                "y": 43.347,
+                "width": 5.0,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 280.8,
+          "unit": "kg",
+          "raw_text": "280.80",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.375,
+                "y": 43.347,
+                "width": 4.9375,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "2.5-S05003-05",
+          "unit": null,
+          "raw_text": "2.5-S05003-05",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.9375,
+                "y": 47.4923,
+                "width": 8.125,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.1875,
+                "y": 46.7758,
+                "width": 21.75,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 270.0,
+          "unit": "m2",
+          "raw_text": "270.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.75,
+                "y": 47.4411,
+                "width": 4.875,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package",
+          "raw_text": "3",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.875,
+                "y": 47.39,
+                "width": 1.375,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 145.56,
+          "unit": "kg",
+          "raw_text": "145.56",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.75,
+                "y": 47.39,
+                "width": 4.75,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 115.56,
+          "unit": "kg",
+          "raw_text": "115.56",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.5,
+                "y": 47.4411,
+                "width": 4.875,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "2.5-S05003-06",
+          "unit": null,
+          "raw_text": "2.5-S05003-06",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.0,
+                "y": 51.4841,
+                "width": 8.375,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.25,
+                "y": 50.6653,
+                "width": 21.6875,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 864.0,
+          "unit": "m2",
+          "raw_text": "864.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.8125,
+                "y": 51.433,
+                "width": 4.875,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 9,
+          "unit": "package",
+          "raw_text": "9",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.8125,
+                "y": 51.4841,
+                "width": 1.25,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 426.96,
+          "unit": "kg",
+          "raw_text": "426.96",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.6875,
+                "y": 51.3818,
+                "width": 4.875,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 336.96,
+          "unit": "kg",
+          "raw_text": "336.96",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.5625,
+                "y": 51.3818,
+                "width": 4.9375,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "2.5-S05003-07",
+          "unit": null,
+          "raw_text": "2.5-S05003-07",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.875,
+                "y": 55.4759,
+                "width": 8.5,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 2.5m-Openness 3%-390gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.125,
+                "y": 54.7595,
+                "width": 21.8125,
+                "height": 0.6141
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 425.0,
+          "unit": "m2",
+          "raw_text": "425.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.8125,
+                "y": 55.4248,
+                "width": 4.875,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "package",
+          "raw_text": "5",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.6875,
+                "y": 55.4248,
+                "width": 1.625,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 195.75,
+          "unit": "kg",
+          "raw_text": "195.75",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.5625,
+                "y": 55.4759,
+                "width": 4.9375,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 165.75,
+          "unit": "kg",
+          "raw_text": "165.75",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.4375,
+                "y": 55.4759,
+                "width": 4.875,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "2.5-S05003-08",
+          "unit": null,
+          "raw_text": "2.5-S05003-08",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.875,
+                "y": 59.3654,
+                "width": 8.5,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 2.5m-Openness 6%-428gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.125,
+                "y": 58.7001,
+                "width": 21.8125,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 362.5,
+          "unit": "m2",
+          "raw_text": "362.50",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.8125,
+                "y": 59.4678,
+                "width": 4.875,
+                "height": 0.7677
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "package",
+          "raw_text": "5",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.6875,
+                "y": 59.4166,
+                "width": 1.625,
+                "height": 0.8188
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 185.15,
+          "unit": "kg",
+          "raw_text": "185.15",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.625,
+                "y": 59.4678,
+                "width": 5.0625,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 155.15,
+          "unit": "kg",
+          "raw_text": "155.15",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.5,
+                "y": 59.4678,
+                "width": 5.0,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "3.0-S05003-09",
+          "unit": null,
+          "raw_text": "3.0-S05003-09",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.8125,
+                "y": 63.4084,
+                "width": 8.5,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Sunscreen Fabric 3.0m-Openness 6%-430gsm",
+          "unit": null,
+          "raw_text": "Sunscreen Fabric 3.0m-Openness 6%-430gsm",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 9.125,
+                "y": 62.7431,
+                "width": 21.8125,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 480.0,
+          "unit": "m2",
+          "raw_text": "480.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 62.8125,
+                "y": 63.4596,
+                "width": 4.875,
+                "height": 0.7165
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "package",
+          "raw_text": "5",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.625,
+                "y": 63.4596,
+                "width": 1.6875,
+                "height": 0.87
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 256.4,
+          "unit": "kg",
+          "raw_text": "256.40",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 82.6875,
+                "y": 63.5107,
+                "width": 4.6875,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 206.4,
+          "unit": "kg",
+          "raw_text": "206.40",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl05_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 72.4375,
+                "y": 63.5107,
+                "width": 4.875,
+                "height": 0.6653
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 42,
+        "unit": "package",
+        "raw_text": "42",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 49.4375,
+              "y": 66.9396,
+              "width": 2.25,
+              "height": 0.7165
+            }
+          }
+        ]
+      },
+      "total_packages": {
+        "value": 42,
+        "unit": "package",
+        "raw_text": "42",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 49.4375,
+              "y": 66.9396,
+              "width": 2.25,
+              "height": 0.7165
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 1924.72,
+        "unit": "kg",
+        "raw_text": "1924.72",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 82.1875,
+              "y": 66.8884,
+              "width": 5.625,
+              "height": 0.8188
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 1596.72,
+        "unit": "kg",
+        "raw_text": "1596.72",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 72.1875,
+              "y": 66.9396,
+              "width": 5.5,
+              "height": 0.7165
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": 4.627,
+        "unit": "m3",
+        "raw_text": "4.627",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl05_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 92.1875,
+              "y": 67.042,
+              "width": 3.8125,
+              "height": 0.6141
+            }
+          }
+        ]
+      },
+      "total_customs_value": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      }
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": true,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "total_customs_value",
+    "currency"
+  ]
+}

@@ -7,304 +7,384 @@
         "item_article": "PA11085BM_R",
         "item_description": "Форма для куличей PANETTONE 110*85H MOSAIC, шт",
         "item_quantity": {
-          "value": 11000
+          "value": 11000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2200
+          "value": 2200,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 5
+          "value": 5,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 80
+          "value": 80,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 55
+          "value": 55,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA11085R_R",
         "item_description": "Форма для куличей PANETTONE 110*85 AN, шт",
         "item_quantity": {
-          "value": 290400
+          "value": 290400,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2200
+          "value": 2200,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 132
+          "value": 132,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 1647.8
+          "value": 1647.8,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 1372.8
+          "value": 1372.8,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA11085RO_R",
         "item_description": "Форма для куличей PANETTONE 110*85H ROSE, шт",
         "item_quantity": {
-          "value": 8800
+          "value": 8800,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2200
+          "value": 2200,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 4
+          "value": 4,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 44
+          "value": 44,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 44
+          "value": 44,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA13495BM_R",
         "item_description": "Форма для куличей PANETTONE 134*95 MOSAIC, шт",
         "item_quantity": {
-          "value": 24000
+          "value": 24000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 1500
+          "value": 1500,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 16
+          "value": 16,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 176
+          "value": 176,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 176
+          "value": 176,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA13495COL2ROB_R",
         "item_description": "Форма для куличей PANETTONE 134*95 HOLOMA BROWN, шт",
         "item_quantity": {
-          "value": 4500
+          "value": 4500,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 1500
+          "value": 1500,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 3
+          "value": 3,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 33
+          "value": 33,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 33
+          "value": 33,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA13495FLO_R",
         "item_description": "Форма для куличей PANETTONE 134*95H FLOWERS, шт",
         "item_quantity": {
-          "value": 25500
+          "value": 25500,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 1500
+          "value": 1500,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 17
+          "value": 17,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 237
+          "value": 237,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 187
+          "value": 187,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA13495PEG/2_R",
         "item_description": "Форма для куличей PANETTONE 134*95H PEG, шт",
         "item_quantity": {
-          "value": 67500
+          "value": 67500,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 1500
+          "value": 1500,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 45
+          "value": 45,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 601.5
+          "value": 601.5,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 526.5
+          "value": 526.5,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA13495R_R",
         "item_description": "Форма для куличей PANETTONE 134*95 AN, шт",
         "item_quantity": {
-          "value": 94500
+          "value": 94500,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 1500
+          "value": 1500,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 63
+          "value": 63,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 881
+          "value": 881,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 756
+          "value": 756,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA7060COL2ROB_R",
         "item_description": "Форма для куличей PANETTONCINO 70*60H, шт",
         "item_quantity": {
-          "value": 10000
+          "value": 10000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2000
+          "value": 2000,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 5
+          "value": 5,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 23
+          "value": 23,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 23
+          "value": 23,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA7060K_R",
         "item_description": "Форма для куличей PANETTONE 70*60 KREMLIN, шт",
         "item_quantity": {
-          "value": 138000
+          "value": 138000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2000
+          "value": 2000,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 69
+          "value": 69,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 464
+          "value": 464,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 414
+          "value": 414,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA7060R_R",
         "item_description": "Форма для куличей PANETTONE 70*60, шт",
         "item_quantity": {
-          "value": 12000
+          "value": 12000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2000
+          "value": 2000,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 6
+          "value": 6,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 27
+          "value": 27,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 27
+          "value": 27,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA7085COL2ROB_R",
         "item_description": "Форма для куличей PANETTONCINO 70*85H, шт",
         "item_quantity": {
-          "value": 18000
+          "value": 18000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 3000
+          "value": 3000,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 6
+          "value": 6,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 51.6
+          "value": 51.6,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 51.6
+          "value": 51.6,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA7085R_R",
         "item_description": "Форма для куличей PANETTONE 70*85 AN, шт",
         "item_quantity": {
-          "value": 231000
+          "value": 231000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 3000
+          "value": 3000,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 77
+          "value": 77,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 744.9
+          "value": 744.9,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 669.9
+          "value": 669.9,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA9090FLO_R",
         "item_description": "Форма для куличей PANETTONE 90*90 FLOWERS, шт",
         "item_quantity": {
-          "value": 12000
+          "value": 12000,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2400
+          "value": 2400,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 5
+          "value": 5,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 45
+          "value": 45,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 45
+          "value": 45,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA9090R_R",
         "item_description": "90*90 AN, шт",
         "item_quantity": {
-          "value": 69600
+          "value": 69600,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2400
+          "value": 2400,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 29
+          "value": 29,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 311
+          "value": 311,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 261
+          "value": 261,
+          "unit": "kg"
         }
       },
       {
         "item_article": "PA9090RB_R",
         "item_description": "Форма для куличей PANETTONE",
         "item_quantity": {
-          "value": 4800
+          "value": 4800,
+          "unit": "pcs"
         },
         "item_units_per_box": {
-          "value": 2400
+          "value": 2400,
+          "unit": "pcs/box"
         },
         "item_boxes_count": {
-          "value": 2
+          "value": 2,
+          "unit": "box"
         },
         "item_gross_weight": {
-          "value": 17.4
+          "value": 17.4,
+          "unit": "kg"
         },
         "item_net_weight": {
-          "value": 17.4
+          "value": 17.4,
+          "unit": "kg"
         }
       }
     ],

@@ -35,3 +35,4 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+research/reports/.mpl-cache/

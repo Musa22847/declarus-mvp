@@ -1,0 +1,1758 @@
+{
+  "/batch_id": "tpl06_001",
+  "documents": [
+    {
+      "document_id": "tpl06_001.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "Aster Industrial Trading Ltd.",
+          "unit": null,
+          "raw_text": "Aster Industrial Trading Ltd.",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 75.1875,
+                "y": 2.8571,
+                "width": 17.1875,
+                "height": 0.7283
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 75.25,
+                "y": 5.2101,
+                "width": 20.25,
+                "height": 0.7843
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "21 Meridian Road, Ningbo, China",
+          "unit": null,
+          "raw_text": "21 Meridian Road, Ningbo, China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 75.25,
+                "y": 5.2101,
+                "width": 20.25,
+                "height": 0.7843
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Aster Technical Supply LLC",
+          "unit": null,
+          "raw_text": "Aster Technical Supply LLC",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.625,
+                "y": 33.3333,
+                "width": 28.5,
+                "height": 1.1204
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "Kazakhstan",
+          "unit": null,
+          "raw_text": "Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 18.75,
+                "y": 35.6863,
+                "width": 25.875,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "41 Harbor Avenue, Almaty, Kazakhstan",
+          "unit": null,
+          "raw_text": "41 Harbor Avenue, Almaty, Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 18.75,
+                "y": 35.6863,
+                "width": 25.875,
+                "height": 0.8403
+              }
+            }
+          ]
+        }
+      },
+      "document_date": {
+        "value": "2026-10-11",
+        "unit": null,
+        "raw_text": "2026-10-11",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 66.375,
+              "y": 27.1148,
+              "width": 11.875,
+              "height": 0.7843
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-06001-INV",
+        "unit": null,
+        "raw_text": "SYN-06001-INV",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 66.8125,
+              "y": 22.6891,
+              "width": 14.625,
+              "height": 0.8403
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 66.375,
+              "y": 29.4118,
+              "width": 15.25,
+              "height": 0.7283
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "RFID identification tags 13.56 MHz",
+            "unit": null,
+            "raw_text": "RFID identification tags 13.56 MHz",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 10.0,
+                  "y": 51.8768,
+                  "width": 21.5,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 4500.0,
+            "unit": "pcs",
+            "raw_text": "4500.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 34.75,
+                  "y": 52.605,
+                  "width": 6.1875,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": {
+            "value": 2.0,
+            "unit": "box",
+            "raw_text": "2.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 45.625,
+                  "y": 52.605,
+                  "width": 3.75,
+                  "height": 0.8964
+                }
+              }
+            ]
+          },
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "RFID identification tags 125 kHz",
+            "unit": null,
+            "raw_text": "RFID identification tags 125 kHz",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 10.875,
+                  "y": 55.8543,
+                  "width": 19.75,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 4900.0,
+            "unit": "pcs",
+            "raw_text": "4900.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 34.6875,
+                  "y": 56.5266,
+                  "width": 6.125,
+                  "height": 0.8964
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": {
+            "value": 3.0,
+            "unit": "box",
+            "raw_text": "3.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 45.75,
+                  "y": 56.5826,
+                  "width": 3.75,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Desktop RFID reader USB",
+            "unit": null,
+            "raw_text": "Desktop RFID reader USB",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 12.5,
+                  "y": 59.8319,
+                  "width": 16.25,
+                  "height": 0.7843
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 72.0,
+            "unit": "pcs",
+            "raw_text": "72.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.625,
+                  "y": 60.5602,
+                  "width": 4.3125,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Handheld RFID reader Bluetooth",
+            "unit": null,
+            "raw_text": "Handheld RFID reader Bluetooth",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 10.75,
+                  "y": 63.8095,
+                  "width": 19.875,
+                  "height": 0.7843
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 73.0,
+            "unit": "pcs",
+            "raw_text": "73.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.5625,
+                  "y": 64.5378,
+                  "width": 4.375,
+                  "height": 0.7843
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Tag mounting bracket",
+            "unit": null,
+            "raw_text": "Tag mounting bracket",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.0,
+                  "y": 68.0112,
+                  "width": 13.375,
+                  "height": 0.6162
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 79.0,
+            "unit": "pcs",
+            "raw_text": "79.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.625,
+                  "y": 68.5154,
+                  "width": 4.25,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Bracket fastening pin",
+            "unit": null,
+            "raw_text": "Bracket fastening pin",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.0625,
+                  "y": 71.8768,
+                  "width": 13.1875,
+                  "height": 0.7283
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 65.0,
+            "unit": "pcs",
+            "raw_text": "65.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.5,
+                  "y": 72.493,
+                  "width": 4.375,
+                  "height": 0.9524
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 9689.0,
+          "unit": "pcs",
+          "raw_text": "9689.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 34.75,
+                "y": 76.8067,
+                "width": 5.875,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 6.0,
+          "unit": "box",
+          "raw_text": "6 CTNS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.75,
+                "y": 82.9692,
+                "width": 32.0625,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 131.906,
+          "unit": "kg",
+          "raw_text": "131.906 KGS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.75,
+                "y": 85.2661,
+                "width": 25.625,
+                "height": 1.0084
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 104.468,
+          "unit": "kg",
+          "raw_text": "104.468 KGS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.6875,
+                "y": 87.507,
+                "width": 25.4375,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": 1.361,
+          "unit": "m3",
+          "raw_text": "1.361 CBM",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.625,
+                "y": 89.8039,
+                "width": 22.9375,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "total_customs_value": null
+      }
+    },
+    {
+      "document_id": "tpl06_001.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "Aster Industrial Trading Ltd.",
+          "unit": null,
+          "raw_text": "Aster Industrial Trading Ltd.",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 75.1875,
+                "y": 2.8571,
+                "width": 17.1875,
+                "height": 0.7283
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 75.25,
+                "y": 5.2101,
+                "width": 20.25,
+                "height": 0.7843
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "21 Meridian Road, Ningbo, China",
+          "unit": null,
+          "raw_text": "21 Meridian Road, Ningbo, China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 75.25,
+                "y": 5.2101,
+                "width": 20.25,
+                "height": 0.7843
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Aster Technical Supply LLC",
+          "unit": null,
+          "raw_text": "Aster Technical Supply LLC",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.625,
+                "y": 33.3333,
+                "width": 28.5,
+                "height": 1.1204
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "Kazakhstan",
+          "unit": null,
+          "raw_text": "Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 18.75,
+                "y": 35.6863,
+                "width": 25.875,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "41 Harbor Avenue, Almaty, Kazakhstan",
+          "unit": null,
+          "raw_text": "41 Harbor Avenue, Almaty, Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 18.75,
+                "y": 35.6863,
+                "width": 25.875,
+                "height": 0.8403
+              }
+            }
+          ]
+        }
+      },
+      "document_date": {
+        "value": "2026-10-11",
+        "unit": null,
+        "raw_text": "2026-10-11",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 66.375,
+              "y": 27.1148,
+              "width": 11.875,
+              "height": 0.7843
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-06001-INV",
+        "unit": null,
+        "raw_text": "SYN-06001-INV",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 66.8125,
+              "y": 22.6891,
+              "width": 14.625,
+              "height": 0.8403
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 66.375,
+              "y": 29.4118,
+              "width": 15.25,
+              "height": 0.7283
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "RFID identification tags 13.56 MHz",
+            "unit": null,
+            "raw_text": "RFID identification tags 13.56 MHz",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 10.0,
+                  "y": 51.8768,
+                  "width": 21.5,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 4500.0,
+            "unit": "pcs",
+            "raw_text": "4500.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 34.75,
+                  "y": 52.605,
+                  "width": 6.1875,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": {
+            "value": 2.0,
+            "unit": "box",
+            "raw_text": "2.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 45.625,
+                  "y": 52.605,
+                  "width": 3.75,
+                  "height": 0.8964
+                }
+              }
+            ]
+          },
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "RFID identification tags 125 kHz",
+            "unit": null,
+            "raw_text": "RFID identification tags 125 kHz",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 10.875,
+                  "y": 55.8543,
+                  "width": 19.75,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 4900.0,
+            "unit": "pcs",
+            "raw_text": "4900.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 34.6875,
+                  "y": 56.5266,
+                  "width": 6.125,
+                  "height": 0.8964
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": {
+            "value": 3.0,
+            "unit": "box",
+            "raw_text": "3.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 45.75,
+                  "y": 56.5826,
+                  "width": 3.75,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Desktop RFID reader USB",
+            "unit": null,
+            "raw_text": "Desktop RFID reader USB",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 12.5,
+                  "y": 59.8319,
+                  "width": 16.25,
+                  "height": 0.7843
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 72.0,
+            "unit": "pcs",
+            "raw_text": "72.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.625,
+                  "y": 60.5602,
+                  "width": 4.3125,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Handheld RFID reader Bluetooth",
+            "unit": null,
+            "raw_text": "Handheld RFID reader Bluetooth",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 10.75,
+                  "y": 63.8095,
+                  "width": 19.875,
+                  "height": 0.7843
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 73.0,
+            "unit": "pcs",
+            "raw_text": "73.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.5625,
+                  "y": 64.5378,
+                  "width": 4.375,
+                  "height": 0.7843
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Tag mounting bracket",
+            "unit": null,
+            "raw_text": "Tag mounting bracket",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.0,
+                  "y": 68.0112,
+                  "width": 13.375,
+                  "height": 0.6162
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 79.0,
+            "unit": "pcs",
+            "raw_text": "79.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.625,
+                  "y": 68.5154,
+                  "width": 4.25,
+                  "height": 0.8403
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        },
+        {
+          "item_article": null,
+          "item_description": {
+            "value": "Bracket fastening pin",
+            "unit": null,
+            "raw_text": "Bracket fastening pin",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.0625,
+                  "y": 71.8768,
+                  "width": 13.1875,
+                  "height": 0.7283
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 65.0,
+            "unit": "pcs",
+            "raw_text": "65.000",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl06_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 35.5,
+                  "y": 72.493,
+                  "width": 4.375,
+                  "height": 0.9524
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": null,
+          "gross_weight": null,
+          "net_weight": null,
+          "customs_value": null,
+          "currency": null
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 9689.0,
+          "unit": "pcs",
+          "raw_text": "9689.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 34.75,
+                "y": 76.8067,
+                "width": 5.875,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 6.0,
+          "unit": "box",
+          "raw_text": "6 CTNS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.75,
+                "y": 82.9692,
+                "width": 32.0625,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 131.906,
+          "unit": "kg",
+          "raw_text": "131.906 KGS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.75,
+                "y": 85.2661,
+                "width": 25.625,
+                "height": 1.0084
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 104.468,
+          "unit": "kg",
+          "raw_text": "104.468 KGS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.6875,
+                "y": 87.507,
+                "width": 25.4375,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": 1.361,
+          "unit": "m3",
+          "raw_text": "1.361 CBM",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.625,
+                "y": 89.8039,
+                "width": 22.9375,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "total_customs_value": null
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": "Aster Industrial Trading Ltd.",
+        "unit": null,
+        "raw_text": "Aster Industrial Trading Ltd.",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.1875,
+              "y": 2.8571,
+              "width": 17.1875,
+              "height": 0.7283
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.25,
+              "y": 5.2101,
+              "width": 20.25,
+              "height": 0.7843
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "21 Meridian Road, Ningbo, China",
+        "unit": null,
+        "raw_text": "21 Meridian Road, Ningbo, China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.25,
+              "y": 5.2101,
+              "width": 20.25,
+              "height": 0.7843
+            }
+          }
+        ]
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": "Aster Technical Supply LLC",
+        "unit": null,
+        "raw_text": "Aster Technical Supply LLC",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.625,
+              "y": 33.3333,
+              "width": 28.5,
+              "height": 1.1204
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "Kazakhstan",
+        "unit": null,
+        "raw_text": "Kazakhstan",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 18.75,
+              "y": 35.6863,
+              "width": 25.875,
+              "height": 0.8403
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "41 Harbor Avenue, Almaty, Kazakhstan",
+        "unit": null,
+        "raw_text": "41 Harbor Avenue, Almaty, Kazakhstan",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 18.75,
+              "y": 35.6863,
+              "width": 25.875,
+              "height": 0.8403
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "item_article": null,
+        "item_description": {
+          "value": "RFID identification tags 13.56 MHz",
+          "unit": null,
+          "raw_text": "RFID identification tags 13.56 MHz",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 10.0,
+                "y": 51.8768,
+                "width": 21.5,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 4500.0,
+          "unit": "pcs",
+          "raw_text": "4500.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 34.75,
+                "y": 52.605,
+                "width": 6.1875,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": {
+          "value": 2.0,
+          "unit": "box",
+          "raw_text": "2.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 45.625,
+                "y": 52.605,
+                "width": 3.75,
+                "height": 0.8964
+              }
+            }
+          ]
+        },
+        "gross_weight": null,
+        "net_weight": null,
+        "customs_value": null,
+        "currency": null
+      },
+      {
+        "item_article": null,
+        "item_description": {
+          "value": "RFID identification tags 125 kHz",
+          "unit": null,
+          "raw_text": "RFID identification tags 125 kHz",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 10.875,
+                "y": 55.8543,
+                "width": 19.75,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 4900.0,
+          "unit": "pcs",
+          "raw_text": "4900.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 34.6875,
+                "y": 56.5266,
+                "width": 6.125,
+                "height": 0.8964
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": {
+          "value": 3.0,
+          "unit": "box",
+          "raw_text": "3.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 45.75,
+                "y": 56.5826,
+                "width": 3.75,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "gross_weight": null,
+        "net_weight": null,
+        "customs_value": null,
+        "currency": null
+      },
+      {
+        "item_article": null,
+        "item_description": {
+          "value": "Desktop RFID reader USB",
+          "unit": null,
+          "raw_text": "Desktop RFID reader USB",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 12.5,
+                "y": 59.8319,
+                "width": 16.25,
+                "height": 0.7843
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 72.0,
+          "unit": "pcs",
+          "raw_text": "72.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.625,
+                "y": 60.5602,
+                "width": 4.3125,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": null,
+        "gross_weight": null,
+        "net_weight": null,
+        "customs_value": null,
+        "currency": null
+      },
+      {
+        "item_article": null,
+        "item_description": {
+          "value": "Handheld RFID reader Bluetooth",
+          "unit": null,
+          "raw_text": "Handheld RFID reader Bluetooth",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 10.75,
+                "y": 63.8095,
+                "width": 19.875,
+                "height": 0.7843
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 73.0,
+          "unit": "pcs",
+          "raw_text": "73.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.5625,
+                "y": 64.5378,
+                "width": 4.375,
+                "height": 0.7843
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": null,
+        "gross_weight": null,
+        "net_weight": null,
+        "customs_value": null,
+        "currency": null
+      },
+      {
+        "item_article": null,
+        "item_description": {
+          "value": "Tag mounting bracket",
+          "unit": null,
+          "raw_text": "Tag mounting bracket",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.0,
+                "y": 68.0112,
+                "width": 13.375,
+                "height": 0.6162
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 79.0,
+          "unit": "pcs",
+          "raw_text": "79.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.625,
+                "y": 68.5154,
+                "width": 4.25,
+                "height": 0.8403
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": null,
+        "gross_weight": null,
+        "net_weight": null,
+        "customs_value": null,
+        "currency": null
+      },
+      {
+        "item_article": null,
+        "item_description": {
+          "value": "Bracket fastening pin",
+          "unit": null,
+          "raw_text": "Bracket fastening pin",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.0625,
+                "y": 71.8768,
+                "width": 13.1875,
+                "height": 0.7283
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 65.0,
+          "unit": "pcs",
+          "raw_text": "65.000",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl06_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.5,
+                "y": 72.493,
+                "width": 4.375,
+                "height": 0.9524
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": null,
+        "gross_weight": null,
+        "net_weight": null,
+        "customs_value": null,
+        "currency": null
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 9689.0,
+        "unit": "pcs",
+        "raw_text": "9689.000",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 34.75,
+              "y": 76.8067,
+              "width": 5.875,
+              "height": 0.8403
+            }
+          }
+        ]
+      },
+      "total_packages": {
+        "value": 6.0,
+        "unit": "box",
+        "raw_text": "6 CTNS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.75,
+              "y": 82.9692,
+              "width": 32.0625,
+              "height": 0.9524
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 131.906,
+        "unit": "kg",
+        "raw_text": "131.906 KGS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.75,
+              "y": 85.2661,
+              "width": 25.625,
+              "height": 1.0084
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 104.468,
+        "unit": "kg",
+        "raw_text": "104.468 KGS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.6875,
+              "y": 87.507,
+              "width": 25.4375,
+              "height": 0.9524
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": 1.361,
+        "unit": "m3",
+        "raw_text": "1.361 CBM",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl06_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.625,
+              "y": 89.8039,
+              "width": 22.9375,
+              "height": 0.9524
+            }
+          }
+        ]
+      },
+      "total_customs_value": null
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": true,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "customs_value",
+    "currency",
+    "item_article",
+    "item_units_per_box",
+    "item_boxes_count",
+    "gross_weight",
+    "net_weight"
+  ]
+}

@@ -1,0 +1,3979 @@
+{
+  "bootstrap_replicates": 20000,
+  "seed": 20261107,
+  "confidence_level": 0.95,
+  "method": "paired document percentile bootstrap; pooled micro-F1 per replicate",
+  "evaluation_sha256": "9a7c62c819108d01d74acaf962eb9888dfdad091cbe635c7afd3b458ee60833b",
+  "results": [
+    {
+      "name": "H1_all_50",
+      "documents": 50,
+      "resampling": "paired_documents",
+      "baseline_f1_percent": 85.57831574591351,
+      "treatment_f1_percent": 95.17498446883413,
+      "delta_f1_pp": 9.59666872292061,
+      "ci95_pp": [
+        5.7284397801346385,
+        13.634969917610684
+      ],
+      "positive_effect_supported": true,
+      "degenerate_distribution": false,
+      "document_counts": [
+        {
+          "id": "tpl01_001",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_002",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_003",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_004",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_005",
+          "baseline_tp_fp_fn": [
+            0,
+            0,
+            23
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_006",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_007",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_008",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_009",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl02_001",
+          "baseline_tp_fp_fn": [
+            103,
+            12,
+            12
+          ],
+          "treatment_tp_fp_fn": [
+            103,
+            12,
+            12
+          ]
+        },
+        {
+          "id": "tpl02_002",
+          "baseline_tp_fp_fn": [
+            104,
+            11,
+            11
+          ],
+          "treatment_tp_fp_fn": [
+            104,
+            11,
+            11
+          ]
+        },
+        {
+          "id": "tpl02_003",
+          "baseline_tp_fp_fn": [
+            110,
+            5,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            110,
+            5,
+            5
+          ]
+        },
+        {
+          "id": "tpl02_004",
+          "baseline_tp_fp_fn": [
+            88,
+            27,
+            27
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_005",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_006",
+          "baseline_tp_fp_fn": [
+            107,
+            8,
+            8
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl02_007",
+          "baseline_tp_fp_fn": [
+            92,
+            23,
+            23
+          ],
+          "treatment_tp_fp_fn": [
+            109,
+            6,
+            6
+          ]
+        },
+        {
+          "id": "tpl02_008",
+          "baseline_tp_fp_fn": [
+            108,
+            7,
+            7
+          ],
+          "treatment_tp_fp_fn": [
+            108,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "tpl02_009",
+          "baseline_tp_fp_fn": [
+            90,
+            25,
+            25
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl03_001",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_002",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_003",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_004",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_005",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_006",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_007",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            0,
+            0,
+            14
+          ]
+        },
+        {
+          "id": "tpl03_008",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl04_001",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            45,
+            2,
+            1
+          ]
+        },
+        {
+          "id": "tpl04_002",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_003",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_004",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_005",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_006",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_007",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_008",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_001",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_002",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_003",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_004",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_005",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_006",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_007",
+          "baseline_tp_fp_fn": [
+            52,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_008",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_001",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_002",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_003",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_004",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_005",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_006",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_007",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_008",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H1_successful_pairs",
+      "documents": 49,
+      "resampling": "paired_documents",
+      "baseline_f1_percent": 85.987525987526,
+      "treatment_f1_percent": 95.12858038887727,
+      "delta_f1_pp": 9.141054401351278,
+      "ci95_pp": [
+        5.254618232482229,
+        13.034315946809906
+      ],
+      "positive_effect_supported": true,
+      "degenerate_distribution": false,
+      "document_counts": [
+        {
+          "id": "tpl01_001",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_002",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_003",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_004",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_006",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_007",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_008",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_009",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl02_001",
+          "baseline_tp_fp_fn": [
+            103,
+            12,
+            12
+          ],
+          "treatment_tp_fp_fn": [
+            103,
+            12,
+            12
+          ]
+        },
+        {
+          "id": "tpl02_002",
+          "baseline_tp_fp_fn": [
+            104,
+            11,
+            11
+          ],
+          "treatment_tp_fp_fn": [
+            104,
+            11,
+            11
+          ]
+        },
+        {
+          "id": "tpl02_003",
+          "baseline_tp_fp_fn": [
+            110,
+            5,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            110,
+            5,
+            5
+          ]
+        },
+        {
+          "id": "tpl02_004",
+          "baseline_tp_fp_fn": [
+            88,
+            27,
+            27
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_005",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_006",
+          "baseline_tp_fp_fn": [
+            107,
+            8,
+            8
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl02_007",
+          "baseline_tp_fp_fn": [
+            92,
+            23,
+            23
+          ],
+          "treatment_tp_fp_fn": [
+            109,
+            6,
+            6
+          ]
+        },
+        {
+          "id": "tpl02_008",
+          "baseline_tp_fp_fn": [
+            108,
+            7,
+            7
+          ],
+          "treatment_tp_fp_fn": [
+            108,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "tpl02_009",
+          "baseline_tp_fp_fn": [
+            90,
+            25,
+            25
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl03_001",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_002",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_003",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_004",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_005",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_006",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_007",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            0,
+            0,
+            14
+          ]
+        },
+        {
+          "id": "tpl03_008",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl04_001",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            45,
+            2,
+            1
+          ]
+        },
+        {
+          "id": "tpl04_002",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_003",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_004",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_005",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_006",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_007",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_008",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_001",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_002",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_003",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_004",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_005",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_006",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_007",
+          "baseline_tp_fp_fn": [
+            52,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_008",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_001",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_002",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_003",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_004",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_005",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_006",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_007",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_008",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H1_stratified",
+      "documents": 50,
+      "resampling": "paired_documents_within_template",
+      "baseline_f1_percent": 85.57831574591351,
+      "treatment_f1_percent": 95.17498446883413,
+      "delta_f1_pp": 9.59666872292061,
+      "ci95_pp": [
+        7.36100583885381,
+        12.025839656180262
+      ],
+      "positive_effect_supported": true,
+      "degenerate_distribution": false,
+      "document_counts": [
+        {
+          "id": "tpl01_001",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_002",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_003",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_004",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_005",
+          "baseline_tp_fp_fn": [
+            0,
+            0,
+            23
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_006",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_007",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_008",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_009",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl02_001",
+          "baseline_tp_fp_fn": [
+            103,
+            12,
+            12
+          ],
+          "treatment_tp_fp_fn": [
+            103,
+            12,
+            12
+          ]
+        },
+        {
+          "id": "tpl02_002",
+          "baseline_tp_fp_fn": [
+            104,
+            11,
+            11
+          ],
+          "treatment_tp_fp_fn": [
+            104,
+            11,
+            11
+          ]
+        },
+        {
+          "id": "tpl02_003",
+          "baseline_tp_fp_fn": [
+            110,
+            5,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            110,
+            5,
+            5
+          ]
+        },
+        {
+          "id": "tpl02_004",
+          "baseline_tp_fp_fn": [
+            88,
+            27,
+            27
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_005",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_006",
+          "baseline_tp_fp_fn": [
+            107,
+            8,
+            8
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl02_007",
+          "baseline_tp_fp_fn": [
+            92,
+            23,
+            23
+          ],
+          "treatment_tp_fp_fn": [
+            109,
+            6,
+            6
+          ]
+        },
+        {
+          "id": "tpl02_008",
+          "baseline_tp_fp_fn": [
+            108,
+            7,
+            7
+          ],
+          "treatment_tp_fp_fn": [
+            108,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "tpl02_009",
+          "baseline_tp_fp_fn": [
+            90,
+            25,
+            25
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl03_001",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_002",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_003",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_004",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_005",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_006",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl03_007",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            0,
+            0,
+            14
+          ]
+        },
+        {
+          "id": "tpl03_008",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            12,
+            2,
+            2
+          ]
+        },
+        {
+          "id": "tpl04_001",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            45,
+            2,
+            1
+          ]
+        },
+        {
+          "id": "tpl04_002",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_003",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_004",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_005",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_006",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_007",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_008",
+          "baseline_tp_fp_fn": [
+            41,
+            11,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            46,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_001",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_002",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_003",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_004",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_005",
+          "baseline_tp_fp_fn": [
+            43,
+            18,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_006",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_007",
+          "baseline_tp_fp_fn": [
+            52,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl05_008",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            62,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_001",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_002",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_003",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_004",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_005",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_006",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_007",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_008",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H2_all_50",
+      "documents": 50,
+      "resampling": "paired_documents",
+      "baseline_f1_percent": 87.55453978807397,
+      "treatment_f1_percent": 85.57831574591351,
+      "delta_f1_pp": -1.976224042160457,
+      "ci95_pp": [
+        -4.498659412017072,
+        0.35454234581065075
+      ],
+      "positive_effect_supported": false,
+      "degenerate_distribution": false,
+      "document_counts": [
+        {
+          "id": "tpl01_001",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_002",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_003",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_004",
+          "baseline_tp_fp_fn": [
+            22,
+            1,
+            1
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_005",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            0,
+            0,
+            23
+          ]
+        },
+        {
+          "id": "tpl01_006",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_007",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_008",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_009",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl02_001",
+          "baseline_tp_fp_fn": [
+            102,
+            13,
+            13
+          ],
+          "treatment_tp_fp_fn": [
+            103,
+            12,
+            12
+          ]
+        },
+        {
+          "id": "tpl02_002",
+          "baseline_tp_fp_fn": [
+            104,
+            11,
+            11
+          ],
+          "treatment_tp_fp_fn": [
+            104,
+            11,
+            11
+          ]
+        },
+        {
+          "id": "tpl02_003",
+          "baseline_tp_fp_fn": [
+            110,
+            5,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            110,
+            5,
+            5
+          ]
+        },
+        {
+          "id": "tpl02_004",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            88,
+            27,
+            27
+          ]
+        },
+        {
+          "id": "tpl02_005",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_006",
+          "baseline_tp_fp_fn": [
+            107,
+            8,
+            8
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl02_007",
+          "baseline_tp_fp_fn": [
+            109,
+            6,
+            6
+          ],
+          "treatment_tp_fp_fn": [
+            92,
+            23,
+            23
+          ]
+        },
+        {
+          "id": "tpl02_008",
+          "baseline_tp_fp_fn": [
+            108,
+            7,
+            7
+          ],
+          "treatment_tp_fp_fn": [
+            108,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "tpl02_009",
+          "baseline_tp_fp_fn": [
+            90,
+            24,
+            25
+          ],
+          "treatment_tp_fp_fn": [
+            90,
+            25,
+            25
+          ]
+        },
+        {
+          "id": "tpl03_001",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_002",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_003",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_004",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_005",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_006",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_007",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_008",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_001",
+          "baseline_tp_fp_fn": [
+            41,
+            2,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_002",
+          "baseline_tp_fp_fn": [
+            41,
+            4,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_003",
+          "baseline_tp_fp_fn": [
+            41,
+            1,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_004",
+          "baseline_tp_fp_fn": [
+            41,
+            2,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_005",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_006",
+          "baseline_tp_fp_fn": [
+            41,
+            1,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            7,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_007",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            7,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_008",
+          "baseline_tp_fp_fn": [
+            41,
+            3,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl05_001",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_002",
+          "baseline_tp_fp_fn": [
+            52,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_003",
+          "baseline_tp_fp_fn": [
+            42,
+            20,
+            20
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_004",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_005",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_006",
+          "baseline_tp_fp_fn": [
+            42,
+            20,
+            20
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_007",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            52,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl05_008",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl06_001",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_002",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_003",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_004",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_005",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_006",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_007",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_008",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H2_successful_pairs",
+      "documents": 49,
+      "resampling": "paired_documents",
+      "baseline_f1_percent": 87.43444514369625,
+      "treatment_f1_percent": 85.987525987526,
+      "delta_f1_pp": -1.4469191561702566,
+      "ci95_pp": [
+        -3.754402933254644,
+        0.6937024154073423
+      ],
+      "positive_effect_supported": false,
+      "degenerate_distribution": false,
+      "document_counts": [
+        {
+          "id": "tpl01_001",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_002",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_003",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_004",
+          "baseline_tp_fp_fn": [
+            22,
+            1,
+            1
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_006",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_007",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_008",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_009",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl02_001",
+          "baseline_tp_fp_fn": [
+            102,
+            13,
+            13
+          ],
+          "treatment_tp_fp_fn": [
+            103,
+            12,
+            12
+          ]
+        },
+        {
+          "id": "tpl02_002",
+          "baseline_tp_fp_fn": [
+            104,
+            11,
+            11
+          ],
+          "treatment_tp_fp_fn": [
+            104,
+            11,
+            11
+          ]
+        },
+        {
+          "id": "tpl02_003",
+          "baseline_tp_fp_fn": [
+            110,
+            5,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            110,
+            5,
+            5
+          ]
+        },
+        {
+          "id": "tpl02_004",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            88,
+            27,
+            27
+          ]
+        },
+        {
+          "id": "tpl02_005",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_006",
+          "baseline_tp_fp_fn": [
+            107,
+            8,
+            8
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl02_007",
+          "baseline_tp_fp_fn": [
+            109,
+            6,
+            6
+          ],
+          "treatment_tp_fp_fn": [
+            92,
+            23,
+            23
+          ]
+        },
+        {
+          "id": "tpl02_008",
+          "baseline_tp_fp_fn": [
+            108,
+            7,
+            7
+          ],
+          "treatment_tp_fp_fn": [
+            108,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "tpl02_009",
+          "baseline_tp_fp_fn": [
+            90,
+            24,
+            25
+          ],
+          "treatment_tp_fp_fn": [
+            90,
+            25,
+            25
+          ]
+        },
+        {
+          "id": "tpl03_001",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_002",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_003",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_004",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_005",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_006",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_007",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_008",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_001",
+          "baseline_tp_fp_fn": [
+            41,
+            2,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_002",
+          "baseline_tp_fp_fn": [
+            41,
+            4,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_003",
+          "baseline_tp_fp_fn": [
+            41,
+            1,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_004",
+          "baseline_tp_fp_fn": [
+            41,
+            2,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_005",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_006",
+          "baseline_tp_fp_fn": [
+            41,
+            1,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            7,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_007",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            7,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_008",
+          "baseline_tp_fp_fn": [
+            41,
+            3,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl05_001",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_002",
+          "baseline_tp_fp_fn": [
+            52,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_003",
+          "baseline_tp_fp_fn": [
+            42,
+            20,
+            20
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_004",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_005",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_006",
+          "baseline_tp_fp_fn": [
+            42,
+            20,
+            20
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_007",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            52,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl05_008",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl06_001",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_002",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_003",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_004",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_005",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_006",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_007",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_008",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H2_stratified",
+      "documents": 50,
+      "resampling": "paired_documents_within_template",
+      "baseline_f1_percent": 87.55453978807397,
+      "treatment_f1_percent": 85.57831574591351,
+      "delta_f1_pp": -1.976224042160457,
+      "ci95_pp": [
+        -4.403558826458013,
+        0.11287190450499211
+      ],
+      "positive_effect_supported": false,
+      "degenerate_distribution": false,
+      "document_counts": [
+        {
+          "id": "tpl01_001",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_002",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_003",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_004",
+          "baseline_tp_fp_fn": [
+            22,
+            1,
+            1
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_005",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            0,
+            0,
+            23
+          ]
+        },
+        {
+          "id": "tpl01_006",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_007",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_008",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl01_009",
+          "baseline_tp_fp_fn": [
+            23,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl02_001",
+          "baseline_tp_fp_fn": [
+            102,
+            13,
+            13
+          ],
+          "treatment_tp_fp_fn": [
+            103,
+            12,
+            12
+          ]
+        },
+        {
+          "id": "tpl02_002",
+          "baseline_tp_fp_fn": [
+            104,
+            11,
+            11
+          ],
+          "treatment_tp_fp_fn": [
+            104,
+            11,
+            11
+          ]
+        },
+        {
+          "id": "tpl02_003",
+          "baseline_tp_fp_fn": [
+            110,
+            5,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            110,
+            5,
+            5
+          ]
+        },
+        {
+          "id": "tpl02_004",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            88,
+            27,
+            27
+          ]
+        },
+        {
+          "id": "tpl02_005",
+          "baseline_tp_fp_fn": [
+            105,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            105,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl02_006",
+          "baseline_tp_fp_fn": [
+            107,
+            8,
+            8
+          ],
+          "treatment_tp_fp_fn": [
+            107,
+            8,
+            8
+          ]
+        },
+        {
+          "id": "tpl02_007",
+          "baseline_tp_fp_fn": [
+            109,
+            6,
+            6
+          ],
+          "treatment_tp_fp_fn": [
+            92,
+            23,
+            23
+          ]
+        },
+        {
+          "id": "tpl02_008",
+          "baseline_tp_fp_fn": [
+            108,
+            7,
+            7
+          ],
+          "treatment_tp_fp_fn": [
+            108,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "tpl02_009",
+          "baseline_tp_fp_fn": [
+            90,
+            24,
+            25
+          ],
+          "treatment_tp_fp_fn": [
+            90,
+            25,
+            25
+          ]
+        },
+        {
+          "id": "tpl03_001",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_002",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_003",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_004",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_005",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_006",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_007",
+          "baseline_tp_fp_fn": [
+            12,
+            2,
+            2
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl03_008",
+          "baseline_tp_fp_fn": [
+            14,
+            0,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            14,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "tpl04_001",
+          "baseline_tp_fp_fn": [
+            41,
+            2,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_002",
+          "baseline_tp_fp_fn": [
+            41,
+            4,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_003",
+          "baseline_tp_fp_fn": [
+            41,
+            1,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_004",
+          "baseline_tp_fp_fn": [
+            41,
+            2,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            6,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_005",
+          "baseline_tp_fp_fn": [
+            41,
+            6,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_006",
+          "baseline_tp_fp_fn": [
+            41,
+            1,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            7,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_007",
+          "baseline_tp_fp_fn": [
+            41,
+            7,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            7,
+            5
+          ]
+        },
+        {
+          "id": "tpl04_008",
+          "baseline_tp_fp_fn": [
+            41,
+            3,
+            5
+          ],
+          "treatment_tp_fp_fn": [
+            41,
+            11,
+            5
+          ]
+        },
+        {
+          "id": "tpl05_001",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_002",
+          "baseline_tp_fp_fn": [
+            52,
+            10,
+            10
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_003",
+          "baseline_tp_fp_fn": [
+            42,
+            20,
+            20
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_004",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_005",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_006",
+          "baseline_tp_fp_fn": [
+            42,
+            20,
+            20
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl05_007",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            52,
+            10,
+            10
+          ]
+        },
+        {
+          "id": "tpl05_008",
+          "baseline_tp_fp_fn": [
+            43,
+            19,
+            19
+          ],
+          "treatment_tp_fp_fn": [
+            43,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "tpl06_001",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_002",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_003",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_004",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            2,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_005",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_006",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_007",
+          "baseline_tp_fp_fn": [
+            23,
+            2,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        },
+        {
+          "id": "tpl06_008",
+          "baseline_tp_fp_fn": [
+            23,
+            4,
+            0
+          ],
+          "treatment_tp_fp_fn": [
+            23,
+            4,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

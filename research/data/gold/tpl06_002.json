@@ -1,0 +1,338 @@
+{
+  "document_id": "tpl06_002",
+  "image": "tpl06_002.png",
+  "expected_output": {
+    "sender": "Boreal Industrial Trading Ltd.",
+    "consignor_address": "22 Meridian Road, Ningbo, China",
+    "consignee": "Boreal Technical Supply LLC",
+    "consignee_address": "42 Harbor Avenue, Almaty, Kazakhstan",
+    "items": [
+      {
+        "item_description": "RFID identification tags 13.56 MHz",
+        "item_quantity": {
+          "value": 9700,
+          "unit": "pcs"
+        },
+        "item_boxes_count": {
+          "value": 12,
+          "unit": "box"
+        }
+      },
+      {
+        "item_description": "RFID identification tags 125 kHz",
+        "item_quantity": {
+          "value": 6200,
+          "unit": "pcs"
+        },
+        "item_boxes_count": {
+          "value": 12,
+          "unit": "box"
+        }
+      },
+      {
+        "item_description": "Desktop RFID reader USB",
+        "item_quantity": {
+          "value": 68,
+          "unit": "pcs"
+        }
+      },
+      {
+        "item_description": "Handheld RFID reader Bluetooth",
+        "item_quantity": {
+          "value": 12,
+          "unit": "pcs"
+        }
+      },
+      {
+        "item_description": "Tag mounting bracket",
+        "item_quantity": {
+          "value": 52,
+          "unit": "pcs"
+        }
+      },
+      {
+        "item_description": "Bracket fastening pin",
+        "item_quantity": {
+          "value": 68,
+          "unit": "pcs"
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 16100,
+        "unit": "pcs"
+      },
+      "item_boxes_count_total": {
+        "value": 26,
+        "unit": "box"
+      },
+      "total_net_weight": {
+        "value": 138.792,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 177.513,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 2.29,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_description": {
+          "text": "RFID identification tags 13.56 MHz",
+          "bbox_percent": {
+            "x": 10.678910585234453,
+            "y": 51.34155557839968,
+            "width": 20.71152088566021,
+            "height": 1.3913159089900173
+          }
+        },
+        "item_quantity": {
+          "text": "9700.000",
+          "bbox_percent": {
+            "x": 35.23489172341602,
+            "y": 52.39921656181177,
+            "width": 5.770828428386629,
+            "height": 1.316811379653909
+          }
+        },
+        "item_boxes_count": {
+          "text": "12.000",
+          "bbox_percent": {
+            "x": 45.64649990182325,
+            "y": 52.51352768073805,
+            "width": 4.23648617051609,
+            "height": 1.2999655305489857
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "RFID identification tags 125 kHz",
+          "bbox_percent": {
+            "x": 11.436853093302526,
+            "y": 55.29009023390709,
+            "width": 19.0885065741732,
+            "height": 1.3734965117556672
+          }
+        },
+        "item_quantity": {
+          "text": "6200.000",
+          "bbox_percent": {
+            "x": 35.18132707574059,
+            "y": 56.33884151870201,
+            "width": 5.770828428386629,
+            "height": 1.3168113796539154
+          }
+        },
+        "item_boxes_count": {
+          "text": "12.000",
+          "bbox_percent": {
+            "x": 45.59293525414782,
+            "y": 56.4531526376283,
+            "width": 4.23648617051609,
+            "height": 1.2999655305489857
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Desktop RFID reader USB",
+          "bbox_percent": {
+            "x": 13.22300612532166,
+            "y": 59.249913817452395,
+            "width": 15.409071214784085,
+            "height": 1.3330992584455608
+          }
+        },
+        "item_quantity": {
+          "text": "68.000",
+          "bbox_percent": {
+            "x": 35.89493355700043,
+            "y": 60.286889400144695,
+            "width": 4.23648617051609,
+            "height": 1.2999655305489857
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Handheld RFID reader Bluetooth",
+          "bbox_percent": {
+            "x": 11.350246267814025,
+            "y": 63.16956546796978,
+            "width": 19.0474616344485,
+            "height": 1.3730458711912292
+          }
+        },
+        "item_quantity": {
+          "text": "12.000",
+          "bbox_percent": {
+            "x": 35.841368909325,
+            "y": 64.22651435703493,
+            "width": 4.23648617051609,
+            "height": 1.299965530548973
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Tag mounting bracket",
+          "bbox_percent": {
+            "x": 14.521839934778022,
+            "y": 67.14460008005865,
+            "width": 12.597145005169644,
+            "height": 1.3022265607939423
+          }
+        },
+        "item_quantity": {
+          "text": "52.000",
+          "bbox_percent": {
+            "x": 35.78780426164957,
+            "y": 68.16613931392517,
+            "width": 4.23648617051609,
+            "height": 1.299965530548973
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Bracket fastening pin",
+          "bbox_percent": {
+            "x": 14.666195377809006,
+            "y": 71.08639804102657,
+            "width": 12.20130482375682,
+            "height": 1.2978805526386281
+          }
+        },
+        "item_quantity": {
+          "text": "68.000",
+          "bbox_percent": {
+            "x": 35.73423961397413,
+            "y": 72.10576427081543,
+            "width": 4.236486170516097,
+            "height": 1.299965530548973
+          }
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "text": "16100.000",
+        "bbox_percent": {
+          "x": 34.525900924320155,
+          "y": 76.32822671264373,
+          "width": 6.537999557321898,
+          "height": 1.325234304206377
+        }
+      },
+      "item_boxes_count_total": {
+        "text": "26.000",
+        "bbox_percent": {
+          "x": 45.32109466719502,
+          "y": 76.44674929384625,
+          "width": 4.23648617051609,
+          "height": 1.2999655305489857
+        }
+      },
+      "total_volume_cbm": {
+        "text": "2.290",
+        "bbox_percent": {
+          "x": 60.6097193081193,
+          "y": 76.61460614742748,
+          "width": 3.4693150415808214,
+          "height": 1.2915426059965303
+        }
+      },
+      "total_net_weight": {
+        "text": "138.792",
+        "bbox_percent": {
+          "x": 67.7882491574422,
+          "y": 76.69342065573981,
+          "width": 5.003657299451366,
+          "height": 1.308388455101441
+        }
+      },
+      "total_gross_weight": {
+        "text": "177.513",
+        "bbox_percent": {
+          "x": 79.02182640256578,
+          "y": 76.81675633668661,
+          "width": 5.003657299451366,
+          "height": 1.308388455101441
+        }
+      }
+    },
+    "sender": {
+      "text": "Boreal Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 19.770652843257192,
+        "y": 22.874836585983914,
+        "width": 18.310554088248697,
+        "height": 1.4024606944531304
+      }
+    },
+    "consignor_address": {
+      "text": "22 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 19.741192287035705,
+        "y": 25.04163031227354,
+        "width": 21.083522388971897,
+        "height": 1.4329056654673311
+      }
+    },
+    "consignee": {
+      "text": "Boreal Technical Supply LLC",
+      "bbox_percent": {
+        "x": 19.628706526917302,
+        "y": 33.31484272174304,
+        "width": 18.389861259920153,
+        "height": 1.4033314236793297
+      }
+    },
+    "consignee_address": {
+      "text": "42 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 19.599245970695815,
+        "y": 35.48163644803267,
+        "width": 24.96261703142864,
+        "height": 1.4754950177942738
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-06002-INV",
+    "document_date": "2026-10-12",
+    "pallets": 1,
+    "variant_code": "06002"
+  },
+  "group_annotations": [
+    {
+      "rows_1based": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "item_boxes_count": {
+        "value": 2,
+        "unit": "box"
+      },
+      "evidence": {
+        "text": "2.000",
+        "bbox_percent": {
+          "x": 45.84662654800254,
+          "y": 66.01095462036334,
+          "width": 3.4693150415808214,
+          "height": 1.2915426059965176
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "document_id": "tpl01_003",
+  "image": "tpl01_003.png",
+  "expected_output": {
+    "sender": "Cobalt Industrial Trading Ltd.",
+    "consignor_address": "23 Meridian Road, Ningbo, China",
+    "consignee": "Cobalt Technical Supply LLC",
+    "consignee_address": "43 Harbor Avenue, Almaty, Kazakhstan",
+    "items": [
+      {
+        "item_article": "AST-SOLAR-01003-1",
+        "item_description": "solar garden lamp",
+        "item_quantity": {
+          "value": 144,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 12,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 12,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 141.48,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 159.0,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "AST-SOLAR-01003-2",
+        "item_description": "solar wall lantern",
+        "item_quantity": {
+          "value": 108,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 12,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 9,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 112.68,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 118.44,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 252.0,
+        "unit": "pcs"
+      },
+      "item_boxes_count_total": {
+        "value": 21,
+        "unit": "box"
+      },
+      "total_net_weight": {
+        "value": 254.16,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 277.44,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 1.016,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_article": {
+          "text": "AST-SOLAR-01003-1",
+          "bbox_percent": {
+            "x": 3.8521506876907785,
+            "y": 63.83987382695327,
+            "width": 11.503673768937004,
+            "height": 1.5693369693265395
+          }
+        },
+        "item_description": {
+          "text": "solar garden lamp",
+          "bbox_percent": {
+            "x": 21.86895820679851,
+            "y": 64.11513592028967,
+            "width": 11.110972010248847,
+            "height": 1.7956055238146387
+          }
+        },
+        "item_units_per_box": {
+          "text": "12pcs/CTN",
+          "bbox_percent": {
+            "x": 39.3955537936674,
+            "y": 64.38287478619348,
+            "width": 6.948539713415382,
+            "height": 1.7320195925348398
+          }
+        },
+        "item_quantity": {
+          "text": "144PCS in total",
+          "bbox_percent": {
+            "x": 38.365708092875714,
+            "y": 66.96659064695581,
+            "width": 8.958570151969731,
+            "height": 1.6465913524324285
+          }
+        },
+        "item_boxes_count": {
+          "text": "12",
+          "bbox_percent": {
+            "x": 67.52416076746792,
+            "y": 66.0504121528041,
+            "width": 1.5576822753212904,
+            "height": 1.6496680571456275
+          }
+        },
+        "item_gross_weight": {
+          "text": "159.00",
+          "bbox_percent": {
+            "x": 77.06623465694986,
+            "y": 66.19617828455956,
+            "width": 4.255479858277115,
+            "height": 1.6908800119555996
+          }
+        },
+        "item_net_weight": {
+          "text": "141.48",
+          "bbox_percent": {
+            "x": 85.28396858894685,
+            "y": 66.32171360328971,
+            "width": 4.255479858277115,
+            "height": 1.6908800119555996
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "AST-SOLAR-01003-2",
+          "bbox_percent": {
+            "x": 3.670736462627015,
+            "y": 82.40471162147999,
+            "width": 11.503673768937004,
+            "height": 1.5693369693265395
+          }
+        },
+        "item_description": {
+          "text": "solar wall lantern",
+          "bbox_percent": {
+            "x": 22.03475174893402,
+            "y": 82.68527771201094,
+            "width": 10.416556475850292,
+            "height": 1.7849975294255385
+          }
+        },
+        "item_units_per_box": {
+          "text": "12pcs/CTN",
+          "bbox_percent": {
+            "x": 39.21413956860364,
+            "y": 82.9477125807202,
+            "width": 6.948539713415382,
+            "height": 1.7320195925348398
+          }
+        },
+        "item_quantity": {
+          "text": "108PCS in total",
+          "bbox_percent": {
+            "x": 38.18429386781196,
+            "y": 85.53142844148256,
+            "width": 8.958570151969726,
+            "height": 1.6465913524324007
+          }
+        },
+        "item_boxes_count": {
+          "text": "9",
+          "bbox_percent": {
+            "x": 67.72819454127352,
+            "y": 84.62113810795908,
+            "width": 0.7867862775825515,
+            "height": 1.6378917358890959
+          }
+        },
+        "item_gross_weight": {
+          "text": "118.44",
+          "bbox_percent": {
+            "x": 76.8848204318861,
+            "y": 84.76101607908627,
+            "width": 4.255479858277115,
+            "height": 1.6908800119555996
+          }
+        },
+        "item_net_weight": {
+          "text": "112.68",
+          "bbox_percent": {
+            "x": 85.10255436388309,
+            "y": 84.88655139781642,
+            "width": 4.255479858277105,
+            "height": 1.6908800119555996
+          }
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "text": "252PCS",
+        "bbox_percent": {
+          "x": 40.15881856529693,
+          "y": 95.8356686108717,
+          "width": 4.808755681262553,
+          "height": 1.5831981729303513
+        }
+      },
+      "item_boxes_count_total": {
+        "text": "21",
+        "bbox_percent": {
+          "x": 67.28525931452485,
+          "y": 96.25005613103826,
+          "width": 1.446419255655489,
+          "height": 1.5318346244923813
+        }
+      },
+      "total_gross_weight": {
+        "text": "277.440",
+        "bbox_percent": {
+          "x": 76.56576711873366,
+          "y": 96.3918265405964,
+          "width": 4.667349009157578,
+          "height": 1.581038023696987
+        }
+      },
+      "total_net_weight": {
+        "text": "254.160",
+        "bbox_percent": {
+          "x": 84.78350105073066,
+          "y": 96.51736185932656,
+          "width": 4.667349009157591,
+          "height": 1.581038023696987
+        }
+      },
+      "total_volume_cbm": {
+        "text": "1.016",
+        "bbox_percent": {
+          "x": 93.222022767857,
+          "y": 96.646269964911,
+          "width": 3.235685013357048,
+          "height": 1.5591677127919976
+        }
+      }
+    },
+    "sender": {
+      "text": "Cobalt Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 37.247004943049305,
+        "y": 15.702934719726743,
+        "width": 19.086621486214117,
+        "height": 2.0335764869085797
+      }
+    },
+    "consignor_address": {
+      "text": "23 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 37.1973439800203,
+        "y": 20.90108930219422,
+        "width": 20.511977636755645,
+        "height": 1.9392166759246474
+      }
+    },
+    "consignee": {
+      "text": "Cobalt Technical Supply LLC",
+      "bbox_percent": {
+        "x": 37.07768499965646,
+        "y": 33.03011666128501,
+        "width": 19.16929000221395,
+        "height": 2.034839343383475
+      }
+    },
+    "consignee_address": {
+      "text": "43 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 37.02802403662745,
+        "y": 38.22827124375249,
+        "width": 24.28591625255132,
+        "height": 1.9968679202850028
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-01003-INV",
+    "document_date": "2026-10-13",
+    "item_volume_cbm": [
+      "0.433",
+      "0.583"
+    ],
+    "variant_code": "01003"
+  },
+  "group_annotations": []
+}

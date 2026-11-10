@@ -10,142 +10,168 @@
       {
         "item_description": "Устройство КЛУБ-У-206 без компл. кабелей",
         "item_boxes_count": {
-          "value": 156
+          "value": 156,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 3091.0
+          "value": 3091.0,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 4339.4
+          "value": 4339.4,
+          "unit": "kg"
         },
         "item_quantity": {
           "value": 22,
-          "unit": "компл."
+          "unit": "set"
         }
       },
       {
         "item_description": "Система ТСКБМ без компл. кабелей",
         "item_boxes_count": {
-          "value": 5
+          "value": 5,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 219.0
+          "value": 219.0,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 240.0
+          "value": 240.0,
+          "unit": "kg"
         },
         "item_quantity": {
           "value": 20,
-          "unit": "компл."
+          "unit": "set"
         }
       },
       {
         "item_description": "ТСКБМ-Н",
         "item_quantity": {
           "value": 44,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_boxes_count": {
-          "value": 5
+          "value": 5,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 4.4
+          "value": 4.4,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 13.7
+          "value": 13.7,
+          "unit": "kg"
         }
       },
       {
         "item_description": "ТЛ-ТСКБМ",
         "item_quantity": {
           "value": 1,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_net_weight": {
-          "value": 0.1
+          "value": 0.1,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 1.0
+          "value": 1.0,
+          "unit": "kg"
         }
       },
       {
         "item_description": "УБП",
         "item_quantity": {
           "value": 1,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_boxes_count": {
-          "value": 1
+          "value": 1,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 19.4
+          "value": 19.4,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 32.4
+          "value": 32.4,
+          "unit": "kg"
         }
       },
       {
         "item_description": "Блок БВДУ-У-01",
         "item_quantity": {
           "value": 1,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_boxes_count": {
-          "value": 1
+          "value": 1,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 2.2
+          "value": 2.2,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 4.0
+          "value": 4.0,
+          "unit": "kg"
         }
       },
       {
         "item_description": "СУД-У без ПК",
         "item_quantity": {
           "value": 1,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_boxes_count": {
-          "value": 1
+          "value": 1,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 2.9
+          "value": 2.9,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 4.5
+          "value": 4.5,
+          "unit": "kg"
         }
       },
       {
         "item_description": "МПК",
         "item_quantity": {
           "value": 1,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_boxes_count": {
-          "value": 1
+          "value": 1,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 3.1
+          "value": 3.1,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 4.8
+          "value": 4.8,
+          "unit": "kg"
         }
       },
       {
         "item_description": "Блок БОП",
         "item_quantity": {
           "value": 22,
-          "unit": "шт."
+          "unit": "pcs"
         },
         "item_boxes_count": {
-          "value": 3
+          "value": 3,
+          "unit": "box"
         },
         "item_net_weight": {
-          "value": 63.8
+          "value": 63.8,
+          "unit": "kg"
         },
         "item_gross_weight": {
-          "value": 103.9
+          "value": 103.9,
+          "unit": "kg"
         }
       }
     ],

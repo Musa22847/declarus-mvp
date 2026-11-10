@@ -1,0 +1,196 @@
+{
+  "document_id": "tpl03_003",
+  "image": "tpl03_003.png",
+  "expected_output": {
+    "sender": "Cobalt Industrial Trading Ltd.",
+    "consignor_address": "23 Meridian Road, Ningbo, China",
+    "consignee": "Cobalt Technical Supply LLC",
+    "items": [
+      {
+        "item_article": "AT-CS-03003/4L",
+        "item_description": "facial tissue machine",
+        "item_quantity": {
+          "value": 3,
+          "unit": "set"
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "package"
+        },
+        "item_net_weight": {
+          "value": 3052.0,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 3216.0,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 3.0,
+        "unit": "set"
+      },
+      "item_boxes_count_total": {
+        "value": 5,
+        "unit": "package"
+      },
+      "total_net_weight": {
+        "value": 3052.0,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 3216.0,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 16.0,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_boxes_count": {
+          "text": "5 packages",
+          "bbox_percent": {
+            "x": 14.903084999846145,
+            "y": 42.851422599750805,
+            "width": 6.935317001483725,
+            "height": 1.0222680771331447
+          }
+        },
+        "item_article": {
+          "text": "AT-CS-03003/4L",
+          "bbox_percent": {
+            "x": 23.49878399795518,
+            "y": 44.60216061313199,
+            "width": 12.191963944145554,
+            "height": 1.2449871291713888
+          }
+        },
+        "item_description": {
+          "text": "facial tissue machine",
+          "bbox_percent": {
+            "x": 23.468729875359244,
+            "y": 46.45903223738539,
+            "width": 16.103327343471037,
+            "height": 1.2810616047292014
+          }
+        },
+        "item_quantity": {
+          "text": "3 set",
+          "bbox_percent": {
+            "x": 47.60522587414812,
+            "y": 44.824494147366764,
+            "width": 3.4846912909165737,
+            "height": 1.1646800182140444
+          }
+        },
+        "item_net_weight": {
+          "text": "3052kgs",
+          "bbox_percent": {
+            "x": 59.95670853990849,
+            "y": 44.938411780181326,
+            "width": 6.063380573944941,
+            "height": 1.1884632503033585
+          }
+        },
+        "item_gross_weight": {
+          "text": "3216kgs",
+          "bbox_percent": {
+            "x": 70.96449704970068,
+            "y": 45.03993653178343,
+            "width": 6.063380573944928,
+            "height": 1.1884632503033585
+          }
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "text": "5 PACKAGES",
+        "bbox_percent": {
+          "x": 13.545083866147564,
+          "y": 66.79613046247044,
+          "width": 9.61246495375509,
+          "height": 1.134077910977057
+        }
+      },
+      "total_quantity": {
+        "text": "3 SETS",
+        "bbox_percent": {
+          "x": 49.376847952349806,
+          "y": 67.12660655629082,
+          "width": 5.10259629360236,
+          "height": 1.0924834258474718
+        }
+      },
+      "total_net_weight": {
+        "text": "3052KGS",
+        "bbox_percent": {
+          "x": 59.37920047209888,
+          "y": 67.21885817923041,
+          "width": 6.498508021744878,
+          "height": 1.1053579093399712
+        }
+      },
+      "total_gross_weight": {
+        "text": "3216KGS",
+        "bbox_percent": {
+          "x": 70.44848500708544,
+          "y": 67.32095010821577,
+          "width": 6.498508021744878,
+          "height": 1.1053579093399606
+        }
+      },
+      "total_volume_cbm": {
+        "text": "16m3",
+        "bbox_percent": {
+          "x": 86.25344391973529,
+          "y": 67.46671912678482,
+          "width": 3.791722037798953,
+          "height": 1.0803932423302682
+        }
+      }
+    },
+    "sender": {
+      "text": "Cobalt Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 35.144275025470726,
+        "y": 11.373811776092339,
+        "width": 30.931695019763243,
+        "height": 1.8604418074347966
+      }
+    },
+    "consignor_address": {
+      "text": "23 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 13.804047008179024,
+        "y": 20.46265598819723,
+        "width": 21.84056521349805,
+        "height": 1.246857588778066
+      }
+    },
+    "consignee": {
+      "text": "Cobalt Technical Supply LLC",
+      "bbox_percent": {
+        "x": 21.28538679546705,
+        "y": 29.35312619892409,
+        "width": 20.637698326162145,
+        "height": 1.3228820745974221
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-03003-INV",
+    "document_date": "2026-10-13",
+    "item_volume_cbm": [
+      "16"
+    ],
+    "variant_code": "03003"
+  },
+  "group_annotations": []
+}

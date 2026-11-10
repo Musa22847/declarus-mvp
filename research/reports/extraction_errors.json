@@ -1,0 +1,8104 @@
+[
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl01_004",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 1,
+      "unit": "ctn"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 381,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pallet"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная МАФФИН 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_001",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_002",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_003",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_003",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_003",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_003",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_003",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[12].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_004",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[12].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_005",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_006",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_007",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_007",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_007",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_007",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_007",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_007",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_008",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 358,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 358,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 35,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 35,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 26,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 26,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 22,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 22,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 33,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 33,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[9].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[10].item_boxes_count",
+    "expected": {
+      "value": 35,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 35,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[11].item_boxes_count",
+    "expected": {
+      "value": 19,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 19,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[12].item_boxes_count",
+    "expected": {
+      "value": 37,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 37,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[13].item_boxes_count",
+    "expected": {
+      "value": 37,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 37,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[14].item_boxes_count",
+    "expected": {
+      "value": 17,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 17,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl02_009",
+    "path": "items[15].item_boxes_count",
+    "expected": {
+      "value": 19,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 19,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_001",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03001/4L",
+    "predicted": {
+      "value": "AT-CS-03001"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_001",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_002",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03002/4L",
+    "predicted": {
+      "value": "AT-CS-03002"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_002",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_003",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03003/4L",
+    "predicted": {
+      "value": "AT-CS-03003"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_003",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_004",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03004/4L",
+    "predicted": {
+      "value": "AT-CS-03004"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_004",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_005",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03005/4L",
+    "predicted": {
+      "value": "AT-CS-03005"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_005",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_006",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03006/4L",
+    "predicted": {
+      "value": "AT-CS-03006"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_006",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03007/4L",
+    "predicted": {
+      "value": "AT-CS-03007"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": {
+      "value": "4L facial tissue machine"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_001",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 13",
+    "predicted": "г. Казань, ул. Заводская, д. 13"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_001",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_001",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_001",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_001",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_002",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 14",
+    "predicted": "г. Казань, ул. Заводская, д. 14"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_002",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_002",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_002",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_002",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_003",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 15",
+    "predicted": "г. Казань, ул. Заводская, д. 15"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_003",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 44,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_003",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_003",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_003",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_004",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 16",
+    "predicted": "г. Казань, ул. Заводская, д. 16"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_004",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 28,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 28,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_004",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 11,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_004",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_004",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_005",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 17",
+    "predicted": "г. Казань, ул. Заводская, д. 17"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_005",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 46,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 46,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_005",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_005",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_005",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_006",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 18",
+    "predicted": "г. Казань, ул. Заводская, д. 18"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_006",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 42,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_006",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 11,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_006",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_006",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_007",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 19",
+    "predicted": "г. Казань, ул. Заводская, д. 19"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_007",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 53,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 53,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_007",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_007",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_007",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_008",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 20",
+    "predicted": "г. Казань, ул. Заводская, д. 20"
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_008",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 31,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 31
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_008",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_008",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl04_008",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 70,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 70,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 595.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 595.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 576.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 576.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 960.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 960.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 810.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 810.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 450.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 450.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 630.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 630.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 720.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 720.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 450.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 450.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_001",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 1170.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1170.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 65,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 65
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 11,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 11
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_002",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 42,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 42
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "totals.total_volume_cbm",
+    "expected": {
+      "value": 4.627,
+      "unit": "m3"
+    },
+    "predicted": {
+      "value": 4.627,
+      "unit": "CBM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 362.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 362.5,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 180.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 180.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 180.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 180.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 540.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 540.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 270.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 270.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 864.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 864.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 425.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 425.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 362.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 362.5,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_003",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 480.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 480.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 66,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 66,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 192.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 192.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 864.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 864.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 340.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 340.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 1020.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1020.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 384.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 384.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 576.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 576.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 1344.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1344.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 1248.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1248.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_004",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 180.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 180.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 79,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 79
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 1260.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1260.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 288.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 288.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 1080.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1080.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 145.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 145.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 362.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 362.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 900.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 900.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 652.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 652.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 725.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 725.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_005",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 1190.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1190.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 65,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 65
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "totals.total_volume_cbm",
+    "expected": {
+      "value": 2.958,
+      "unit": "m3"
+    },
+    "predicted": {
+      "value": 2.958,
+      "unit": "CBM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 672.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 672.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 900.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 900.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 435.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 435.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 425.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 425.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 1105.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1105.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 145.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 145.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 507.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 507.5,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 270.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 270.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_006",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 1152.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1152.0,
+      "unit": "SQM"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 58,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 58
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 170.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 170.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 595.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 595.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 507.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 507.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 217.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 217.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 850.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 850.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 580.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 580.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 652.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 652.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 192.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 192.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_007",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 850.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 850.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 83,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 83
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 1248.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1248.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 1080.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1080.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 1170.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1170.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 435.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 435.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 870.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 870.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 580.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 580.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 340.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 340.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 507.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 507.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_only",
+    "document_id": "tpl05_008",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 720.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 720.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "sender",
+    "expected": "Elm Industrial Trading Ltd.",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "consignee",
+    "expected": "Elm Technical Supply LLC",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "consignor_address",
+    "expected": "25 Meridian Road, Ningbo, China",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "consignee_address",
+    "expected": "45 Harbor Avenue, Almaty, Kazakhstan",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "totals.total_quantity",
+    "expected": {
+      "value": 432.0,
+      "unit": "pcs"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "totals.total_net_weight",
+    "expected": {
+      "value": 145.53,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "totals.total_gross_weight",
+    "expected": {
+      "value": 155.34,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "totals.total_volume_cbm",
+    "expected": {
+      "value": 1.129,
+      "unit": "m3"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_article",
+    "expected": "AST-SOLAR-01005-1",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_description",
+    "expected": "solar garden lamp",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 72,
+      "unit": "pcs"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_units_per_box",
+    "expected": {
+      "value": 24,
+      "unit": "pcs/box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_net_weight",
+    "expected": {
+      "value": 32.04,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[0].item_gross_weight",
+    "expected": {
+      "value": 34.92,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_article",
+    "expected": "AST-SOLAR-01005-2",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_description",
+    "expected": "solar wall lantern",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 360,
+      "unit": "pcs"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_units_per_box",
+    "expected": {
+      "value": 40,
+      "unit": "pcs/box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_net_weight",
+    "expected": {
+      "value": 113.49,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl01_005",
+    "path": "items[1].item_gross_weight",
+    "expected": {
+      "value": 120.42,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная МАФФИН 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_001",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_002",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_003",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_003",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_003",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_003",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_003",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 240,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 240,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 14,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 25,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 25,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 28,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 28,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 16,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 16,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[9].item_boxes_count",
+    "expected": {
+      "value": 27,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 27,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[10].item_boxes_count",
+    "expected": {
+      "value": 37,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 37,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[11].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[12].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[12].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 7,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[13].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[14].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_004",
+    "path": "items[15].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 10,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[12].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_005",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_006",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 275,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 275,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 38,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 38,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 28,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 28,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 34,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 34,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 14,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 17,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 17,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 27,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 27,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 17,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 17,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 33,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 33,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[9].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[10].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[11].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[12].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[13].item_boxes_count",
+    "expected": {
+      "value": 24,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 24,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[14].item_boxes_count",
+    "expected": {
+      "value": 21,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 21,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_007",
+    "path": "items[15].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "pcs/box"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_008",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 358,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 358,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 7,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 35,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 35,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 26,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 26,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 22,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 22,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 33,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 33,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[9].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[10].item_boxes_count",
+    "expected": {
+      "value": 35,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 35,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[11].item_boxes_count",
+    "expected": {
+      "value": 19,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 19,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[12].item_boxes_count",
+    "expected": {
+      "value": 37,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 37,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[13].item_boxes_count",
+    "expected": {
+      "value": 37,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 37,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[14].item_boxes_count",
+    "expected": {
+      "value": 17,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 17,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl02_009",
+    "path": "items[15].item_boxes_count",
+    "expected": {
+      "value": 19,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 19,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_001",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 13",
+    "predicted": "г. Казань, ул. Заводская, д. 13"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_001",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_001",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 8,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_001",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 8,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_001",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_002",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 14",
+    "predicted": "г. Казань, ул. Заводская, д. 14"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_002",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 29,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 29,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_002",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_002",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_002",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_003",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 15",
+    "predicted": "г. Казань, ул. Заводская, д. 15"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_003",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 44,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 44,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_003",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 10,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_003",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_003",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 14,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_004",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 16",
+    "predicted": "г. Казань, ул. Заводская, д. 16"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_004",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 28,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 28,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_004",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 11,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 11,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_004",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_004",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_005",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 17",
+    "predicted": "г. Казань, ул. Заводская, д. 17"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_005",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 46,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 46,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_005",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 9,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_005",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_005",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_006",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 18",
+    "predicted": "г. Казань, ул. Заводская, д. 18"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_006",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 42,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 42,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_006",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 11,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 11,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_006",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_006",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 9,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_007",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 19",
+    "predicted": "г. Казань, ул. Заводская, д. 19"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_007",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 53,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 53,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_007",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 12,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_007",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_007",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 13,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_008",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 20",
+    "predicted": "г. Казань, ул. Заводская, д. 20"
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_008",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 31,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 31,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_008",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 9,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_008",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl04_008",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "box"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 70,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 70
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 595.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 595.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 576.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 576.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 960.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 960.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 810.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 810.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 450.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 450.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 630.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 630.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 720.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 720.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 450.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 450.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_001",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 1170.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1170.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 65,
+      "unit": "package"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 425.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 425.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 1190.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1190.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 725.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 725.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 255.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 255.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 450.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 450.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 768.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 768.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 507.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 507.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 11,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 11
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 797.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 797.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_002",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 145.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 145.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 42,
+      "unit": "package"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 362.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 362.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 180.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 180.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 180.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 180.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 540.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 540.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 270.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 270.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 864.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 864.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 425.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 425.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 362.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 362.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_003",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 480.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 480.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 66,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 66
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 192.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 192.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 864.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 864.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 340.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 340.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 1020.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1020.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 384.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 384.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 576.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 576.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 1344.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1344.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 1248.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1248.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_004",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 180.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 180.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 79,
+      "unit": "package"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 1260.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1260.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 288.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 288.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 1080.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1080.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 145.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 145.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 362.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 362.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 900.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 900.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 652.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 652.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 725.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 725.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 14,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 14
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_005",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 1190.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1190.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 65,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 65
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 672.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 672.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 900.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 900.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 435.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 435.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 425.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 425.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 1105.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1105.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 145.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 145.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 507.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 507.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 270.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 270.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_006",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 1152.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1152.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 58,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 58,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 9,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 9,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 2,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 2,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_007",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 10,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 10,
+      "unit": "pcs"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 83,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 83
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 1248.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1248.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[1].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[1].item_quantity",
+    "expected": {
+      "value": 1080.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1080.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[2].item_boxes_count",
+    "expected": {
+      "value": 13,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 13
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[2].item_quantity",
+    "expected": {
+      "value": 1170.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 1170.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[3].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[3].item_quantity",
+    "expected": {
+      "value": 435.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 435.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[4].item_boxes_count",
+    "expected": {
+      "value": 12,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 12
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[4].item_quantity",
+    "expected": {
+      "value": 870.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 870.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[5].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[5].item_quantity",
+    "expected": {
+      "value": 580.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 580.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[6].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[6].item_quantity",
+    "expected": {
+      "value": 340.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 340.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[7].item_boxes_count",
+    "expected": {
+      "value": 7,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 7
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[7].item_quantity",
+    "expected": {
+      "value": 507.5,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 507.5,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[8].item_boxes_count",
+    "expected": {
+      "value": 8,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 8
+    }
+  },
+  {
+    "mode": "ocr_image",
+    "document_id": "tpl05_008",
+    "path": "items[8].item_quantity",
+    "expected": {
+      "value": 720.0,
+      "unit": "m2"
+    },
+    "predicted": {
+      "value": 720.0,
+      "unit": "sqm"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная МАФФИН 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_001",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_002",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_003",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_003",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_003",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_003",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_003",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[12].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_004",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[12].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_005",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[1].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 110x85 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_006",
+    "path": "items[15].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 90x90 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_007",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_007",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_007",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_007",
+    "path": "items[7].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_007",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_007",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[3].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[8].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 FLOWERS",
+    "predicted": {
+      "value": "Форма бумажная KEKC 70x60 FLOWERS"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[9].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[10].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная КЕКС 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_008",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[0].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[2].item_description",
+    "expected": "Форма бумажная КЕКС 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[4].item_description",
+    "expected": "Форма бумажная МАФФИН 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[5].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[6].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 BROWN",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 BROWN"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[11].item_description",
+    "expected": "Форма бумажная МАФФИН 110x85 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная МАФФИН 110х85 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[13].item_description",
+    "expected": "Форма бумажная КЕКС 90x90 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная КЕКС 90х90 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl02_009",
+    "path": "items[14].item_description",
+    "expected": "Форма бумажная ПАНЕТТОНЕ 70x60 MOSAIC",
+    "predicted": {
+      "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_001",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_001",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 3,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_002",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_002",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_003",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_003",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_005",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_005",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 6,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 6,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_006",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_006",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 5,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 5,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "sender",
+    "expected": "Granite Industrial Trading Ltd.",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "consignee",
+    "expected": "Granite Technical Supply LLC",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "consignor_address",
+    "expected": "27 Meridian Road, Ningbo, China",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "totals.total_quantity",
+    "expected": {
+      "value": 3.0,
+      "unit": "set"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "totals.total_net_weight",
+    "expected": {
+      "value": 4177.0,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "totals.total_gross_weight",
+    "expected": {
+      "value": 4366.0,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "totals.total_volume_cbm",
+    "expected": {
+      "value": 15.0,
+      "unit": "m3"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_article",
+    "expected": "AT-CS-03007/4L",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_description",
+    "expected": "facial tissue machine",
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_quantity",
+    "expected": {
+      "value": 3,
+      "unit": "set"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 3,
+      "unit": "package"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_net_weight",
+    "expected": {
+      "value": 4177.0,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_007",
+    "path": "items[0].item_gross_weight",
+    "expected": {
+      "value": 4366.0,
+      "unit": "kg"
+    },
+    "predicted": null
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_008",
+    "path": "totals.item_boxes_count_total",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl03_008",
+    "path": "items[0].item_boxes_count",
+    "expected": {
+      "value": 4,
+      "unit": "package"
+    },
+    "predicted": {
+      "value": 4,
+      "unit": "box"
+    }
+  },
+  {
+    "mode": "ocr_image_3shot",
+    "document_id": "tpl04_001",
+    "path": "consignor_address",
+    "expected": "Россия, г. Казань, ул. Заводская, д. 13",
+    "predicted": "г. Казань, ул. Заводская, д. 13"
+  }
+]

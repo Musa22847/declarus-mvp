@@ -1,0 +1,776 @@
+{
+  "document_id": "example-05",
+  "image": "f6cac34a-eng_3.webp",
+  "expected_output": {
+    "consignee_address": "义乌市苏溪镇苏福路191号易镭电商院内5号楼一楼 18069903902 导航（浙江中途国际货运代理有限公司）",
+    "sender": "SICHUAN GROUPEVE CO., LTD",
+    "consignee": "沈洋",
+    "consignor_address": "No.1098,Middle Section of Jiannan Avenue High-Tech Zone, Chengdu, China",
+    "items": [
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+        "item_article": "3.0-T2-506",
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 270.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 116.1,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 146.1,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+        "item_article": "3.0-T2-512",
+        "item_boxes_count": {
+          "value": 4,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 360.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 154.8,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 194.8,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+        "item_article": "3.0-T2-513",
+        "item_boxes_count": {
+          "value": 4,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 360.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 154.8,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 194.8,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+        "item_article": "3.0-T2-509",
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 270.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 116.1,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 146.1,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 5%-428gsm",
+        "item_article": "3.0-1504",
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 288.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 123.26,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 147.26,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 5%-428gsm",
+        "item_article": "3.0-1503",
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 183.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 78.32,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 94.32,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 2.5m-Jacquard-Openness 6%-520gsm",
+        "item_article": "2.5-T9-607",
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 202.5,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 105.3,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 130.8,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 3m-Openness 3%-390gsm",
+        "item_article": "2.5-N1-304",
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 170.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 66.3,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 92.3,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_description": "Sunscreen Fabric 2.5m-Openness 5%-428gsm",
+        "item_article": "2.5-1507",
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 375.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 160.5,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 195.5,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "total_net_weight": {
+        "value": 1075.49
+      },
+      "total_gross_weight": {
+        "value": 1341.99
+      },
+      "total_quantity": {
+        "value": 29
+      }
+    }
+  },
+  "evidence": {
+    "consignee_address": {
+      "text": "义乌市苏溪镇苏福路191号易镭电商院内5号楼一楼 18069903902 导航（浙江中途国际货运代理有限公司）",
+      "bbox_percent": {
+        "x": 1.65,
+        "y": 19.25,
+        "width": 42.5,
+        "height": 4.45
+      }
+    },
+    "sender": {
+      "text": "SICHUAN GROUPEVE CO., LTD",
+      "bbox_percent": {
+        "x": 36.1954,
+        "y": 0.17,
+        "width": 56.9378,
+        "height": 3.5694
+      }
+    },
+    "consignee": {
+      "text": "沈洋",
+      "bbox_percent": {
+        "x": 1.65,
+        "y": 17.2,
+        "width": 8.0,
+        "height": 2.05
+      }
+    },
+    "consignor_address": {
+      "text": "No.1098,Middle Section of Jiannan Avenue High-Tech Zone, Chengdu, China",
+      "bbox_percent": {
+        "x": 55.5895,
+        "y": 3.8243,
+        "width": 37.5437,
+        "height": 3.8243
+      }
+    },
+    "items": [
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+          "bbox_percent": {
+            "x": 7.6747,
+            "y": 29.9996,
+            "width": 23.024,
+            "height": 3.6543
+          }
+        },
+        "item_article": {
+          "text": "3.0-T2-506",
+          "bbox_percent": {
+            "x": 34.7435,
+            "y": 30.2545,
+            "width": 10.2675,
+            "height": 2.7195
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 47.1889,
+            "y": 30.3395,
+            "width": 5.6004,
+            "height": 2.8895
+          }
+        },
+        "item_quantity": {
+          "text": "270.00",
+          "bbox_percent": {
+            "x": 61.2937,
+            "y": 30.5095,
+            "width": 6.9487,
+            "height": 2.6345
+          }
+        },
+        "item_net_weight": {
+          "text": "116.10",
+          "bbox_percent": {
+            "x": 70.6278,
+            "y": 30.5095,
+            "width": 7.4673,
+            "height": 2.6345
+          }
+        },
+        "item_gross_weight": {
+          "text": "146.10",
+          "bbox_percent": {
+            "x": 80.7915,
+            "y": 30.4245,
+            "width": 7.2598,
+            "height": 2.5495
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 33.77,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "3.0-T2-512",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 34.02,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "4",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 34.02,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "360.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 34.02,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "154.80",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 34.02,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "194.80",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 34.02,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 37.75,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "3.0-T2-513",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 38.0,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "4",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 38.0,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "360.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 38.0,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "154.80",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 38.0,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "194.80",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 38.0,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 5%-430gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 41.7,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "3.0-T2-509",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 41.95,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 41.95,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "270.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 41.95,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "116.10",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 41.95,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "146.10",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 41.95,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 5%-428gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 45.65,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "3.0-1504",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 45.9,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 45.9,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "288.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 45.9,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "123.26",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 45.9,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "147.26",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 45.9,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 5%-428gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 49.58,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "3.0-1503",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 49.83,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 49.83,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "183.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 49.83,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "78.32",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 49.83,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "94.32",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 49.83,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Jacquard-Openness 6%-520gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 53.5,
+            "width": 23.03,
+            "height": 4.2
+          }
+        },
+        "item_article": {
+          "text": "2.5-T9-607",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 53.75,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 53.75,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "202.50",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 53.75,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "105.30",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 53.75,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "130.80",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 53.75,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3m-Openness 3%-390gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 58.45,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "2.5-N1-304",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 58.7,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 58.7,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "170.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 58.7,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "66.30",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 58.7,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "92.30",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 58.7,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness 5%-428gsm",
+          "bbox_percent": {
+            "x": 7.67,
+            "y": 62.42,
+            "width": 23.03,
+            "height": 3.0
+          }
+        },
+        "item_article": {
+          "text": "2.5-1507",
+          "bbox_percent": {
+            "x": 34.74,
+            "y": 62.67,
+            "width": 10.27,
+            "height": 2.72
+          }
+        },
+        "item_boxes_count": {
+          "text": "5",
+          "bbox_percent": {
+            "x": 47.19,
+            "y": 62.67,
+            "width": 5.6,
+            "height": 2.72
+          }
+        },
+        "item_quantity": {
+          "text": "375.00",
+          "bbox_percent": {
+            "x": 61.29,
+            "y": 62.67,
+            "width": 6.95,
+            "height": 2.72
+          }
+        },
+        "item_net_weight": {
+          "text": "160.50",
+          "bbox_percent": {
+            "x": 70.63,
+            "y": 62.67,
+            "width": 7.47,
+            "height": 2.72
+          }
+        },
+        "item_gross_weight": {
+          "text": "195.50",
+          "bbox_percent": {
+            "x": 80.79,
+            "y": 62.67,
+            "width": 7.26,
+            "height": 2.72
+          }
+        }
+      }
+    ],
+    "totals": {
+      "total_net_weight": {
+        "text": "1075.49",
+        "bbox_percent": {
+          "x": 70.7315,
+          "y": 66.543,
+          "width": 8.5044,
+          "height": 2.0396
+        }
+      },
+      "total_gross_weight": {
+        "text": "1341.99",
+        "bbox_percent": {
+          "x": 81.1026,
+          "y": 66.7979,
+          "width": 7.6747,
+          "height": 1.9546
+        }
+      },
+      "total_quantity": {
+        "text": "29",
+        "bbox_percent": {
+          "x": 48.1223,
+          "y": 66.543,
+          "width": 3.7336,
+          "height": 2.2946
+        }
+      }
+    }
+  }
+}

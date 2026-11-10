@@ -1,0 +1,989 @@
+{
+  "page": 1,
+  "page_size_px": {
+    "width": 1622,
+    "height": 1805
+  },
+  "full_text": "SYNTHETIC\nORGANIZATION\nBoreal Industrial Trading Ltd.\n22 Meridian Road, Ningbo, China\nPACKING LIST\nSELLER: Boreal Industrial Trading Ltd.\nC/NO.: SYN-06002-INV\nAddress:\n22 Meridian Road, Ningbo, China\nCustomer PO: SYN-PO-06002\nDATE: 2026-10-12\nCountry of Origin: China\nSELLER: Boreal Technical Supply LLC\nAddress:\n42 Harbor Avenue, Almaty, Kazakhstan\nITEM\nQTY\n(PCS)\nCarton\nQuantity\nPallet\nVolume\n(CBM)\nN.WEIGHT\n(KGS)\nG.WEIGHT\n(KGS)\nRFID identification tags 13.56 MHz\n9700.000\n12.000\nRFID identification tags 125 kHz\n6200.000\n12.000\nDesktop RFID reader USB\n68.000\n1.000\n2.290\n138.792\n177.513\nHandheld RFID reader Bluetooth\n12.000\n2.000\nTag mounting bracket\n52.000\nBracket fastening pin\n68.000\nTotal\n16100.000\n26.000\n1.000\n2.290\n138.792\n177.513\nTOTAL CTNS: 26 CTNS (1 PALLETS)\nTOTAL GR.WT: 177.513 KGS\nTOTAL NT.WT: 138.792 KGS\nTOTAL MEAS: 2.290 CBM\nSYNTHETIC / NOT FOR SHIPPING\n",
+  "lines": [
+    {
+      "text": "SYNTHETIC",
+      "bbox_percent": {
+        "x": 12.4538,
+        "y": 3.3795,
+        "width": 14.4266,
+        "height": 1.385
+      }
+    },
+    {
+      "text": "ORGANIZATION",
+      "bbox_percent": {
+        "x": 12.5771,
+        "y": 5.928,
+        "width": 19.4205,
+        "height": 1.6066
+      }
+    },
+    {
+      "text": "Boreal Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 75.4624,
+        "y": 3.6011,
+        "width": 17.6942,
+        "height": 0.9972
+      }
+    },
+    {
+      "text": "22 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 75.524,
+        "y": 5.9834,
+        "width": 19.9753,
+        "height": 1.0526
+      }
+    },
+    {
+      "text": "PACKING LIST",
+      "bbox_percent": {
+        "x": 39.5191,
+        "y": 17.1191,
+        "width": 24.106,
+        "height": 1.8837
+      }
+    },
+    {
+      "text": "SELLER: Boreal Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 9.3711,
+        "y": 22.6593,
+        "width": 29.0999,
+        "height": 1.4404
+      }
+    },
+    {
+      "text": "C/NO.: SYN-06002-INV",
+      "bbox_percent": {
+        "x": 66.8311,
+        "y": 23.2133,
+        "width": 14.6116,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "Address:",
+      "bbox_percent": {
+        "x": 9.3711,
+        "y": 24.8753,
+        "width": 7.4599,
+        "height": 0.9972
+      }
+    },
+    {
+      "text": "22 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 19.4821,
+        "y": 25.1524,
+        "width": 21.5783,
+        "height": 0.9972
+      }
+    },
+    {
+      "text": "Customer PO: SYN-PO-06002",
+      "bbox_percent": {
+        "x": 66.3995,
+        "y": 25.4848,
+        "width": 18.434,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "DATE: 2026-10-12",
+      "bbox_percent": {
+        "x": 66.4612,
+        "y": 27.5346,
+        "width": 11.8372,
+        "height": 0.9418
+      }
+    },
+    {
+      "text": "Country of Origin: China",
+      "bbox_percent": {
+        "x": 66.4612,
+        "y": 29.8061,
+        "width": 14.9815,
+        "height": 0.9418
+      }
+    },
+    {
+      "text": "SELLER: Boreal Technical Supply LLC",
+      "bbox_percent": {
+        "x": 9.2478,
+        "y": 33.0748,
+        "width": 28.9149,
+        "height": 1.2742
+      }
+    },
+    {
+      "text": "Address:",
+      "bbox_percent": {
+        "x": 9.2478,
+        "y": 35.2355,
+        "width": 7.4599,
+        "height": 1.108
+      }
+    },
+    {
+      "text": "42 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 19.3588,
+        "y": 35.5125,
+        "width": 25.524,
+        "height": 1.108
+      }
+    },
+    {
+      "text": "ITEM",
+      "bbox_percent": {
+        "x": 18.9273,
+        "y": 46.8698,
+        "width": 4.0074,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "QTY",
+      "bbox_percent": {
+        "x": 36.4982,
+        "y": 47.0914,
+        "width": 3.3292,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "(PCS)",
+      "bbox_percent": {
+        "x": 36.0049,
+        "y": 48.5319,
+        "width": 4.3773,
+        "height": 1.0526
+      }
+    },
+    {
+      "text": "Carton",
+      "bbox_percent": {
+        "x": 45.6227,
+        "y": 47.3684,
+        "width": 4.439,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "Quantity",
+      "bbox_percent": {
+        "x": 44.9445,
+        "y": 48.7535,
+        "width": 5.1788,
+        "height": 0.9418
+      }
+    },
+    {
+      "text": "Pallet",
+      "bbox_percent": {
+        "x": 53.8841,
+        "y": 47.3684,
+        "width": 3.8841,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "Volume",
+      "bbox_percent": {
+        "x": 60.111,
+        "y": 47.4792,
+        "width": 5.3637,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "(CBM)",
+      "bbox_percent": {
+        "x": 60.2959,
+        "y": 48.8643,
+        "width": 4.8705,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "N.WEIGHT",
+      "bbox_percent": {
+        "x": 66.7694,
+        "y": 47.4792,
+        "width": 7.7065,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "(KGS)",
+      "bbox_percent": {
+        "x": 68.434,
+        "y": 48.9197,
+        "width": 4.5006,
+        "height": 0.9972
+      }
+    },
+    {
+      "text": "G.WEIGHT",
+      "bbox_percent": {
+        "x": 78.2984,
+        "y": 47.59,
+        "width": 7.4599,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "(KGS)",
+      "bbox_percent": {
+        "x": 79.6547,
+        "y": 49.0859,
+        "width": 4.5623,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "RFID identification tags 13.56 MHz",
+      "bbox_percent": {
+        "x": 10.5425,
+        "y": 51.1357,
+        "width": 21.1467,
+        "height": 1.2742
+      }
+    },
+    {
+      "text": "9700.000",
+      "bbox_percent": {
+        "x": 34.8335,
+        "y": 52.41,
+        "width": 6.2885,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "12.000",
+      "bbox_percent": {
+        "x": 45.3761,
+        "y": 52.5208,
+        "width": 4.5623,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "RFID identification tags 125 kHz",
+      "bbox_percent": {
+        "x": 11.344,
+        "y": 55.3463,
+        "width": 19.5438,
+        "height": 1.0526
+      }
+    },
+    {
+      "text": "6200.000",
+      "bbox_percent": {
+        "x": 34.9568,
+        "y": 56.3435,
+        "width": 5.7953,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "12.000",
+      "bbox_percent": {
+        "x": 45.3144,
+        "y": 56.5097,
+        "width": 4.3157,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "Desktop RFID reader USB",
+      "bbox_percent": {
+        "x": 12.8237,
+        "y": 59.3906,
+        "width": 16.0912,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "68.000",
+      "bbox_percent": {
+        "x": 35.5117,
+        "y": 60.277,
+        "width": 4.5006,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "1.000",
+      "bbox_percent": {
+        "x": 53.6375,
+        "y": 62.1607,
+        "width": 3.6991,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "2.290",
+      "bbox_percent": {
+        "x": 60.5425,
+        "y": 62.1607,
+        "width": 4.1307,
+        "height": 0.9418
+      }
+    },
+    {
+      "text": "138.792",
+      "bbox_percent": {
+        "x": 67.7559,
+        "y": 62.3269,
+        "width": 5.4254,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "177.513",
+      "bbox_percent": {
+        "x": 79.0382,
+        "y": 62.4377,
+        "width": 5.4254,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "Handheld RFID reader Bluetooth",
+      "bbox_percent": {
+        "x": 10.9741,
+        "y": 63.2133,
+        "width": 19.6671,
+        "height": 1.108
+      }
+    },
+    {
+      "text": "12.000",
+      "bbox_percent": {
+        "x": 35.5734,
+        "y": 64.2105,
+        "width": 4.439,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "2.000",
+      "bbox_percent": {
+        "x": 45.4994,
+        "y": 66.0388,
+        "width": 3.8224,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "Tag mounting bracket",
+      "bbox_percent": {
+        "x": 14.18,
+        "y": 67.313,
+        "width": 13.3169,
+        "height": 0.7756
+      }
+    },
+    {
+      "text": "52.000",
+      "bbox_percent": {
+        "x": 35.5117,
+        "y": 68.144,
+        "width": 4.439,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "Bracket fastening pin",
+      "bbox_percent": {
+        "x": 14.2417,
+        "y": 71.1911,
+        "width": 12.947,
+        "height": 0.9418
+      }
+    },
+    {
+      "text": "68.000",
+      "bbox_percent": {
+        "x": 35.3884,
+        "y": 72.1884,
+        "width": 4.5623,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "Total",
+      "bbox_percent": {
+        "x": 20.0986,
+        "y": 76.2881,
+        "width": 4.3157,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "16100.000",
+      "bbox_percent": {
+        "x": 34.0937,
+        "y": 76.3435,
+        "width": 6.7818,
+        "height": 0.8864
+      }
+    },
+    {
+      "text": "26.000",
+      "bbox_percent": {
+        "x": 44.9445,
+        "y": 76.5097,
+        "width": 4.3157,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "1.000",
+      "bbox_percent": {
+        "x": 53.5758,
+        "y": 76.5651,
+        "width": 3.5758,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "2.290",
+      "bbox_percent": {
+        "x": 60.2959,
+        "y": 76.5651,
+        "width": 4.1924,
+        "height": 0.9418
+      }
+    },
+    {
+      "text": "138.792",
+      "bbox_percent": {
+        "x": 67.5709,
+        "y": 76.7313,
+        "width": 5.5487,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "177.513",
+      "bbox_percent": {
+        "x": 78.7916,
+        "y": 76.8421,
+        "width": 5.5487,
+        "height": 0.831
+      }
+    },
+    {
+      "text": "TOTAL CTNS: 26 CTNS (1 PALLETS)",
+      "bbox_percent": {
+        "x": 8.6313,
+        "y": 82.1053,
+        "width": 32.9223,
+        "height": 1.385
+      }
+    },
+    {
+      "text": "TOTAL GR.WT: 177.513 KGS",
+      "bbox_percent": {
+        "x": 8.5697,
+        "y": 84.3767,
+        "width": 25.524,
+        "height": 1.3296
+      }
+    },
+    {
+      "text": "TOTAL NT.WT: 138.792 KGS",
+      "bbox_percent": {
+        "x": 8.693,
+        "y": 86.6482,
+        "width": 25.2158,
+        "height": 1.2188
+      }
+    },
+    {
+      "text": "TOTAL MEAS: 2.290 CBM",
+      "bbox_percent": {
+        "x": 8.3847,
+        "y": 88.8643,
+        "width": 22.9963,
+        "height": 1.2742
+      }
+    },
+    {
+      "text": "SYNTHETIC / NOT FOR SHIPPING",
+      "bbox_percent": {
+        "x": 43.8964,
+        "y": 98.1163,
+        "width": 10.9741,
+        "height": 0.4986
+      }
+    }
+  ],
+  "tables": [
+    {
+      "row_count": 8,
+      "column_count": 6,
+      "bbox_percent": {
+        "x": 8.4464,
+        "y": 44.7091,
+        "width": 80.4562,
+        "height": 35.5125
+      },
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "ITEM",
+          "bbox_percent": {
+            "x": 8.6313,
+            "y": 44.6537,
+            "width": 24.106,
+            "height": 6.4266
+          }
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "QTY\n(PCS)",
+          "bbox_percent": {
+            "x": 32.3674,
+            "y": 44.9307,
+            "width": 10.9741,
+            "height": 6.2604
+          }
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Carton\nQuantity",
+          "bbox_percent": {
+            "x": 42.91,
+            "y": 45.0416,
+            "width": 9.1862,
+            "height": 6.2604
+          }
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Pallet\nVolume\n(CBM)",
+          "bbox_percent": {
+            "x": 51.9729,
+            "y": 45.1524,
+            "width": 13.6252,
+            "height": 6.2604
+          }
+        },
+        {
+          "row": 0,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "N.WEIGHT\n(KGS)",
+          "bbox_percent": {
+            "x": 65.4747,
+            "y": 45.3186,
+            "width": 9.7411,
+            "height": 6.205
+          }
+        },
+        {
+          "row": 0,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "G.WEIGHT\n(KGS)",
+          "bbox_percent": {
+            "x": 74.8459,
+            "y": 45.374,
+            "width": 13.7485,
+            "height": 6.3158
+          }
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "RFID identification tags 13.56 MHz",
+          "bbox_percent": {
+            "x": 8.6313,
+            "y": 50.2493,
+            "width": 24.106,
+            "height": 4.7645
+          }
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "9700.000",
+          "bbox_percent": {
+            "x": 32.3674,
+            "y": 50.5263,
+            "width": 10.9741,
+            "height": 4.5983
+          }
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12.000",
+          "bbox_percent": {
+            "x": 42.91,
+            "y": 50.6925,
+            "width": 9.1862,
+            "height": 4.5429
+          }
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 6,
+          "column_span": 1,
+          "text": "1.000\n2.290",
+          "bbox_percent": {
+            "x": 51.9729,
+            "y": 50.8033,
+            "width": 13.6252,
+            "height": 24.2105
+          }
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "row_span": 7,
+          "column_span": 1,
+          "text": "138.792\n138.792",
+          "bbox_percent": {
+            "x": 65.4747,
+            "y": 50.9695,
+            "width": 9.7411,
+            "height": 29.0859
+          }
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.8459,
+            "y": 51.0803,
+            "width": 13.7485,
+            "height": 4.5983
+          }
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "RFID identification tags 125 kHz",
+          "bbox_percent": {
+            "x": 8.693,
+            "y": 54.5706,
+            "width": 23.9827,
+            "height": 4.9307
+          }
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "6200.000",
+          "bbox_percent": {
+            "x": 32.4291,
+            "y": 54.5706,
+            "width": 10.8508,
+            "height": 4.9307
+          }
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12.000",
+          "bbox_percent": {
+            "x": 42.9716,
+            "y": 54.5706,
+            "width": 9.0629,
+            "height": 4.9307
+          }
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.9075,
+            "y": 54.5706,
+            "width": 13.6252,
+            "height": 4.9307
+          }
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Desktop RFID reader USB",
+          "bbox_percent": {
+            "x": 8.693,
+            "y": 58.5042,
+            "width": 23.9827,
+            "height": 4.8753
+          }
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "68.000",
+          "bbox_percent": {
+            "x": 32.4291,
+            "y": 58.5042,
+            "width": 10.8508,
+            "height": 4.8753
+          }
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 4,
+          "column_span": 1,
+          "text": "2.000",
+          "bbox_percent": {
+            "x": 42.91,
+            "y": 58.5042,
+            "width": 9.2478,
+            "height": 16.3989
+          }
+        },
+        {
+          "row": 3,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "177.513",
+          "bbox_percent": {
+            "x": 74.9075,
+            "y": 58.5042,
+            "width": 13.6252,
+            "height": 4.8753
+          }
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Handheld RFID reader Bluetooth",
+          "bbox_percent": {
+            "x": 8.693,
+            "y": 62.4377,
+            "width": 23.9827,
+            "height": 4.7645
+          }
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12.000",
+          "bbox_percent": {
+            "x": 32.4291,
+            "y": 62.4377,
+            "width": 10.8508,
+            "height": 4.7645
+          }
+        },
+        {
+          "row": 4,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.9075,
+            "y": 62.4377,
+            "width": 13.6252,
+            "height": 4.7645
+          }
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Tag mounting bracket",
+          "bbox_percent": {
+            "x": 8.693,
+            "y": 66.3158,
+            "width": 23.9827,
+            "height": 5.0416
+          }
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "52.000",
+          "bbox_percent": {
+            "x": 32.4291,
+            "y": 66.3158,
+            "width": 10.8508,
+            "height": 5.0416
+          }
+        },
+        {
+          "row": 5,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.9075,
+            "y": 66.3158,
+            "width": 13.6252,
+            "height": 5.0416
+          }
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Bracket fastening pin",
+          "bbox_percent": {
+            "x": 8.6313,
+            "y": 69.5845,
+            "width": 24.106,
+            "height": 5.097
+          }
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "68.000",
+          "bbox_percent": {
+            "x": 32.3674,
+            "y": 69.8615,
+            "width": 10.9741,
+            "height": 4.9307
+          }
+        },
+        {
+          "row": 6,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.8459,
+            "y": 70.3047,
+            "width": 13.7485,
+            "height": 4.9307
+          }
+        },
+        {
+          "row": 7,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Total",
+          "bbox_percent": {
+            "x": 8.6313,
+            "y": 74.0166,
+            "width": 24.106,
+            "height": 5.5402
+          }
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "16100.000",
+          "bbox_percent": {
+            "x": 32.3674,
+            "y": 74.2936,
+            "width": 10.9741,
+            "height": 5.374
+          }
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "26.000",
+          "bbox_percent": {
+            "x": 42.91,
+            "y": 74.4044,
+            "width": 9.1862,
+            "height": 5.374
+          }
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1.000\n2.290",
+          "bbox_percent": {
+            "x": 51.9729,
+            "y": 74.5152,
+            "width": 13.6252,
+            "height": 5.4294
+          }
+        },
+        {
+          "row": 7,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "177.513",
+          "bbox_percent": {
+            "x": 74.8459,
+            "y": 74.7922,
+            "width": 13.7485,
+            "height": 5.4294
+          }
+        }
+      ]
+    }
+  ],
+  "document_id": "tpl06_002.png"
+}

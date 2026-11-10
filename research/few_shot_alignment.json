@@ -1,0 +1,31 @@
+{
+  "examples": [
+    {
+      "example": 1,
+      "source_pair": 2,
+      "image": "mvp/documents/few-shot_raw/example1.jpg",
+      "image_sha256": "c9b1a3c533ec0845c88bcd3f67609d5a5a69a2b2c7edac7ea3b91a591c5b8498",
+      "annotation": "mvp/documents/few-shot_labelled/example1.json",
+      "annotation_sha256": "6692e3958e3e37debbcba6a1af6b6f89871f9dca88a91766aa5c1cf9c450d84f"
+    },
+    {
+      "example": 2,
+      "source_pair": 4,
+      "image": "mvp/documents/few-shot_raw/example2.jpg",
+      "image_sha256": "39b8657d8be598ec4a095dcbf92ad5accd666c4e447b2ed934cd18e2a056c99d",
+      "annotation": "mvp/documents/few-shot_labelled/example2.json",
+      "annotation_sha256": "e99fe8f5f550e515150e5d3eb6d854794c61364e7acdeb3ea8e7668c72bf2ba6"
+    },
+    {
+      "example": 3,
+      "source_pair": 5,
+      "image": "mvp/documents/few-shot_raw/example3.webp",
+      "image_sha256": "2c47b1d9f72199c43fddd3f361aa61677364387de7f99196b9607f9ace211b27",
+      "annotation": "mvp/documents/few-shot_labelled/example3.json",
+      "annotation_sha256": "a093cbcea5075bdbc212be814bf8d0e95cde3b644652ae34a2c38dbdf512b118"
+    }
+  ],
+  "prompt": "mvp/system-prompt/customs-declaration-system-prompt.md",
+  "prompt_sha256": "4bc4bb96df6b0aba44dcea0d08d7150bd3e5ff22e05abd3ab4296040b1f3a0aa",
+  "evaluator_sha256": "6467117888a4092d2b0f432bc3240c39d0135d5ed1d05882ed0087a6fd5610b4"
+}

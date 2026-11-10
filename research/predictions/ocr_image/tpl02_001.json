@@ -1,0 +1,5229 @@
+{
+  "batch_id": "tpl02_001",
+  "documents": [
+    {
+      "document_id": "tpl02_001.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "country": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "address": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "country": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "address": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      "document_date": {
+        "value": "2026-10-11",
+        "unit": null,
+        "raw_text": "2026-10-11",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl02_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 86.9375,
+              "y": 8.1714,
+              "width": 7.6875,
+              "height": 0.6184
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-02001",
+        "unit": null,
+        "raw_text": "SYN-02001",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl02_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.4375,
+              "y": 5.7862,
+              "width": 27.0625,
+              "height": 0.7509
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "Россия",
+        "unit": null,
+        "raw_text": "Россия",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl02_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 13.375,
+              "y": 78.3569,
+              "width": 28.125,
+              "height": 0.6625
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": {
+            "value": "PF0200101_R",
+            "unit": null,
+            "raw_text": "PF0200101_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 15.8569,
+                  "width": 8.0625,
+                  "height": 0.53
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная КЕКС 70х60 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная КЕКС 70х60 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 16.917,
+                  "width": 21.9375,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 88800,
+            "unit": "pcs",
+            "raw_text": "88800",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.125,
+                  "y": 16.4753,
+                  "width": 4.125,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2400,
+            "unit": "pcs/box",
+            "raw_text": "2400",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 16.4753,
+                  "width": 3.4375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 37,
+            "unit": "box",
+            "raw_text": "37",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 16.5636,
+                  "width": 2.125,
+                  "height": 0.53
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 209.05,
+            "unit": "kg",
+            "raw_text": "209,05",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.5,
+                  "y": 16.4753,
+                  "width": 4.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 196.1,
+            "unit": "kg",
+            "raw_text": "196,10",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 88.8125,
+                  "y": 16.4753,
+                  "width": 4.75,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200102_R",
+            "unit": null,
+            "raw_text": "PF0200102_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 18.8604,
+                  "width": 8.0,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 90х90 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 90х90 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 19.8322,
+                  "width": 24.3125,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 58000,
+            "unit": "pcs",
+            "raw_text": "58000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 19.4788,
+                  "width": 3.8125,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2000,
+            "unit": "pcs/box",
+            "raw_text": "2000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 19.4788,
+                  "width": 3.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 29,
+            "unit": "box",
+            "raw_text": "29",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 19.4788,
+                  "width": 2.25,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 122.38,
+            "unit": "kg",
+            "raw_text": "122,38",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.5625,
+                  "y": 19.4788,
+                  "width": 4.5625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 112.23,
+            "unit": "kg",
+            "raw_text": "112,23",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 88.9375,
+                  "y": 19.4788,
+                  "width": 4.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200103_R",
+            "unit": null,
+            "raw_text": "PF0200103_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.375,
+                  "y": 21.864,
+                  "width": 8.0,
+                  "height": 0.53
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 110х85 BROWN",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 110х85 BROWN",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 22.8357,
+                  "width": 24.875,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 7200,
+            "unit": "pcs",
+            "raw_text": "7200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.4375,
+                  "y": 22.4823,
+                  "width": 3.5625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 1200,
+            "unit": "pcs/box",
+            "raw_text": "1200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.3125,
+                  "y": 22.4823,
+                  "width": 3.5,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 6,
+            "unit": "box",
+            "raw_text": "6",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 70.0,
+                  "y": 22.5265,
+                  "width": 1.25,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 11.7,
+            "unit": "kg",
+            "raw_text": "11,70",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 22.4823,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 9.6,
+            "unit": "kg",
+            "raw_text": "9,60",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.6875,
+                  "y": 22.4823,
+                  "width": 3.25,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200104_R",
+            "unit": null,
+            "raw_text": "PF0200104_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.25,
+                  "y": 24.8675,
+                  "width": 8.0,
+                  "height": 0.4859
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 25.8392,
+                  "width": 27.0625,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 72000,
+            "unit": "pcs",
+            "raw_text": "72000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.125,
+                  "y": 25.4859,
+                  "width": 4.1875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2000,
+            "unit": "pcs/box",
+            "raw_text": "2000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 25.4859,
+                  "width": 3.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 36,
+            "unit": "box",
+            "raw_text": "36",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.625,
+                  "y": 25.4859,
+                  "width": 2.1875,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 79.56,
+            "unit": "kg",
+            "raw_text": "79,56",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 25.4859,
+                  "width": 4.0,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 66.96,
+            "unit": "kg",
+            "raw_text": "66,96",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 25.4859,
+                  "width": 4.0,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200105_R",
+            "unit": null,
+            "raw_text": "PF0200105_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.375,
+                  "y": 27.871,
+                  "width": 7.9375,
+                  "height": 0.53
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 28.8428,
+                  "width": 26.4375,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 48000,
+            "unit": "pcs",
+            "raw_text": "48000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 28.4894,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 1200,
+            "unit": "pcs/box",
+            "raw_text": "1200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.25,
+                  "y": 28.4894,
+                  "width": 3.5,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 40,
+            "unit": "box",
+            "raw_text": "40",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 28.5777,
+                  "width": 2.0625,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 191.2,
+            "unit": "kg",
+            "raw_text": "191,20",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.4375,
+                  "y": 28.4894,
+                  "width": 4.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 177.2,
+            "unit": "kg",
+            "raw_text": "177,20",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 88.875,
+                  "y": 28.4894,
+                  "width": 4.6875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200106_R",
+            "unit": null,
+            "raw_text": "PF0200106_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 30.8746,
+                  "width": 8.0625,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 70x60 BROWN",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 70x60 BROWN",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 31.8463,
+                  "width": 24.0625,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 20400,
+            "unit": "pcs",
+            "raw_text": "20400",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0,
+                  "y": 31.4929,
+                  "width": 4.375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 1200,
+            "unit": "pcs/box",
+            "raw_text": "1200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.25,
+                  "y": 31.4929,
+                  "width": 3.5,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 17,
+            "unit": "box",
+            "raw_text": "17",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.6875,
+                  "y": 31.5813,
+                  "width": 1.875,
+                  "height": 0.53
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 90.61,
+            "unit": "kg",
+            "raw_text": "90,61",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 31.4929,
+                  "width": 3.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 84.66,
+            "unit": "kg",
+            "raw_text": "84,66",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 31.4929,
+                  "width": 4.0,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200107_R",
+            "unit": null,
+            "raw_text": "PF0200107_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.375,
+                  "y": 33.8781,
+                  "width": 8.0,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 110х85 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 110х85 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 34.8498,
+                  "width": 24.75,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 12000,
+            "unit": "pcs",
+            "raw_text": "12000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.125,
+                  "y": 34.4965,
+                  "width": 4.0625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2400,
+            "unit": "pcs/box",
+            "raw_text": "2400",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 34.4965,
+                  "width": 3.4375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 5,
+            "unit": "box",
+            "raw_text": "5",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.875,
+                  "y": 34.4523,
+                  "width": 1.5625,
+                  "height": 0.7067
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 22.25,
+            "unit": "kg",
+            "raw_text": "22,25",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 34.4965,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 20.5,
+            "unit": "kg",
+            "raw_text": "20,50",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.1875,
+                  "y": 34.4965,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200108_R",
+            "unit": null,
+            "raw_text": "PF0200108_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.25,
+                  "y": 36.8816,
+                  "width": 8.0625,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная КЕКС 110х85 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная КЕКС 110х85 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 37.8534,
+                  "width": 22.5,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 34800,
+            "unit": "pcs",
+            "raw_text": "34800",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.125,
+                  "y": 37.5,
+                  "width": 4.25,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 1200,
+            "unit": "pcs/box",
+            "raw_text": "1200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.25,
+                  "y": 37.5,
+                  "width": 3.5,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 29,
+            "unit": "box",
+            "raw_text": "29",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.625,
+                  "y": 37.5,
+                  "width": 2.125,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 113.39,
+            "unit": "kg",
+            "raw_text": "113,39",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.625,
+                  "y": 37.5,
+                  "width": 4.5625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 103.24,
+            "unit": "kg",
+            "raw_text": "103,24",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 88.9375,
+                  "y": 37.5,
+                  "width": 4.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200109_R",
+            "unit": null,
+            "raw_text": "PF0200109_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 39.8852,
+                  "width": 8.0,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+            "unit": null,
+            "raw_text": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 40.8569,
+                  "width": 27.375,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 22000,
+            "unit": "pcs",
+            "raw_text": "22000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 40.5035,
+                  "width": 4.1875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2200,
+            "unit": "pcs/box",
+            "raw_text": "2200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 40.5035,
+                  "width": 3.5,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 10,
+            "unit": "box",
+            "raw_text": "10",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.625,
+                  "y": 40.5035,
+                  "width": 2.1875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 56.7,
+            "unit": "kg",
+            "raw_text": "56,70",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 40.5035,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 53.2,
+            "unit": "kg",
+            "raw_text": "53,20",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 40.5035,
+                  "width": 3.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200110_R",
+            "unit": null,
+            "raw_text": "PF0200110_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 42.8887,
+                  "width": 7.9375,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 43.8604,
+                  "width": 26.4375,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 25200,
+            "unit": "pcs",
+            "raw_text": "25200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 43.5071,
+                  "width": 4.375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 1200,
+            "unit": "pcs/box",
+            "raw_text": "1200",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.3125,
+                  "y": 43.5071,
+                  "width": 3.5,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 21,
+            "unit": "box",
+            "raw_text": "21",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 43.5071,
+                  "width": 1.9375,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 36.96,
+            "unit": "kg",
+            "raw_text": "36,96",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 43.5071,
+                  "width": 4.0625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 29.61,
+            "unit": "kg",
+            "raw_text": "29,61",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 43.5071,
+                  "width": 3.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200111_R",
+            "unit": null,
+            "raw_text": "PF0200111_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 45.8922,
+                  "width": 8.1875,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная KEKC 90x90 FLOWERS",
+            "unit": null,
+            "raw_text": "Форма бумажная KEKC 90x90 FLOWERS",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.25,
+                  "y": 46.864,
+                  "width": 23.25,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 117000,
+            "unit": "pcs",
+            "raw_text": "117000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 46.6875,
+                  "y": 46.5106,
+                  "width": 4.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 3000,
+            "unit": "pcs/box",
+            "raw_text": "3000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 46.5106,
+                  "width": 3.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 39,
+            "unit": "box",
+            "raw_text": "39",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 46.5106,
+                  "width": 2.1875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 145.47,
+            "unit": "kg",
+            "raw_text": "145,47",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.6875,
+                  "y": 46.5548,
+                  "width": 4.5,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 131.82,
+            "unit": "kg",
+            "raw_text": "131,82",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.0,
+                  "y": 46.5548,
+                  "width": 4.5625,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200112_R",
+            "unit": null,
+            "raw_text": "PF0200112_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.0,
+                  "y": 48.7633,
+                  "width": 8.375,
+                  "height": 2.2085
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 90x90 BROWN",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 90x90 BROWN",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 49.8675,
+                  "width": 24.0625,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 48000,
+            "unit": "pcs",
+            "raw_text": "48000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 49.5141,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2400,
+            "unit": "pcs/box",
+            "raw_text": "2400",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 49.5141,
+                  "width": 3.4375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 20,
+            "unit": "box",
+            "raw_text": "20",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 49.5141,
+                  "width": 2.1875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 113.6,
+            "unit": "kg",
+            "raw_text": "113,60",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.5625,
+                  "y": 49.5141,
+                  "width": 4.8125,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 106.6,
+            "unit": "kg",
+            "raw_text": "106,60",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 88.9375,
+                  "y": 49.5141,
+                  "width": 4.75,
+                  "height": 0.7067
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200113_R",
+            "unit": null,
+            "raw_text": "PF0200113_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.0625,
+                  "y": 51.7668,
+                  "width": 8.4375,
+                  "height": 2.1201
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная ПАНЕТТОНЕ 90x90 FLOWERS",
+            "unit": null,
+            "raw_text": "Форма бумажная ПАНЕТТОНЕ 90x90 FLOWERS",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 52.871,
+                  "width": 27.375,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 36000,
+            "unit": "pcs",
+            "raw_text": "36000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 52.5177,
+                  "width": 4.0,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 3000,
+            "unit": "pcs/box",
+            "raw_text": "3000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.125,
+                  "y": 52.5177,
+                  "width": 3.5625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 12,
+            "unit": "box",
+            "raw_text": "12",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.6875,
+                  "y": 52.5177,
+                  "width": 2.0625,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 82.56,
+            "unit": "kg",
+            "raw_text": "82,56",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 52.5177,
+                  "width": 3.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 78.36,
+            "unit": "kg",
+            "raw_text": "78,36",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 52.5177,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200114_R",
+            "unit": null,
+            "raw_text": "PF0200114_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.0,
+                  "y": 54.8587,
+                  "width": 8.3125,
+                  "height": 2.076
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 90х90 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 90х90 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.3125,
+                  "y": 55.8746,
+                  "width": 24.3125,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 99000,
+            "unit": "pcs",
+            "raw_text": "99000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 55.5212,
+                  "width": 4.0,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 3000,
+            "unit": "pcs/box",
+            "raw_text": "3000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.25,
+                  "y": 55.6095,
+                  "width": 3.4375,
+                  "height": 0.53
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 33,
+            "unit": "box",
+            "raw_text": "33",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.5625,
+                  "y": 55.5212,
+                  "width": 2.0625,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 60.39,
+            "unit": "kg",
+            "raw_text": "60,39",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.875,
+                  "y": 55.5212,
+                  "width": 3.9375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 48.84,
+            "unit": "kg",
+            "raw_text": "48,84",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 55.5212,
+                  "width": 3.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200115_R",
+            "unit": null,
+            "raw_text": "PF0200115_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 7.9375,
+                  "y": 57.8622,
+                  "width": 8.4375,
+                  "height": 2.076
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная МАФФИН 70х60 BROWN",
+            "unit": null,
+            "raw_text": "Форма бумажная МАФФИН 70х60 BROWN",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.1875,
+                  "y": 58.8781,
+                  "width": 24.1875,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 108000,
+            "unit": "pcs",
+            "raw_text": "108000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 46.6875,
+                  "y": 58.5247,
+                  "width": 4.75,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 3000,
+            "unit": "pcs/box",
+            "raw_text": "3000",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.125,
+                  "y": 58.5247,
+                  "width": 3.5625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 36,
+            "unit": "box",
+            "raw_text": "36",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.625,
+                  "y": 58.5247,
+                  "width": 2.1875,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 112.32,
+            "unit": "kg",
+            "raw_text": "112,32",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.5625,
+                  "y": 58.5247,
+                  "width": 4.625,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 99.72,
+            "unit": "kg",
+            "raw_text": "99,72",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 58.5247,
+                  "width": 3.875,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "PF0200116_R",
+            "unit": null,
+            "raw_text": "PF0200116_R",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.25,
+                  "y": 60.9099,
+                  "width": 7.875,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+            "unit": null,
+            "raw_text": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 8.25,
+                  "y": 61.8816,
+                  "width": 26.3125,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 26400,
+            "unit": "pcs",
+            "raw_text": "26400",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.0625,
+                  "y": 61.5283,
+                  "width": 4.3125,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 2400,
+            "unit": "pcs/box",
+            "raw_text": "2400",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 58.1875,
+                  "y": 61.5283,
+                  "width": 3.4375,
+                  "height": 0.6184
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 11,
+            "unit": "box",
+            "raw_text": "11",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 69.625,
+                  "y": 61.5283,
+                  "width": 1.8125,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 55.99,
+            "unit": "kg",
+            "raw_text": "55,99",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 78.9375,
+                  "y": 61.5283,
+                  "width": 3.9375,
+                  "height": 0.6625
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 52.14,
+            "unit": "kg",
+            "raw_text": "52,14",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl02_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 89.3125,
+                  "y": 61.5724,
+                  "width": 3.9375,
+                  "height": 0.5742
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 881400,
+          "unit": "pcs",
+          "raw_text": "381",
+          "source_type": "calculated",
+          "confidence": 0.95,
+          "evidence": [],
+          "derived_from": [
+            "tpl02_001.png:1:47.125:16.4753:4.125:0.6184",
+            "tpl02_001.png:1:47.0625:19.4788:3.8125:0.6184",
+            "tpl02_001.png:1:47.4375:22.4823:3.5625:0.6184",
+            "tpl02_001.png:1:47.125:25.4859:4.1875:0.6184",
+            "tpl02_001.png:1:47.0625:28.4894:3.9375:0.6184",
+            "tpl02_001.png:1:47.0:31.4929:4.375:0.6184",
+            "tpl02_001.png:1:47.125:34.4965:4.0625:0.6184",
+            "tpl02_001.png:1:47.125:37.5:4.25:0.6184",
+            "tpl02_001.png:1:47.0625:40.5035:4.1875:0.6184",
+            "tpl02_001.png:1:47.0625:43.5071:4.375:0.6184",
+            "tpl02_001.png:1:46.6875:46.5106:4.9375:0.6184",
+            "tpl02_001.png:1:47.0625:49.5141:3.9375:0.6184",
+            "tpl02_001.png:1:47.0625:52.5177:4.0:0.6184",
+            "tpl02_001.png:1:47.0625:55.5212:4.0:0.6184",
+            "tpl02_001.png:1:46.6875:58.5247:4.75:0.6184",
+            "tpl02_001.png:1:47.0625:61.5283:4.3125:0.6184"
+          ]
+        },
+        "total_packages": {
+          "value": 381,
+          "unit": "box",
+          "raw_text": "381",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.1875,
+                "y": 63.8251,
+                "width": 2.8125,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 1504.13,
+          "unit": "kg",
+          "raw_text": "1504,13",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.1875,
+                "y": 63.8251,
+                "width": 5.3125,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 1370.78,
+          "unit": "kg",
+          "raw_text": "1370,78",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 88.625,
+                "y": 63.8251,
+                "width": 5.3125,
+                "height": 0.7067
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "total_customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "country": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "address": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "country": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "address": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      }
+    },
+    "items": [
+      {
+        "item_article": {
+          "value": "PF0200101_R",
+          "unit": null,
+          "raw_text": "PF0200101_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 15.8569,
+                "width": 8.0625,
+                "height": 0.53
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная КЕКС 70х60 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная КЕКС 70х60 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 16.917,
+                "width": 21.9375,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 88800,
+          "unit": "pcs",
+          "raw_text": "88800",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.125,
+                "y": 16.4753,
+                "width": 4.125,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2400,
+          "unit": "pcs/box",
+          "raw_text": "2400",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 16.4753,
+                "width": 3.4375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 37,
+          "unit": "box",
+          "raw_text": "37",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 16.5636,
+                "width": 2.125,
+                "height": 0.53
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 209.05,
+          "unit": "kg",
+          "raw_text": "209,05",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.5,
+                "y": 16.4753,
+                "width": 4.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 196.1,
+          "unit": "kg",
+          "raw_text": "196,10",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 88.8125,
+                "y": 16.4753,
+                "width": 4.75,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200102_R",
+          "unit": null,
+          "raw_text": "PF0200102_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 18.8604,
+                "width": 8.0,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 90х90 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 90х90 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 19.8322,
+                "width": 24.3125,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 58000,
+          "unit": "pcs",
+          "raw_text": "58000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 19.4788,
+                "width": 3.8125,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2000,
+          "unit": "pcs/box",
+          "raw_text": "2000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 19.4788,
+                "width": 3.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 29,
+          "unit": "box",
+          "raw_text": "29",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 19.4788,
+                "width": 2.25,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 122.38,
+          "unit": "kg",
+          "raw_text": "122,38",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.5625,
+                "y": 19.4788,
+                "width": 4.5625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 112.23,
+          "unit": "kg",
+          "raw_text": "112,23",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 88.9375,
+                "y": 19.4788,
+                "width": 4.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200103_R",
+          "unit": null,
+          "raw_text": "PF0200103_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.375,
+                "y": 21.864,
+                "width": 8.0,
+                "height": 0.53
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 110х85 BROWN",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 110х85 BROWN",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 22.8357,
+                "width": 24.875,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 7200,
+          "unit": "pcs",
+          "raw_text": "7200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.4375,
+                "y": 22.4823,
+                "width": 3.5625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box",
+          "raw_text": "1200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.3125,
+                "y": 22.4823,
+                "width": 3.5,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 6,
+          "unit": "box",
+          "raw_text": "6",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 70.0,
+                "y": 22.5265,
+                "width": 1.25,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 11.7,
+          "unit": "kg",
+          "raw_text": "11,70",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 22.4823,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 9.6,
+          "unit": "kg",
+          "raw_text": "9,60",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.6875,
+                "y": 22.4823,
+                "width": 3.25,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200104_R",
+          "unit": null,
+          "raw_text": "PF0200104_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.25,
+                "y": 24.8675,
+                "width": 8.0,
+                "height": 0.4859
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная ПАНЕТТОНЕ 110х85 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 25.8392,
+                "width": 27.0625,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 72000,
+          "unit": "pcs",
+          "raw_text": "72000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.125,
+                "y": 25.4859,
+                "width": 4.1875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2000,
+          "unit": "pcs/box",
+          "raw_text": "2000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 25.4859,
+                "width": 3.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 36,
+          "unit": "box",
+          "raw_text": "36",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.625,
+                "y": 25.4859,
+                "width": 2.1875,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 79.56,
+          "unit": "kg",
+          "raw_text": "79,56",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 25.4859,
+                "width": 4.0,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 66.96,
+          "unit": "kg",
+          "raw_text": "66,96",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 25.4859,
+                "width": 4.0,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200105_R",
+          "unit": null,
+          "raw_text": "PF0200105_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.375,
+                "y": 27.871,
+                "width": 7.9375,
+                "height": 0.53
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 28.8428,
+                "width": 26.4375,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 48000,
+          "unit": "pcs",
+          "raw_text": "48000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 28.4894,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box",
+          "raw_text": "1200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.25,
+                "y": 28.4894,
+                "width": 3.5,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 40,
+          "unit": "box",
+          "raw_text": "40",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 28.5777,
+                "width": 2.0625,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 191.2,
+          "unit": "kg",
+          "raw_text": "191,20",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.4375,
+                "y": 28.4894,
+                "width": 4.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 177.2,
+          "unit": "kg",
+          "raw_text": "177,20",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 88.875,
+                "y": 28.4894,
+                "width": 4.6875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200106_R",
+          "unit": null,
+          "raw_text": "PF0200106_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 30.8746,
+                "width": 8.0625,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 70x60 BROWN",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 70x60 BROWN",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 31.8463,
+                "width": 24.0625,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 20400,
+          "unit": "pcs",
+          "raw_text": "20400",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0,
+                "y": 31.4929,
+                "width": 4.375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box",
+          "raw_text": "1200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.25,
+                "y": 31.4929,
+                "width": 3.5,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 17,
+          "unit": "box",
+          "raw_text": "17",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.6875,
+                "y": 31.5813,
+                "width": 1.875,
+                "height": 0.53
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 90.61,
+          "unit": "kg",
+          "raw_text": "90,61",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 31.4929,
+                "width": 3.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 84.66,
+          "unit": "kg",
+          "raw_text": "84,66",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 31.4929,
+                "width": 4.0,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200107_R",
+          "unit": null,
+          "raw_text": "PF0200107_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.375,
+                "y": 33.8781,
+                "width": 8.0,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 110х85 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 110х85 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 34.8498,
+                "width": 24.75,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 12000,
+          "unit": "pcs",
+          "raw_text": "12000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.125,
+                "y": 34.4965,
+                "width": 4.0625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2400,
+          "unit": "pcs/box",
+          "raw_text": "2400",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 34.4965,
+                "width": 3.4375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "box",
+          "raw_text": "5",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.875,
+                "y": 34.4523,
+                "width": 1.5625,
+                "height": 0.7067
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 22.25,
+          "unit": "kg",
+          "raw_text": "22,25",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 34.4965,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 20.5,
+          "unit": "kg",
+          "raw_text": "20,50",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.1875,
+                "y": 34.4965,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200108_R",
+          "unit": null,
+          "raw_text": "PF0200108_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.25,
+                "y": 36.8816,
+                "width": 8.0625,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная КЕКС 110х85 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная КЕКС 110х85 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 37.8534,
+                "width": 22.5,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 34800,
+          "unit": "pcs",
+          "raw_text": "34800",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.125,
+                "y": 37.5,
+                "width": 4.25,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box",
+          "raw_text": "1200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.25,
+                "y": 37.5,
+                "width": 3.5,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 29,
+          "unit": "box",
+          "raw_text": "29",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.625,
+                "y": 37.5,
+                "width": 2.125,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 113.39,
+          "unit": "kg",
+          "raw_text": "113,39",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.625,
+                "y": 37.5,
+                "width": 4.5625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 103.24,
+          "unit": "kg",
+          "raw_text": "103,24",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 88.9375,
+                "y": 37.5,
+                "width": 4.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200109_R",
+          "unit": null,
+          "raw_text": "PF0200109_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 39.8852,
+                "width": 8.0,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+          "unit": null,
+          "raw_text": "Форма бумажная ПАНЕТТОНЕ 70x60 FLOWERS",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 40.8569,
+                "width": 27.375,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 22000,
+          "unit": "pcs",
+          "raw_text": "22000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 40.5035,
+                "width": 4.1875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2200,
+          "unit": "pcs/box",
+          "raw_text": "2200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 40.5035,
+                "width": 3.5,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 10,
+          "unit": "box",
+          "raw_text": "10",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.625,
+                "y": 40.5035,
+                "width": 2.1875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 56.7,
+          "unit": "kg",
+          "raw_text": "56,70",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 40.5035,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 53.2,
+          "unit": "kg",
+          "raw_text": "53,20",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 40.5035,
+                "width": 3.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200110_R",
+          "unit": null,
+          "raw_text": "PF0200110_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 42.8887,
+                "width": 7.9375,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 43.8604,
+                "width": 26.4375,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 25200,
+          "unit": "pcs",
+          "raw_text": "25200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 43.5071,
+                "width": 4.375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 1200,
+          "unit": "pcs/box",
+          "raw_text": "1200",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.3125,
+                "y": 43.5071,
+                "width": 3.5,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 21,
+          "unit": "box",
+          "raw_text": "21",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 43.5071,
+                "width": 1.9375,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 36.96,
+          "unit": "kg",
+          "raw_text": "36,96",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 43.5071,
+                "width": 4.0625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 29.61,
+          "unit": "kg",
+          "raw_text": "29,61",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 43.5071,
+                "width": 3.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200111_R",
+          "unit": null,
+          "raw_text": "PF0200111_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 45.8922,
+                "width": 8.1875,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная KEKC 90x90 FLOWERS",
+          "unit": null,
+          "raw_text": "Форма бумажная KEKC 90x90 FLOWERS",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.25,
+                "y": 46.864,
+                "width": 23.25,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 117000,
+          "unit": "pcs",
+          "raw_text": "117000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 46.6875,
+                "y": 46.5106,
+                "width": 4.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 3000,
+          "unit": "pcs/box",
+          "raw_text": "3000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 46.5106,
+                "width": 3.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 39,
+          "unit": "box",
+          "raw_text": "39",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 46.5106,
+                "width": 2.1875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 145.47,
+          "unit": "kg",
+          "raw_text": "145,47",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.6875,
+                "y": 46.5548,
+                "width": 4.5,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 131.82,
+          "unit": "kg",
+          "raw_text": "131,82",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.0,
+                "y": 46.5548,
+                "width": 4.5625,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200112_R",
+          "unit": null,
+          "raw_text": "PF0200112_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.0,
+                "y": 48.7633,
+                "width": 8.375,
+                "height": 2.2085
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 90x90 BROWN",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 90x90 BROWN",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 49.8675,
+                "width": 24.0625,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 48000,
+          "unit": "pcs",
+          "raw_text": "48000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 49.5141,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2400,
+          "unit": "pcs/box",
+          "raw_text": "2400",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 49.5141,
+                "width": 3.4375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 20,
+          "unit": "box",
+          "raw_text": "20",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 49.5141,
+                "width": 2.1875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 113.6,
+          "unit": "kg",
+          "raw_text": "113,60",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.5625,
+                "y": 49.5141,
+                "width": 4.8125,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 106.6,
+          "unit": "kg",
+          "raw_text": "106,60",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 88.9375,
+                "y": 49.5141,
+                "width": 4.75,
+                "height": 0.7067
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200113_R",
+          "unit": null,
+          "raw_text": "PF0200113_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.0625,
+                "y": 51.7668,
+                "width": 8.4375,
+                "height": 2.1201
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная ПАНЕТТОНЕ 90x90 FLOWERS",
+          "unit": null,
+          "raw_text": "Форма бумажная ПАНЕТТОНЕ 90x90 FLOWERS",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 52.871,
+                "width": 27.375,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 36000,
+          "unit": "pcs",
+          "raw_text": "36000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 52.5177,
+                "width": 4.0,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 3000,
+          "unit": "pcs/box",
+          "raw_text": "3000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.125,
+                "y": 52.5177,
+                "width": 3.5625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 12,
+          "unit": "box",
+          "raw_text": "12",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.6875,
+                "y": 52.5177,
+                "width": 2.0625,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 82.56,
+          "unit": "kg",
+          "raw_text": "82,56",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 52.5177,
+                "width": 3.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 78.36,
+          "unit": "kg",
+          "raw_text": "78,36",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 52.5177,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200114_R",
+          "unit": null,
+          "raw_text": "PF0200114_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.0,
+                "y": 54.8587,
+                "width": 8.3125,
+                "height": 2.076
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 90х90 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 90х90 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3125,
+                "y": 55.8746,
+                "width": 24.3125,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 99000,
+          "unit": "pcs",
+          "raw_text": "99000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 55.5212,
+                "width": 4.0,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 3000,
+          "unit": "pcs/box",
+          "raw_text": "3000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.25,
+                "y": 55.6095,
+                "width": 3.4375,
+                "height": 0.53
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 33,
+          "unit": "box",
+          "raw_text": "33",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.5625,
+                "y": 55.5212,
+                "width": 2.0625,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 60.39,
+          "unit": "kg",
+          "raw_text": "60,39",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.875,
+                "y": 55.5212,
+                "width": 3.9375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 48.84,
+          "unit": "kg",
+          "raw_text": "48,84",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 55.5212,
+                "width": 3.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200115_R",
+          "unit": null,
+          "raw_text": "PF0200115_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 7.9375,
+                "y": 57.8622,
+                "width": 8.4375,
+                "height": 2.076
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная МАФФИН 70х60 BROWN",
+          "unit": null,
+          "raw_text": "Форма бумажная МАФФИН 70х60 BROWN",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.1875,
+                "y": 58.8781,
+                "width": 24.1875,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 108000,
+          "unit": "pcs",
+          "raw_text": "108000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 46.6875,
+                "y": 58.5247,
+                "width": 4.75,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 3000,
+          "unit": "pcs/box",
+          "raw_text": "3000",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.125,
+                "y": 58.5247,
+                "width": 3.5625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 36,
+          "unit": "box",
+          "raw_text": "36",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.625,
+                "y": 58.5247,
+                "width": 2.1875,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 112.32,
+          "unit": "kg",
+          "raw_text": "112,32",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.5625,
+                "y": 58.5247,
+                "width": 4.625,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 99.72,
+          "unit": "kg",
+          "raw_text": "99,72",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 58.5247,
+                "width": 3.875,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "PF0200116_R",
+          "unit": null,
+          "raw_text": "PF0200116_R",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.25,
+                "y": 60.9099,
+                "width": 7.875,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+          "unit": null,
+          "raw_text": "Форма бумажная ПАНЕТТОНЕ 70х60 MOSAIC",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.25,
+                "y": 61.8816,
+                "width": 26.3125,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 26400,
+          "unit": "pcs",
+          "raw_text": "26400",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.0625,
+                "y": 61.5283,
+                "width": 4.3125,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 2400,
+          "unit": "pcs/box",
+          "raw_text": "2400",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.1875,
+                "y": 61.5283,
+                "width": 3.4375,
+                "height": 0.6184
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 11,
+          "unit": "box",
+          "raw_text": "11",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 69.625,
+                "y": 61.5283,
+                "width": 1.8125,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 55.99,
+          "unit": "kg",
+          "raw_text": "55,99",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 78.9375,
+                "y": 61.5283,
+                "width": 3.9375,
+                "height": 0.6625
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 52.14,
+          "unit": "kg",
+          "raw_text": "52,14",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl02_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 89.3125,
+                "y": 61.5724,
+                "width": 3.9375,
+                "height": 0.5742
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 881400,
+        "unit": "pcs",
+        "raw_text": "381",
+        "source_type": "calculated",
+        "confidence": 0.95,
+        "evidence": [],
+        "derived_from": [
+          "tpl02_001.png:1:47.125:16.4753:4.125:0.6184",
+          "tpl02_001.png:1:47.0625:19.4788:3.8125:0.6184",
+          "tpl02_001.png:1:47.4375:22.4823:3.5625:0.6184",
+          "tpl02_001.png:1:47.125:25.4859:4.1875:0.6184",
+          "tpl02_001.png:1:47.0625:28.4894:3.9375:0.6184",
+          "tpl02_001.png:1:47.0:31.4929:4.375:0.6184",
+          "tpl02_001.png:1:47.125:34.4965:4.0625:0.6184",
+          "tpl02_001.png:1:47.125:37.5:4.25:0.6184",
+          "tpl02_001.png:1:47.0625:40.5035:4.1875:0.6184",
+          "tpl02_001.png:1:47.0625:43.5071:4.375:0.6184",
+          "tpl02_001.png:1:46.6875:46.5106:4.9375:0.6184",
+          "tpl02_001.png:1:47.0625:49.5141:3.9375:0.6184",
+          "tpl02_001.png:1:47.0625:52.5177:4.0:0.6184",
+          "tpl02_001.png:1:47.0625:55.5212:4.0:0.6184",
+          "tpl02_001.png:1:46.6875:58.5247:4.75:0.6184",
+          "tpl02_001.png:1:47.0625:61.5283:4.3125:0.6184"
+        ]
+      },
+      "total_packages": {
+        "value": 381,
+        "unit": "box",
+        "raw_text": "381",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl02_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 69.1875,
+              "y": 63.8251,
+              "width": 2.8125,
+              "height": 0.6625
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 1504.13,
+        "unit": "kg",
+        "raw_text": "1504,13",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl02_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 78.1875,
+              "y": 63.8251,
+              "width": 5.3125,
+              "height": 0.6184
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 1370.78,
+        "unit": "kg",
+        "raw_text": "1370,78",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl02_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 88.625,
+              "y": 63.8251,
+              "width": 5.3125,
+              "height": 0.7067
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "total_customs_value": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      }
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": false,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "sender.name",
+    "sender.country",
+    "sender.address",
+    "consignee.name",
+    "consignee.country",
+    "consignee.address",
+    "total_volume_cbm",
+    "total_customs_value"
+  ]
+}

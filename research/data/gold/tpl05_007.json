@@ -1,0 +1,809 @@
+{
+  "document_id": "tpl05_007",
+  "image": "tpl05_007.png",
+  "expected_output": {
+    "sender": "Granite Industrial Trading Ltd.",
+    "consignor_address": "27 Meridian Road, Ningbo, China",
+    "consignee": "Granite Technical Supply LLC",
+    "consignee_address": "47 Harbor Avenue, Almaty, Kazakhstan",
+    "items": [
+      {
+        "item_article": "2.5-S05007-01",
+        "item_description": "Sunscreen Fabric 2.5m-Openness 5%-390gsm",
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 170.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 66.3,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 78.3,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "2.5-S05007-02",
+        "item_description": "Sunscreen Fabric 2.5m-Openness 3%-430gsm",
+        "item_boxes_count": {
+          "value": 7,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 595.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 255.85,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 297.85,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "3.0-S05007-03",
+        "item_description": "Sunscreen Fabric 3.0m-Openness 6%-390gsm",
+        "item_boxes_count": {
+          "value": 7,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 507.5,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 197.92,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 267.92,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "3.0-S05007-04",
+        "item_description": "Sunscreen Fabric 3.0m-Openness 5%-520gsm",
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 217.5,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 113.1,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 143.1,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "2.5-S05007-05",
+        "item_description": "Sunscreen Fabric 2.5m-Openness 5%-520gsm",
+        "item_boxes_count": {
+          "value": 10,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 850.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 442.0,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 542.0,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "3.0-S05007-06",
+        "item_description": "Sunscreen Fabric 3.0m-Openness 3%-428gsm",
+        "item_boxes_count": {
+          "value": 8,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 580.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 248.24,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 312.24,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "2.5-S05007-07",
+        "item_description": "Sunscreen Fabric 2.5m-Openness 3%-520gsm",
+        "item_boxes_count": {
+          "value": 9,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 652.5,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 339.3,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 411.3,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "2.5-S05007-08",
+        "item_description": "Sunscreen Fabric 2.5m-Openness 5%-430gsm",
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 192.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 82.56,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 98.56,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "2.5-S05007-09",
+        "item_description": "Sunscreen Fabric 2.5m-Openness 3%-430gsm",
+        "item_boxes_count": {
+          "value": 10,
+          "unit": "package"
+        },
+        "item_quantity": {
+          "value": 850.0,
+          "unit": "m2"
+        },
+        "item_net_weight": {
+          "value": 365.5,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 445.5,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "value": 58,
+        "unit": "package"
+      },
+      "total_net_weight": {
+        "value": 2110.77,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 2596.77,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 3.645,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness\n5%-390gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 30.548730548730546,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "2.5-S05007-01",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 31.367731367731366,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 31.367731367731366,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "170.00",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 31.367731367731366,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "66.30",
+          "bbox_percent": {
+            "x": 73.148291015625,
+            "y": 31.367731367731366,
+            "width": 3.50341796875,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "78.30",
+          "bbox_percent": {
+            "x": 83.348291015625,
+            "y": 31.367731367731366,
+            "width": 3.50341796875,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness\n3%-430gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 34.561834561834566,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "2.5-S05007-02",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 35.38083538083538,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "7",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 35.38083538083538,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "595.00",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 35.38083538083538,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "255.85",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 35.38083538083538,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "297.85",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 35.38083538083538,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3.0m-Openness\n6%-390gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 38.57493857493858,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "3.0-S05007-03",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 39.39393939393939,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "7",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 39.39393939393939,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "507.50",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 39.39393939393939,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "197.92",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 39.39393939393939,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "267.92",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 39.39393939393939,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3.0m-Openness\n5%-520gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 42.58804258804259,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "3.0-S05007-04",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 43.4070434070434,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "3",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 43.4070434070434,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "217.50",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 43.4070434070434,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "113.10",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 43.4070434070434,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "143.10",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 43.4070434070434,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness\n5%-520gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 46.6011466011466,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "2.5-S05007-05",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 47.420147420147416,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "10",
+          "bbox_percent": {
+            "x": 49.67138671875,
+            "y": 47.420147420147416,
+            "width": 1.5572265625,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "850.00",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 47.420147420147416,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "442.00",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 47.420147420147416,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "542.00",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 47.420147420147416,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 3.0m-Openness\n3%-428gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 50.61425061425061,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "3.0-S05007-06",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 51.433251433251435,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "8",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 51.433251433251435,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "580.00",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 51.433251433251435,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "248.24",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 51.433251433251435,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "312.24",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 51.433251433251435,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness\n3%-520gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 54.62735462735463,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "2.5-S05007-07",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 55.44635544635545,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "9",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 55.44635544635545,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "652.50",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 55.44635544635545,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "339.30",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 55.44635544635545,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "411.30",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 55.44635544635545,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness\n5%-430gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 58.64045864045864,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "2.5-S05007-08",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 59.45945945945946,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 50.060693359374994,
+            "y": 59.45945945945946,
+            "width": 0.77861328125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "192.00",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 59.45945945945946,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "82.56",
+          "bbox_percent": {
+            "x": 73.148291015625,
+            "y": 59.45945945945946,
+            "width": 3.50341796875,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "98.56",
+          "bbox_percent": {
+            "x": 83.348291015625,
+            "y": 59.45945945945946,
+            "width": 3.50341796875,
+            "height": 1.0760583026208026
+          }
+        }
+      },
+      {
+        "item_description": {
+          "text": "Sunscreen Fabric 2.5m-Openness\n3%-430gsm",
+          "bbox_percent": {
+            "x": 9.48935546875,
+            "y": 62.65356265356266,
+            "width": 21.3212890625,
+            "height": 2.4290476556101543
+          }
+        },
+        "item_article": {
+          "text": "2.5-S05007-09",
+          "bbox_percent": {
+            "x": 36.0802734375,
+            "y": 63.47256347256347,
+            "width": 7.939453125,
+            "height": 0.9223356879606879
+          }
+        },
+        "item_boxes_count": {
+          "text": "10",
+          "bbox_percent": {
+            "x": 49.67138671875,
+            "y": 63.47256347256347,
+            "width": 1.5572265625,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_quantity": {
+          "text": "850.00",
+          "bbox_percent": {
+            "x": 63.108984375,
+            "y": 63.47256347256347,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_net_weight": {
+          "text": "365.50",
+          "bbox_percent": {
+            "x": 72.758984375,
+            "y": 63.47256347256347,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        },
+        "item_gross_weight": {
+          "text": "445.50",
+          "bbox_percent": {
+            "x": 82.958984375,
+            "y": 63.47256347256347,
+            "width": 4.28203125,
+            "height": 1.0760583026208026
+          }
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "text": "58",
+        "bbox_percent": {
+          "x": 49.67138671875,
+          "y": 66.91236691236692,
+          "width": 1.5572265625,
+          "height": 1.0760583026208026
+        }
+      },
+      "total_net_weight": {
+        "text": "2110.77",
+        "bbox_percent": {
+          "x": 72.369677734375,
+          "y": 66.91236691236692,
+          "width": 5.0606445312499995,
+          "height": 1.0760583026208026
+        }
+      },
+      "total_gross_weight": {
+        "text": "2596.77",
+        "bbox_percent": {
+          "x": 82.569677734375,
+          "y": 66.91236691236692,
+          "width": 5.0606445312499995,
+          "height": 1.0760583026208026
+        }
+      },
+      "total_volume_cbm": {
+        "text": "3.645",
+        "bbox_percent": {
+          "x": 92.348291015625,
+          "y": 66.91236691236692,
+          "width": 3.50341796875,
+          "height": 1.0760583026208026
+        }
+      }
+    },
+    "sender": {
+      "text": "Granite Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 49.83251953125,
+        "y": 1.4742014742014742,
+        "width": 35.8349609375,
+        "height": 1.9215326832514332
+      }
+    },
+    "consignor_address": {
+      "text": "27 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 60.899365234375004,
+        "y": 4.914004914004914,
+        "width": 20.70126953125,
+        "height": 1.0760583026208026
+      }
+    },
+    "consignee": {
+      "text": "Granite Technical Supply LLC",
+      "bbox_percent": {
+        "x": 1.7999999999999998,
+        "y": 19.41031941031941,
+        "width": 21.3369140625,
+        "height": 1.1529196099508598
+      }
+    },
+    "consignee_address": {
+      "text": "47 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 1.7999999999999998,
+        "y": 21.21212121212121,
+        "width": 24.51298828125,
+        "height": 1.0760583026208026
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-05007-INV",
+    "document_date": "2026-10-17",
+    "item_volume_cbm": [
+      "0.26",
+      "0.158",
+      "0.162",
+      "0.549",
+      "0.617",
+      "0.698",
+      "0.403",
+      "0.638",
+      "0.16"
+    ],
+    "variant_code": "05007"
+  },
+  "group_annotations": []
+}

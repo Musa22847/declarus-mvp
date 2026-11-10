@@ -1,0 +1,685 @@
+{
+  "batch_id": "tpl03_003",
+  "documents": [
+    {
+      "document_id": "tpl03_003.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "Cobalt Industrial Trading Ltd.",
+          "unit": null,
+          "raw_text": "Cobalt Industrial Trading Ltd.",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 34.8708,
+                "y": 11.5599,
+                "width": 31.6113,
+                "height": 1.3463
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3641,
+                "y": 20.4735,
+                "width": 27.6753,
+                "height": 0.9749
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "23 Meridian Road, Ningbo, China",
+          "unit": null,
+          "raw_text": "23 Meridian Road, Ningbo, China",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 8.3641,
+                "y": 20.4735,
+                "width": 27.6753,
+                "height": 0.9749
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Cobalt Technical Supply LLC",
+          "unit": null,
+          "raw_text": "Cobalt Technical Supply LLC",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 20.9717,
+                "y": 29.48,
+                "width": 21.2177,
+                "height": 0.8357
+              }
+            }
+          ]
+        },
+        "country": null,
+        "address": null
+      },
+      "document_date": {
+        "value": "2026-10-13",
+        "unit": null,
+        "raw_text": "2026-10-13",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.8918,
+              "y": 21.2163,
+              "width": 12.2386,
+              "height": 0.6964
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-03003-INV",
+        "unit": null,
+        "raw_text": "SYN-03003-INV",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.8303,
+              "y": 22.7948,
+              "width": 15.6212,
+              "height": 0.6964
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "Ningbo, China",
+        "unit": null,
+        "raw_text": "Ningbo, China",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 7.9951,
+              "y": 34.5868,
+              "width": 34.5018,
+              "height": 0.9749
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": {
+            "value": "AT-CS-03003/4L",
+            "unit": null,
+            "raw_text": "AT-CS-03003/4L",
+            "source_type": "document",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "tpl03_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 23.3702,
+                  "y": 44.6611,
+                  "width": 12.5461,
+                  "height": 0.7428
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "facial tissue machine",
+            "unit": null,
+            "raw_text": "facial tissue machine",
+            "source_type": "document",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "tpl03_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 22.9397,
+                  "y": 46.5645,
+                  "width": 16.7897,
+                  "height": 0.9285
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 3,
+            "unit": "set",
+            "raw_text": "3 set",
+            "source_type": "document",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "tpl03_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.3555,
+                  "y": 44.8932,
+                  "width": 4.1205,
+                  "height": 0.8357
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": {
+            "value": 5,
+            "unit": "packages",
+            "raw_text": "5 packages",
+            "source_type": "document",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "tpl03_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.4526,
+                  "y": 42.9434,
+                  "width": 7.8106,
+                  "height": 0.7428
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 3216,
+            "unit": "kg",
+            "raw_text": "3216kgs",
+            "source_type": "document",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "tpl03_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 70.6027,
+                  "y": 44.9861,
+                  "width": 6.6421,
+                  "height": 1.0678
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 3052,
+            "unit": "kg",
+            "raw_text": "3052kgs",
+            "source_type": "document",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "tpl03_003.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 59.5326,
+                  "y": 44.8932,
+                  "width": 6.9496,
+                  "height": 1.0678
+                }
+              }
+            ]
+          },
+          "customs_value": null,
+          "currency": null
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 3,
+          "unit": "set",
+          "raw_text": "3 SETS",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 48.9545,
+                "y": 67.0381,
+                "width": 5.6581,
+                "height": 0.8821
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 5,
+          "unit": "packages",
+          "raw_text": "5 PACKAGES",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 13.2226,
+                "y": 66.7595,
+                "width": 10.2091,
+                "height": 0.7892
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 3216,
+          "unit": "kg",
+          "raw_text": "3216KGS",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 70.0492,
+                "y": 67.2702,
+                "width": 7.0111,
+                "height": 0.8357
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 3052,
+          "unit": "kg",
+          "raw_text": "3052KGS",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 58.9791,
+                "y": 67.1309,
+                "width": 7.0726,
+                "height": 0.8821
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": 16,
+          "unit": "m3",
+          "raw_text": "16m3",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 85.9779,
+                "y": 67.5023,
+                "width": 4.2435,
+                "height": 0.65
+              }
+            }
+          ]
+        },
+        "total_customs_value": null
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": "Cobalt Industrial Trading Ltd.",
+        "unit": null,
+        "raw_text": "Cobalt Industrial Trading Ltd.",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 34.8708,
+              "y": 11.5599,
+              "width": 31.6113,
+              "height": 1.3463
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.3641,
+              "y": 20.4735,
+              "width": 27.6753,
+              "height": 0.9749
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "23 Meridian Road, Ningbo, China",
+        "unit": null,
+        "raw_text": "23 Meridian Road, Ningbo, China",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 8.3641,
+              "y": 20.4735,
+              "width": 27.6753,
+              "height": 0.9749
+            }
+          }
+        ]
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": "Cobalt Technical Supply LLC",
+        "unit": null,
+        "raw_text": "Cobalt Technical Supply LLC",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 20.9717,
+              "y": 29.48,
+              "width": 21.2177,
+              "height": 0.8357
+            }
+          }
+        ]
+      },
+      "country": null,
+      "address": null
+    },
+    "items": [
+      {
+        "item_article": {
+          "value": "AT-CS-03003/4L",
+          "unit": null,
+          "raw_text": "AT-CS-03003/4L",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 23.3702,
+                "y": 44.6611,
+                "width": 12.5461,
+                "height": 0.7428
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "facial tissue machine",
+          "unit": null,
+          "raw_text": "facial tissue machine",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 22.9397,
+                "y": 46.5645,
+                "width": 16.7897,
+                "height": 0.9285
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 3,
+          "unit": "set",
+          "raw_text": "3 set",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.3555,
+                "y": 44.8932,
+                "width": 4.1205,
+                "height": 0.8357
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "packages",
+          "raw_text": "5 packages",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.4526,
+                "y": 42.9434,
+                "width": 7.8106,
+                "height": 0.7428
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 3216,
+          "unit": "kg",
+          "raw_text": "3216kgs",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 70.6027,
+                "y": 44.9861,
+                "width": 6.6421,
+                "height": 1.0678
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 3052,
+          "unit": "kg",
+          "raw_text": "3052kgs",
+          "source_type": "document",
+          "confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "tpl03_003.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 59.5326,
+                "y": 44.8932,
+                "width": 6.9496,
+                "height": 1.0678
+              }
+            }
+          ]
+        },
+        "customs_value": null,
+        "currency": null
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 3,
+        "unit": "set",
+        "raw_text": "3 SETS",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 48.9545,
+              "y": 67.0381,
+              "width": 5.6581,
+              "height": 0.8821
+            }
+          }
+        ]
+      },
+      "total_packages": {
+        "value": 5,
+        "unit": "packages",
+        "raw_text": "5 PACKAGES",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 13.2226,
+              "y": 66.7595,
+              "width": 10.2091,
+              "height": 0.7892
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 3216,
+        "unit": "kg",
+        "raw_text": "3216KGS",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 70.0492,
+              "y": 67.2702,
+              "width": 7.0111,
+              "height": 0.8357
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 3052,
+        "unit": "kg",
+        "raw_text": "3052KGS",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 58.9791,
+              "y": 67.1309,
+              "width": 7.0726,
+              "height": 0.8821
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": 16,
+        "unit": "m3",
+        "raw_text": "16m3",
+        "source_type": "document",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "tpl03_003.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 85.9779,
+              "y": 67.5023,
+              "width": 4.2435,
+              "height": 0.65
+            }
+          }
+        ]
+      },
+      "total_customs_value": null
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": true,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "consignee.country",
+    "consignee.address",
+    "customs_value",
+    "currency"
+  ]
+}

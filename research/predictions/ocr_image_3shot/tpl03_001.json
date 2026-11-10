@@ -1,0 +1,685 @@
+{
+  "/batch_id": "tpl03_001",
+  "documents": [
+    {
+      "document_id": "tpl03_001.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "Aster Industrial Trading Ltd.",
+          "unit": null,
+          "raw_text": "Aster Industrial Trading Ltd.",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 34.625,
+                "y": 11.3871,
+                "width": 31.0,
+                "height": 0.8903
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 7.3125,
+                "y": 20.5717,
+                "width": 28.0,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "21 Meridian Road, Ningbo, China",
+          "unit": null,
+          "raw_text": "21 Meridian Road, Ningbo, China",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 7.3125,
+                "y": 20.5717,
+                "width": 28.0,
+                "height": 0.7029
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Aster Technical Supply LLC",
+          "unit": null,
+          "raw_text": "Aster Technical Supply LLC",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 20.0,
+                "y": 29.522,
+                "width": 20.8125,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "country": null,
+        "address": null
+      },
+      "document_date": {
+        "value": "2026-10-11",
+        "unit": null,
+        "raw_text": "2026-10-11",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.8125,
+              "y": 20.6186,
+              "width": 12.5625,
+              "height": 0.656
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-03001-INV",
+        "unit": null,
+        "raw_text": "SYN-03001-INV",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 75.75,
+              "y": 22.1649,
+              "width": 16.0,
+              "height": 0.7498
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "Ningbo, China",
+        "unit": null,
+        "raw_text": "Ningbo, China",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 6.9375,
+              "y": 34.8172,
+              "width": 35.3125,
+              "height": 0.7029
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": {
+            "value": "AT-CS-03001/4L",
+            "unit": null,
+            "raw_text": "AT-CS-03001/4L",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl03_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 22.8125,
+                  "y": 44.7985,
+                  "width": 12.875,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "facial tissue machine",
+            "unit": null,
+            "raw_text": "facial tissue machine",
+            "source_type": "document",
+            "confidence": 0.95,
+            "evidence": [
+              {
+                "document_id": "tpl03_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 22.5625,
+                  "y": 46.7666,
+                  "width": 16.9375,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 3,
+            "unit": "set",
+            "raw_text": "3 set",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl03_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 47.25,
+                  "y": 44.9391,
+                  "width": 4.125,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "item_units_per_box": null,
+          "item_boxes_count": {
+            "value": 3,
+            "unit": "box",
+            "raw_text": "3 packages",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl03_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 13.9375,
+                  "y": 43.2052,
+                  "width": 7.625,
+                  "height": 0.656
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 3747,
+            "unit": "kg",
+            "raw_text": "3747kgs",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl03_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 70.875,
+                  "y": 44.7048,
+                  "width": 6.9375,
+                  "height": 1.0309
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 3551,
+            "unit": "kg",
+            "raw_text": "3551kgs",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl03_001.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 59.625,
+                  "y": 44.7048,
+                  "width": 7.0,
+                  "height": 1.0309
+                }
+              }
+            ]
+          },
+          "customs_value": null,
+          "currency": null
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 3,
+          "unit": "set",
+          "raw_text": "3 SETS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 49.375,
+                "y": 67.2446,
+                "width": 5.5625,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 3,
+          "unit": "box",
+          "raw_text": "3 PACKAGES",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 12.875,
+                "y": 67.2446,
+                "width": 10.3125,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 3747,
+          "unit": "kg",
+          "raw_text": "3747KGS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 70.875,
+                "y": 67.2446,
+                "width": 7.0,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 3551,
+          "unit": "kg",
+          "raw_text": "3551KGS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 59.5,
+                "y": 67.2446,
+                "width": 7.125,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": 16.0,
+          "unit": "m3",
+          "raw_text": "16m3",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 86.875,
+                "y": 67.2915,
+                "width": 4.375,
+                "height": 0.656
+              }
+            }
+          ]
+        },
+        "total_customs_value": null
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": "Aster Industrial Trading Ltd.",
+        "unit": null,
+        "raw_text": "Aster Industrial Trading Ltd.",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 34.625,
+              "y": 11.3871,
+              "width": 31.0,
+              "height": 0.8903
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 7.3125,
+              "y": 20.5717,
+              "width": 28.0,
+              "height": 0.7029
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "21 Meridian Road, Ningbo, China",
+        "unit": null,
+        "raw_text": "21 Meridian Road, Ningbo, China",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 7.3125,
+              "y": 20.5717,
+              "width": 28.0,
+              "height": 0.7029
+            }
+          }
+        ]
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": "Aster Technical Supply LLC",
+        "unit": null,
+        "raw_text": "Aster Technical Supply LLC",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 20.0,
+              "y": 29.522,
+              "width": 20.8125,
+              "height": 0.7498
+            }
+          }
+        ]
+      },
+      "country": null,
+      "address": null
+    },
+    "items": [
+      {
+        "item_article": {
+          "value": "AT-CS-03001/4L",
+          "unit": null,
+          "raw_text": "AT-CS-03001/4L",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 22.8125,
+                "y": 44.7985,
+                "width": 12.875,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "facial tissue machine",
+          "unit": null,
+          "raw_text": "facial tissue machine",
+          "source_type": "document",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 22.5625,
+                "y": 46.7666,
+                "width": 16.9375,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 3,
+          "unit": "set",
+          "raw_text": "3 set",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 47.25,
+                "y": 44.9391,
+                "width": 4.125,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "item_units_per_box": null,
+        "item_boxes_count": {
+          "value": 3,
+          "unit": "box",
+          "raw_text": "3 packages",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 13.9375,
+                "y": 43.2052,
+                "width": 7.625,
+                "height": 0.656
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 3747,
+          "unit": "kg",
+          "raw_text": "3747kgs",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 70.875,
+                "y": 44.7048,
+                "width": 6.9375,
+                "height": 1.0309
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 3551,
+          "unit": "kg",
+          "raw_text": "3551kgs",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl03_001.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 59.625,
+                "y": 44.7048,
+                "width": 7.0,
+                "height": 1.0309
+              }
+            }
+          ]
+        },
+        "customs_value": null,
+        "currency": null
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 3,
+        "unit": "set",
+        "raw_text": "3 SETS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 49.375,
+              "y": 67.2446,
+              "width": 5.5625,
+              "height": 0.7966
+            }
+          }
+        ]
+      },
+      "total_packages": {
+        "value": 3,
+        "unit": "box",
+        "raw_text": "3 PACKAGES",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 12.875,
+              "y": 67.2446,
+              "width": 10.3125,
+              "height": 0.7966
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 3747,
+        "unit": "kg",
+        "raw_text": "3747KGS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 70.875,
+              "y": 67.2446,
+              "width": 7.0,
+              "height": 0.7029
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 3551,
+        "unit": "kg",
+        "raw_text": "3551KGS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 59.5,
+              "y": 67.2446,
+              "width": 7.125,
+              "height": 0.7966
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": 16.0,
+        "unit": "m3",
+        "raw_text": "16m3",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl03_001.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 86.875,
+              "y": 67.2915,
+              "width": 4.375,
+              "height": 0.656
+            }
+          }
+        ]
+      },
+      "total_customs_value": null
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": true,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "consignee.country",
+    "consignee.address",
+    "customs_value",
+    "currency"
+  ]
+}

@@ -1,0 +1,2493 @@
+{
+  "page": 1,
+  "page_size_px": {
+    "width": 1600,
+    "height": 1954
+  },
+  "full_text": "Boreal Industrial Trading Ltd.\nSYNTHETIC\nAdd:\n22 Meridian Road, Ningbo, China\nEmail: sales@example.invalid\nSynthetic industrial materials\nPACKING LIST\nTo:\nBoreal Technical Supply LLC\n42 Harbor Avenue, Almaty, Kazakhstan\nPI No.: SYN-05002-INV\nDate: 2026-10-12\nRegional Sales: Demo Sales\nTerms of price: FCA YiWu\nNo.\nDescription\nItem No.\nPackage\nUnit\nQty.\nN.W.(KGS)\nG.W.(KGS)\nMEAS.\n(CBM)\nSunscreen Fabric 3.0m-Openness\n6%-390gsm\n3.0-S05002-01\n5\nSQM\n425.00\n165.75\n215.75\n0.195\n2\nSunscreen Fabric 3.0m-Openness\n6%-520gsm\n3.0-S05002-02\n14\nSQM\n1190.00\n618.80\n702.80\n0.43\n3\nSunscreen Fabric 2.5m-Openness\n3%-390gsm\n2.5-S05002-03\n10\nSQM\n725.00\n282.75\n362.75\n0.383\n4\nSunscreen Fabric 2.5m-Openness\n5%-430gsm\n2.5-S05002-04\n3\nSQM\n255.00\n109.65\n133.65\n0.587\n5\nSunscreen Fabric 3.0m-Openness\n5%-520gsm\n3.0-S05002-05\n5\nSQM\n450.00\n234.00\n274.00\n0.183\n6\nSunscreen Fabric 2.5m-Openness\n5%-430gsm\n2.5-S05002-06\n8\nSQM\n768.00\n330.24\n410.24\n0.626\nSunscreen Fabric 3.0m-Openness\n6%-430gsm\n3.0-S05002-07\n7\nSQM\n507.50\n218.22\n260.22\n0.198\n8\nSunscreen Fabric 2.5m-Openness\n3%-430gsm\n2.5-S05002-08\n11\nSQM\n797.50\n342.92\n430.92\n0.696\n9\nSunscreen Fabric 3.0m-Openness\n5%-430gsm\n3.0-S05002-09\n2\nSQM\n145.00\n62.35\n78.35\n0.363\nTOTAL:\n65\n2364.68\n2868.68\n3.661\nMeasurements(CBM): 3.661\nPacking: Inner Packing: Poly Bag; Outer Packing: Paper Tube\nShipping Marks:\nTime of Delivery: Shipping within 7 days after payment\nPort of Loading: Ningbo\nSYN-05002-INV\nPort of Destination: Almaty\nITEM NO.:\nMeans of Transport: By Express\nWIDTH:\nTerms of Payment: 100% T.T in advance\nLENGTH:\nPACKAGE NO.:\nCountry of Origin: China\nInsurance: To be effected by the Buyer\nQuantity Allowance: +/-5%\nFor and on behalf of\nSYNTHETIC SAMPLE\nNo authorized signature\nSYNTHETIC / NOT FOR SHIPPING\n",
+  "lines": [
+    {
+      "text": "Boreal Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 50.0625,
+        "y": 1.7912,
+        "width": 35.6875,
+        "height": 1.1259
+      }
+    },
+    {
+      "text": "SYNTHETIC",
+      "bbox_percent": {
+        "x": 0.9375,
+        "y": 2.5589,
+        "width": 29.3125,
+        "height": 2.2006
+      }
+    },
+    {
+      "text": "Add:",
+      "bbox_percent": {
+        "x": 39.0625,
+        "y": 4.8618,
+        "width": 3.625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "22 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 60.625,
+        "y": 4.9642,
+        "width": 21.1875,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "Email: sales@example.invalid",
+      "bbox_percent": {
+        "x": 79.0,
+        "y": 8.9048,
+        "width": 19.25,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "Synthetic industrial materials",
+      "bbox_percent": {
+        "x": 2.5,
+        "y": 10.2354,
+        "width": 18.6875,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "PACKING LIST",
+      "bbox_percent": {
+        "x": 44.4375,
+        "y": 14.2784,
+        "width": 19.625,
+        "height": 1.2794
+      }
+    },
+    {
+      "text": "To:",
+      "bbox_percent": {
+        "x": 1.4375,
+        "y": 17.5537,
+        "width": 3.1875,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Boreal Technical Supply LLC",
+      "bbox_percent": {
+        "x": 1.4375,
+        "y": 19.4985,
+        "width": 21.3125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "42 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 1.5625,
+        "y": 21.2385,
+        "width": 25.1875,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "PI No.: SYN-05002-INV",
+      "bbox_percent": {
+        "x": 46.25,
+        "y": 18.5773,
+        "width": 17.5,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "Date: 2026-10-12",
+      "bbox_percent": {
+        "x": 46.125,
+        "y": 20.522,
+        "width": 13.5,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Regional Sales: Demo Sales",
+      "bbox_percent": {
+        "x": 46.125,
+        "y": 22.5691,
+        "width": 20.6875,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "Terms of price: FCA YiWu",
+      "bbox_percent": {
+        "x": 1.3125,
+        "y": 24.6162,
+        "width": 21.9375,
+        "height": 0.9724
+      }
+    },
+    {
+      "text": "No.",
+      "bbox_percent": {
+        "x": 2.4375,
+        "y": 27.1238,
+        "width": 2.8125,
+        "height": 1.0235
+      }
+    },
+    {
+      "text": "Description",
+      "bbox_percent": {
+        "x": 15.8125,
+        "y": 27.2774,
+        "width": 8.375,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "Item No.",
+      "bbox_percent": {
+        "x": 36.9375,
+        "y": 27.2262,
+        "width": 6.1875,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "Package",
+      "bbox_percent": {
+        "x": 47.1875,
+        "y": 27.175,
+        "width": 6.4375,
+        "height": 0.9724
+      }
+    },
+    {
+      "text": "Unit",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 27.2262,
+        "width": 3.6875,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "Qty.",
+      "bbox_percent": {
+        "x": 63.6875,
+        "y": 27.0727,
+        "width": 3.25,
+        "height": 1.2282
+      }
+    },
+    {
+      "text": "N.W.(KGS)",
+      "bbox_percent": {
+        "x": 71.1875,
+        "y": 27.175,
+        "width": 7.6875,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "G.W.(KGS)",
+      "bbox_percent": {
+        "x": 81.4375,
+        "y": 27.175,
+        "width": 7.625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "MEAS.",
+      "bbox_percent": {
+        "x": 91.5,
+        "y": 27.1238,
+        "width": 5.125,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "(CBM)",
+      "bbox_percent": {
+        "x": 91.6875,
+        "y": 28.4545,
+        "width": 4.75,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 3.0m-Openness",
+      "bbox_percent": {
+        "x": 9.25,
+        "y": 30.7062,
+        "width": 21.625,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "6%-390gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 31.8833,
+        "width": 8.0625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "3.0-S05002-01",
+      "bbox_percent": {
+        "x": 35.75,
+        "y": 31.4227,
+        "width": 8.5625,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "5",
+      "bbox_percent": {
+        "x": 49.8125,
+        "y": 31.218,
+        "width": 1.4375,
+        "height": 0.9724
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 31.2692,
+        "width": 3.8125,
+        "height": 0.9212
+      }
+    },
+    {
+      "text": "425.00",
+      "bbox_percent": {
+        "x": 62.8125,
+        "y": 31.2692,
+        "width": 4.875,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "165.75",
+      "bbox_percent": {
+        "x": 72.4375,
+        "y": 31.3204,
+        "width": 4.9375,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "215.75",
+      "bbox_percent": {
+        "x": 82.625,
+        "y": 31.3204,
+        "width": 4.875,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "0.195",
+      "bbox_percent": {
+        "x": 92.125,
+        "y": 31.3204,
+        "width": 4.0625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "2",
+      "bbox_percent": {
+        "x": 3.1875,
+        "y": 35.3634,
+        "width": 1.5625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 3.0m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 34.6981,
+        "width": 21.8125,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "6%-520gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 35.9263,
+        "width": 7.75,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "3.0-S05002-02",
+      "bbox_percent": {
+        "x": 35.8125,
+        "y": 35.4145,
+        "width": 8.3125,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "14",
+      "bbox_percent": {
+        "x": 49.5,
+        "y": 35.4657,
+        "width": 1.875,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 35.3634,
+        "width": 3.5625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "1190.00",
+      "bbox_percent": {
+        "x": 62.5,
+        "y": 35.3634,
+        "width": 5.625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "618.80",
+      "bbox_percent": {
+        "x": 72.375,
+        "y": 35.3634,
+        "width": 4.9375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "702.80",
+      "bbox_percent": {
+        "x": 82.625,
+        "y": 35.3634,
+        "width": 4.875,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "0.43",
+      "bbox_percent": {
+        "x": 92.5,
+        "y": 35.3122,
+        "width": 3.1875,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "3",
+      "bbox_percent": {
+        "x": 3.1875,
+        "y": 39.4063,
+        "width": 1.5625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 2.5m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 38.6387,
+        "width": 21.8125,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "3%-390gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 39.9693,
+        "width": 7.75,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "2.5-S05002-03",
+      "bbox_percent": {
+        "x": 35.875,
+        "y": 39.4063,
+        "width": 8.3125,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "10",
+      "bbox_percent": {
+        "x": 49.375,
+        "y": 39.304,
+        "width": 2.4375,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 39.3552,
+        "width": 3.5625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "725.00",
+      "bbox_percent": {
+        "x": 62.75,
+        "y": 39.3552,
+        "width": 5.125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "282.75",
+      "bbox_percent": {
+        "x": 72.375,
+        "y": 39.3552,
+        "width": 4.9375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "362.75",
+      "bbox_percent": {
+        "x": 82.5625,
+        "y": 39.3552,
+        "width": 4.8125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "0.383",
+      "bbox_percent": {
+        "x": 92.125,
+        "y": 39.304,
+        "width": 4.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "4",
+      "bbox_percent": {
+        "x": 3.4375,
+        "y": 43.7052,
+        "width": 1.0625,
+        "height": 0.4606
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 2.5m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 42.6305,
+        "width": 21.8125,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "5%-430gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 43.9611,
+        "width": 7.75,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "2.5-S05002-04",
+      "bbox_percent": {
+        "x": 35.9375,
+        "y": 43.4493,
+        "width": 8.3125,
+        "height": 0.5629
+      }
+    },
+    {
+      "text": "3",
+      "bbox_percent": {
+        "x": 49.8125,
+        "y": 43.347,
+        "width": 1.5625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 43.347,
+        "width": 3.5625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "255.00",
+      "bbox_percent": {
+        "x": 62.6875,
+        "y": 43.347,
+        "width": 5.0,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "109.65",
+      "bbox_percent": {
+        "x": 72.5,
+        "y": 43.347,
+        "width": 4.75,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "133.65",
+      "bbox_percent": {
+        "x": 82.625,
+        "y": 43.347,
+        "width": 4.8125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "0.587",
+      "bbox_percent": {
+        "x": 92.1875,
+        "y": 43.347,
+        "width": 4.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "5",
+      "bbox_percent": {
+        "x": 3.125,
+        "y": 47.4411,
+        "width": 1.75,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 3.0m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 46.6735,
+        "width": 21.8125,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "5%-520gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 47.9529,
+        "width": 8.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "3.0-S05002-05",
+      "bbox_percent": {
+        "x": 35.875,
+        "y": 47.4923,
+        "width": 8.1875,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "5",
+      "bbox_percent": {
+        "x": 49.875,
+        "y": 47.4923,
+        "width": 1.3125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.75,
+        "y": 47.3388,
+        "width": 3.75,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "450.00",
+      "bbox_percent": {
+        "x": 62.75,
+        "y": 47.4411,
+        "width": 5.0625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "234.00",
+      "bbox_percent": {
+        "x": 72.4375,
+        "y": 47.4411,
+        "width": 5.0,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "274.00",
+      "bbox_percent": {
+        "x": 82.625,
+        "y": 47.39,
+        "width": 5.0,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "0.183",
+      "bbox_percent": {
+        "x": 92.0625,
+        "y": 47.39,
+        "width": 3.9375,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "6",
+      "bbox_percent": {
+        "x": 3.375,
+        "y": 51.74,
+        "width": 0.8125,
+        "height": 0.4094
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 2.5m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 50.6653,
+        "width": 21.8125,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "5%-430gsm",
+      "bbox_percent": {
+        "x": 16.1875,
+        "y": 51.9447,
+        "width": 7.75,
+        "height": 0.9212
+      }
+    },
+    {
+      "text": "2.5-S05002-06",
+      "bbox_percent": {
+        "x": 35.9375,
+        "y": 51.4841,
+        "width": 8.5,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "8",
+      "bbox_percent": {
+        "x": 49.75,
+        "y": 51.3306,
+        "width": 1.4375,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.75,
+        "y": 51.3306,
+        "width": 3.75,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "768.00",
+      "bbox_percent": {
+        "x": 62.75,
+        "y": 51.3818,
+        "width": 5.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "330.24",
+      "bbox_percent": {
+        "x": 72.5,
+        "y": 51.3818,
+        "width": 5.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "410.24",
+      "bbox_percent": {
+        "x": 82.625,
+        "y": 51.3818,
+        "width": 5.0,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "0.626",
+      "bbox_percent": {
+        "x": 92.125,
+        "y": 51.3818,
+        "width": 4.125,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 3.0m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 54.7595,
+        "width": 21.8125,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "6%-430gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 55.9877,
+        "width": 7.75,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "3.0-S05002-07",
+      "bbox_percent": {
+        "x": 35.8125,
+        "y": 55.4759,
+        "width": 8.375,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "7",
+      "bbox_percent": {
+        "x": 49.75,
+        "y": 55.3224,
+        "width": 1.25,
+        "height": 0.9212
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 55.4248,
+        "width": 3.5625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "507.50",
+      "bbox_percent": {
+        "x": 62.75,
+        "y": 55.4248,
+        "width": 4.875,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "218.22",
+      "bbox_percent": {
+        "x": 72.375,
+        "y": 55.4248,
+        "width": 4.9375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "260.22",
+      "bbox_percent": {
+        "x": 82.5625,
+        "y": 55.4248,
+        "width": 4.9375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "0.198",
+      "bbox_percent": {
+        "x": 92.1875,
+        "y": 55.4248,
+        "width": 4.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "8",
+      "bbox_percent": {
+        "x": 3.1875,
+        "y": 59.5701,
+        "width": 1.4375,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 2.5m-Openness",
+      "bbox_percent": {
+        "x": 9.0625,
+        "y": 58.7513,
+        "width": 21.8125,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "3%-430gsm",
+      "bbox_percent": {
+        "x": 16.1875,
+        "y": 60.0819,
+        "width": 7.6875,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "2.5-S05002-08",
+      "bbox_percent": {
+        "x": 35.9375,
+        "y": 59.4166,
+        "width": 8.4375,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "11",
+      "bbox_percent": {
+        "x": 49.4375,
+        "y": 59.4678,
+        "width": 1.8125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 59.3654,
+        "width": 3.5625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "797.50",
+      "bbox_percent": {
+        "x": 62.875,
+        "y": 59.4166,
+        "width": 4.8125,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "342.92",
+      "bbox_percent": {
+        "x": 72.375,
+        "y": 59.4166,
+        "width": 4.9375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "430.92",
+      "bbox_percent": {
+        "x": 82.625,
+        "y": 59.4166,
+        "width": 4.8125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "0.696",
+      "bbox_percent": {
+        "x": 92.25,
+        "y": 59.4678,
+        "width": 4.0625,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "9",
+      "bbox_percent": {
+        "x": 3.1875,
+        "y": 63.5619,
+        "width": 1.3125,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "Sunscreen Fabric 3.0m-Openness",
+      "bbox_percent": {
+        "x": 9.125,
+        "y": 62.7431,
+        "width": 21.8125,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "5%-430gsm",
+      "bbox_percent": {
+        "x": 16.125,
+        "y": 64.0225,
+        "width": 7.75,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "3.0-S05002-09",
+      "bbox_percent": {
+        "x": 35.8125,
+        "y": 63.4084,
+        "width": 8.5,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "2",
+      "bbox_percent": {
+        "x": 49.5625,
+        "y": 63.4596,
+        "width": 1.75,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "SQM",
+      "bbox_percent": {
+        "x": 55.8125,
+        "y": 63.4596,
+        "width": 3.5625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "145.00",
+      "bbox_percent": {
+        "x": 62.8125,
+        "y": 63.5107,
+        "width": 4.9375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "62.35",
+      "bbox_percent": {
+        "x": 72.8125,
+        "y": 63.4596,
+        "width": 4.25,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "78.35",
+      "bbox_percent": {
+        "x": 83.0,
+        "y": 63.5107,
+        "width": 4.1875,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "0.363",
+      "bbox_percent": {
+        "x": 92.125,
+        "y": 63.5107,
+        "width": 3.875,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "TOTAL:",
+      "bbox_percent": {
+        "x": 26.8125,
+        "y": 66.8373,
+        "width": 6.5,
+        "height": 1.0747
+      }
+    },
+    {
+      "text": "65",
+      "bbox_percent": {
+        "x": 49.375,
+        "y": 66.9396,
+        "width": 2.1875,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "2364.68",
+      "bbox_percent": {
+        "x": 72.0625,
+        "y": 66.8884,
+        "width": 5.5625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "2868.68",
+      "bbox_percent": {
+        "x": 82.25,
+        "y": 66.8884,
+        "width": 5.5625,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "3.661",
+      "bbox_percent": {
+        "x": 92.125,
+        "y": 66.9396,
+        "width": 4.0625,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "Measurements(CBM): 3.661",
+      "bbox_percent": {
+        "x": 61.1875,
+        "y": 70.3685,
+        "width": 20.25,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Packing: Inner Packing: Poly Bag; Outer Packing: Paper Tube",
+      "bbox_percent": {
+        "x": 1.375,
+        "y": 72.0573,
+        "width": 42.0,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "Shipping Marks:",
+      "bbox_percent": {
+        "x": 61.0625,
+        "y": 72.7226,
+        "width": 12.3125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "Time of Delivery: Shipping within 7 days after payment",
+      "bbox_percent": {
+        "x": 1.375,
+        "y": 73.7973,
+        "width": 37.25,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "Port of Loading: Ningbo",
+      "bbox_percent": {
+        "x": 1.5,
+        "y": 75.4862,
+        "width": 16.5625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "SYN-05002-INV",
+      "bbox_percent": {
+        "x": 62.3125,
+        "y": 75.8956,
+        "width": 11.125,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "Port of Destination: Almaty",
+      "bbox_percent": {
+        "x": 1.5,
+        "y": 77.2262,
+        "width": 18.875,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "ITEM NO.:",
+      "bbox_percent": {
+        "x": 62.1875,
+        "y": 77.3797,
+        "width": 7.75,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Means of Transport: By Express",
+      "bbox_percent": {
+        "x": 1.375,
+        "y": 78.9662,
+        "width": 22.125,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "WIDTH:",
+      "bbox_percent": {
+        "x": 62.1875,
+        "y": 78.8639,
+        "width": 6.0,
+        "height": 0.8188
+      }
+    },
+    {
+      "text": "Terms of Payment: 100% T.T in advance",
+      "bbox_percent": {
+        "x": 1.3125,
+        "y": 80.6551,
+        "width": 27.4375,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "LENGTH:",
+      "bbox_percent": {
+        "x": 62.1875,
+        "y": 80.2968,
+        "width": 7.1875,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "PACKAGE NO.:",
+      "bbox_percent": {
+        "x": 62.125,
+        "y": 81.6786,
+        "width": 11.8125,
+        "height": 0.87
+      }
+    },
+    {
+      "text": "Country of Origin: China",
+      "bbox_percent": {
+        "x": 1.4375,
+        "y": 82.3951,
+        "width": 17.0,
+        "height": 0.7165
+      }
+    },
+    {
+      "text": "Insurance: To be effected by the Buyer",
+      "bbox_percent": {
+        "x": 1.375,
+        "y": 84.1351,
+        "width": 26.5625,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "Quantity Allowance: +/-5%",
+      "bbox_percent": {
+        "x": 1.375,
+        "y": 85.824,
+        "width": 18.125,
+        "height": 0.6653
+      }
+    },
+    {
+      "text": "For and on behalf of",
+      "bbox_percent": {
+        "x": 4.25,
+        "y": 91.914,
+        "width": 13.1875,
+        "height": 0.6141
+      }
+    },
+    {
+      "text": "SYNTHETIC SAMPLE",
+      "bbox_percent": {
+        "x": 4.3125,
+        "y": 93.0911,
+        "width": 14.375,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "No authorized signature",
+      "bbox_percent": {
+        "x": 4.125,
+        "y": 94.5241,
+        "width": 15.625,
+        "height": 0.7677
+      }
+    },
+    {
+      "text": "SYNTHETIC / NOT FOR SHIPPING",
+      "bbox_percent": {
+        "x": 44.9375,
+        "y": 98.9253,
+        "width": 10.0,
+        "height": 0.4094
+      }
+    }
+  ],
+  "tables": [
+    {
+      "row_count": 11,
+      "column_count": 9,
+      "bbox_percent": {
+        "x": 1.125,
+        "y": 25.8444,
+        "width": 97.0625,
+        "height": 43.0399
+      },
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "No.",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 25.8444,
+            "width": 4.875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Description",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 25.8444,
+            "width": 27.25,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Item No.",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 25.8444,
+            "width": 12.125,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Package",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 25.8444,
+            "width": 8.6875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Unit",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 25.8444,
+            "width": 5.875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Qty.",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 25.8444,
+            "width": 9.0625,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "N.W.(KGS)",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 25.8444,
+            "width": 10.1875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "G.W.(KGS)",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 25.8444,
+            "width": 10.1875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 0,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "MEAS.\n(CBM)",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 25.8444,
+            "width": 7.875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 29.9386,
+            "width": 4.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 3.0m-Openness\n6%-390gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 29.9386,
+            "width": 27.25,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3.0-S05002-01",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 29.9386,
+            "width": 12.125,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "5",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 29.9386,
+            "width": 8.6875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 29.9386,
+            "width": 5.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "425.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 29.9386,
+            "width": 9.0625,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "165.75",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 29.9386,
+            "width": 10.1875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "215.75",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 29.9386,
+            "width": 10.1875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 1,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.195",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 29.9386,
+            "width": 7.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 34.0328,
+            "width": 4.875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 3.0m-Openness\n6%-520gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 34.0328,
+            "width": 27.25,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3.0-S05002-02",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 34.0328,
+            "width": 12.125,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "14",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 34.0328,
+            "width": 8.6875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 34.0328,
+            "width": 5.875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1190.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 34.0328,
+            "width": 9.0625,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "618.80",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 34.0328,
+            "width": 10.1875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "702.80",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 34.0328,
+            "width": 10.1875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 2,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.43",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 34.0328,
+            "width": 7.875,
+            "height": 4.1453
+          }
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 37.9734,
+            "width": 4.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 2.5m-Openness\n3%-390gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 37.9734,
+            "width": 27.25,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2.5-S05002-03",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 37.9734,
+            "width": 12.125,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "10",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 37.9734,
+            "width": 8.6875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 37.9734,
+            "width": 5.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "725.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 37.9734,
+            "width": 9.0625,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "282.75",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 37.9734,
+            "width": 10.1875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "362.75",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 37.9734,
+            "width": 10.1875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 3,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.383",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 37.9734,
+            "width": 7.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "4",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 42.0164,
+            "width": 4.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 2.5m-Openness\n5%-430gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 42.0164,
+            "width": 27.25,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2.5-S05002-04",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 42.0164,
+            "width": 12.125,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 42.0164,
+            "width": 8.6875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 42.0164,
+            "width": 5.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "255.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 42.0164,
+            "width": 9.0625,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "109.65",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 42.0164,
+            "width": 10.1875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "133.65",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 42.0164,
+            "width": 10.1875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 4,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.587",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 42.0164,
+            "width": 7.875,
+            "height": 4.0942
+          }
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "5",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 45.957,
+            "width": 4.875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 3.0m-Openness\n5%-520gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 45.957,
+            "width": 27.25,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3.0-S05002-05",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 45.957,
+            "width": 12.125,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "5",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 45.957,
+            "width": 8.6875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 45.957,
+            "width": 5.875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "450.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 45.957,
+            "width": 9.0625,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "234.00",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 45.957,
+            "width": 10.1875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "274.00",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 45.957,
+            "width": 10.1875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 5,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.183",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 45.957,
+            "width": 7.875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "6",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 50.0512,
+            "width": 4.875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 2.5m-Openness\n5%-430gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 50.0512,
+            "width": 27.25,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2.5-S05002-06",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 50.0512,
+            "width": 12.125,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "8",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 50.0512,
+            "width": 8.6875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 50.0512,
+            "width": 5.875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "768.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 50.0512,
+            "width": 9.0625,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "330.24",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 50.0512,
+            "width": 10.1875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "410.24",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 50.0512,
+            "width": 10.1875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 6,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.626",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 50.0512,
+            "width": 7.875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 54.1453,
+            "width": 4.875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 3.0m-Openness\n6%-430gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 54.1453,
+            "width": 27.25,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3.0-S05002-07",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 54.1453,
+            "width": 12.125,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "7",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 54.1453,
+            "width": 8.6875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 54.1453,
+            "width": 5.875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "507.50",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 54.1453,
+            "width": 9.0625,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "218.22",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 54.1453,
+            "width": 10.1875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "260.22",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 54.1453,
+            "width": 10.1875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 7,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.198",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 54.1453,
+            "width": 7.875,
+            "height": 4.043
+          }
+        },
+        {
+          "row": 8,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "8",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 58.0348,
+            "width": 4.875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 2.5m-Openness\n3%-430gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 58.0348,
+            "width": 27.25,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2.5-S05002-08",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 58.0348,
+            "width": 12.125,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "11",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 58.0348,
+            "width": 8.6875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 58.0348,
+            "width": 5.875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "797.50",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 58.0348,
+            "width": 9.0625,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "342.92",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 58.0348,
+            "width": 10.1875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "430.92",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 58.0348,
+            "width": 10.1875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 8,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.696",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 58.0348,
+            "width": 7.875,
+            "height": 4.2477
+          }
+        },
+        {
+          "row": 9,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "9",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 61.9754,
+            "width": 4.875,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Sunscreen Fabric 3.0m-Openness\n5%-430gsm",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 61.9754,
+            "width": 27.25,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3.0-S05002-09",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 61.9754,
+            "width": 12.125,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2",
+          "bbox_percent": {
+            "x": 46.0,
+            "y": 61.9754,
+            "width": 8.6875,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SQM",
+          "bbox_percent": {
+            "x": 54.6875,
+            "y": 61.9754,
+            "width": 5.875,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "145.00",
+          "bbox_percent": {
+            "x": 60.625,
+            "y": 61.9754,
+            "width": 9.0625,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "62.35",
+          "bbox_percent": {
+            "x": 69.6875,
+            "y": 61.9754,
+            "width": 10.1875,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "78.35",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 61.9754,
+            "width": 10.1875,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 9,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.363",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 61.9754,
+            "width": 7.875,
+            "height": 4.1965
+          }
+        },
+        {
+          "row": 10,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 1.3125,
+            "y": 66.0696,
+            "width": 4.875,
+            "height": 2.8147
+          }
+        },
+        {
+          "row": 10,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "TOTAL:",
+          "bbox_percent": {
+            "x": 6.375,
+            "y": 66.0696,
+            "width": 27.25,
+            "height": 2.8147
+          }
+        },
+        {
+          "row": 10,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 5,
+          "text": "65\n2364.68",
+          "bbox_percent": {
+            "x": 33.875,
+            "y": 66.0696,
+            "width": 46.0,
+            "height": 2.8147
+          }
+        },
+        {
+          "row": 10,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2868.68",
+          "bbox_percent": {
+            "x": 79.875,
+            "y": 66.0696,
+            "width": 10.1875,
+            "height": 2.8147
+          }
+        },
+        {
+          "row": 10,
+          "column": 8,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3.661",
+          "bbox_percent": {
+            "x": 90.0625,
+            "y": 66.0696,
+            "width": 7.875,
+            "height": 2.8147
+          }
+        }
+      ]
+    }
+  ],
+  "document_id": "tpl05_002.png"
+}

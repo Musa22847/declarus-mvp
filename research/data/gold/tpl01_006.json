@@ -1,0 +1,309 @@
+{
+  "document_id": "tpl01_006",
+  "image": "tpl01_006.png",
+  "expected_output": {
+    "sender": "Falcon Industrial Trading Ltd.",
+    "consignor_address": "26 Meridian Road, Ningbo, China",
+    "consignee": "Falcon Technical Supply LLC",
+    "consignee_address": "46 Harbor Avenue, Almaty, Kazakhstan",
+    "items": [
+      {
+        "item_article": "AST-SOLAR-01006-1",
+        "item_description": "solar garden lamp",
+        "item_quantity": {
+          "value": 144,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 24,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 6,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 37.62,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 42.6,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "AST-SOLAR-01006-2",
+        "item_description": "solar wall lantern",
+        "item_quantity": {
+          "value": 24,
+          "unit": "pcs"
+        },
+        "item_units_per_box": {
+          "value": 12,
+          "unit": "pcs/box"
+        },
+        "item_boxes_count": {
+          "value": 2,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 18.18,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 19.78,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 168.0,
+        "unit": "pcs"
+      },
+      "item_boxes_count_total": {
+        "value": 8,
+        "unit": "box"
+      },
+      "total_net_weight": {
+        "value": 55.8,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 62.38,
+        "unit": "kg"
+      },
+      "total_volume_cbm": {
+        "value": 0.682,
+        "unit": "m3"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_article": {
+          "text": "AST-SOLAR-01006-1",
+          "bbox_percent": {
+            "x": 3.5474609375,
+            "y": 64.77987421383648,
+            "width": 11.605078125,
+            "height": 1.416568396226415
+          }
+        },
+        "item_description": {
+          "text": "solar garden lamp",
+          "bbox_percent": {
+            "x": 21.746923828125002,
+            "y": 64.77987421383648,
+            "width": 11.20615234375,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_units_per_box": {
+          "text": "24pcs/CTN",
+          "bbox_percent": {
+            "x": 39.448974609375,
+            "y": 64.77987421383648,
+            "width": 7.0020507812499995,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_quantity": {
+          "text": "144PCS in total",
+          "bbox_percent": {
+            "x": 38.4333251953125,
+            "y": 67.42138364779873,
+            "width": 9.033349609375,
+            "height": 1.5346157625786163
+          }
+        },
+        "item_boxes_count": {
+          "text": "6",
+          "bbox_percent": {
+            "x": 68.260693359375,
+            "y": 66.0377358490566,
+            "width": 0.77861328125,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_gross_weight": {
+          "text": "42.60",
+          "bbox_percent": {
+            "x": 77.898291015625,
+            "y": 66.0377358490566,
+            "width": 3.50341796875,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_net_weight": {
+          "text": "37.62",
+          "bbox_percent": {
+            "x": 86.19829101562499,
+            "y": 66.0377358490566,
+            "width": 3.50341796875,
+            "height": 1.6526631289308176
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "AST-SOLAR-01006-2",
+          "bbox_percent": {
+            "x": 3.5474609375,
+            "y": 83.64779874213836,
+            "width": 11.605078125,
+            "height": 1.416568396226415
+          }
+        },
+        "item_description": {
+          "text": "solar wall lantern",
+          "bbox_percent": {
+            "x": 22.097607421875,
+            "y": 83.64779874213836,
+            "width": 10.50478515625,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_units_per_box": {
+          "text": "12pcs/CTN",
+          "bbox_percent": {
+            "x": 39.448974609375,
+            "y": 83.64779874213836,
+            "width": 7.0020507812499995,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_quantity": {
+          "text": "24PCS in total",
+          "bbox_percent": {
+            "x": 38.79482421875,
+            "y": 86.28930817610063,
+            "width": 8.3103515625,
+            "height": 1.5346157625786163
+          }
+        },
+        "item_boxes_count": {
+          "text": "2",
+          "bbox_percent": {
+            "x": 68.260693359375,
+            "y": 84.90566037735849,
+            "width": 0.77861328125,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_gross_weight": {
+          "text": "19.78",
+          "bbox_percent": {
+            "x": 77.898291015625,
+            "y": 84.90566037735849,
+            "width": 3.50341796875,
+            "height": 1.6526631289308176
+          }
+        },
+        "item_net_weight": {
+          "text": "18.18",
+          "bbox_percent": {
+            "x": 86.19829101562499,
+            "y": 84.90566037735849,
+            "width": 3.50341796875,
+            "height": 1.6526631289308176
+          }
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "text": "168PCS",
+        "bbox_percent": {
+          "x": 40.52900390625,
+          "y": 96.72955974842768,
+          "width": 4.8419921875,
+          "height": 1.5346157625786163
+        }
+      },
+      "item_boxes_count_total": {
+        "text": "8",
+        "bbox_percent": {
+          "x": 68.2885009765625,
+          "y": 96.72955974842768,
+          "width": 0.722998046875,
+          "height": 1.5346157625786163
+        }
+      },
+      "total_gross_weight": {
+        "text": "62.380",
+        "bbox_percent": {
+          "x": 77.6619140625,
+          "y": 96.72955974842768,
+          "width": 3.976171875,
+          "height": 1.5346157625786163
+        }
+      },
+      "total_net_weight": {
+        "text": "55.800",
+        "bbox_percent": {
+          "x": 85.9619140625,
+          "y": 96.72955974842768,
+          "width": 3.976171875,
+          "height": 1.5346157625786163
+        }
+      },
+      "total_volume_cbm": {
+        "text": "0.682",
+        "bbox_percent": {
+          "x": 94.1234130859375,
+          "y": 96.72955974842768,
+          "width": 3.253173828125,
+          "height": 1.5346157625786163
+        }
+      }
+    },
+    "sender": {
+      "text": "Falcon Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 15.345911949685535,
+        "width": 19.4267578125,
+        "height": 1.7707104952830188
+      }
+    },
+    "consignor_address": {
+      "text": "26 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 20.628930817610065,
+        "width": 20.70126953125,
+        "height": 1.6526631289308176
+      }
+    },
+    "consignee": {
+      "text": "Falcon Technical Supply LLC",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 32.9559748427673,
+        "width": 19.51025390625,
+        "height": 1.7707104952830188
+      }
+    },
+    "consignee_address": {
+      "text": "46 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 36.8,
+        "y": 38.23899371069183,
+        "width": 24.51298828125,
+        "height": 1.6526631289308176
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-01006-INV",
+    "document_date": "2026-10-16",
+    "item_volume_cbm": [
+      "0.501",
+      "0.181"
+    ],
+    "variant_code": "01006"
+  },
+  "group_annotations": []
+}

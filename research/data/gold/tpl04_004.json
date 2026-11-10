@@ -1,0 +1,631 @@
+{
+  "document_id": "tpl04_004",
+  "image": "tpl04_004.png",
+  "expected_output": {
+    "sender": "ООО «Delta Прибор»",
+    "consignor_address": "Россия, г. Казань, ул. Заводская, д. 16",
+    "consignee": "Delta Rail Equipment Ltd.",
+    "consignee_address": "34 East Road, Beijing, China",
+    "items": [
+      {
+        "item_article": "R04004-01",
+        "item_description": "Устройство контроля без комплекта кабелей",
+        "item_boxes_count": {
+          "value": 11,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 74.14,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 91.85,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-02",
+        "item_description": "Система контроля с комплектом кабелей",
+        "item_net_weight": {
+          "value": 7.58,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 8.5,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-03",
+        "item_description": "Модуль контроля",
+        "item_net_weight": {
+          "value": 88.48,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 98.35,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-04",
+        "item_description": "Телеметрический модуль",
+        "item_net_weight": {
+          "value": 12.58,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 15.94,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-05",
+        "item_description": "Узел питания",
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 27.65,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 31.65,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-06",
+        "item_description": "Блок входных данных",
+        "item_net_weight": {
+          "value": 15.75,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 23.0,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-07",
+        "item_description": "Согласующее устройство",
+        "item_net_weight": {
+          "value": 70.4,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 88.11,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-08",
+        "item_description": "Модуль телеметрии",
+        "item_net_weight": {
+          "value": 20.34,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 24.18,
+          "unit": "kg"
+        }
+      },
+      {
+        "item_article": "R04004-09",
+        "item_description": "Блок обработки линии",
+        "item_boxes_count": {
+          "value": 5,
+          "unit": "box"
+        },
+        "item_net_weight": {
+          "value": 38.3,
+          "unit": "kg"
+        },
+        "item_gross_weight": {
+          "value": 47.2,
+          "unit": "kg"
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "value": 28,
+        "unit": "box"
+      },
+      "total_net_weight": {
+        "value": 355.22,
+        "unit": "kg"
+      },
+      "total_gross_weight": {
+        "value": 428.78,
+        "unit": "kg"
+      }
+    }
+  },
+  "evidence": {
+    "items": [
+      {
+        "item_article": {
+          "text": "R04004-01",
+          "bbox_percent": {
+            "x": 3.6249999999999996,
+            "y": 57.029053420805994,
+            "width": 6.75,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_description": {
+          "text": "Устройство контроля без комплекта\nкабелей",
+          "bbox_percent": {
+            "x": 3.6249999999999996,
+            "y": 58.15370196813496,
+            "width": 23.1826171875,
+            "height": 2.349592900656042
+          }
+        },
+        "item_boxes_count": {
+          "text": "11",
+          "bbox_percent": {
+            "x": 39.375,
+            "y": 58.15370196813496,
+            "width": 1.5,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_net_weight": {
+          "text": "74,14",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 58.15370196813496,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "91,85",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 58.15370196813496,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-02",
+          "bbox_percent": {
+            "x": 3.6249999999999996,
+            "y": 66.54170571696345,
+            "width": 5.625,
+            "height": 0.8520896790065605
+          }
+        },
+        "item_description": {
+          "text": "Система контроля с комплектом кабелей",
+          "bbox_percent": {
+            "x": 3.6249999999999996,
+            "y": 67.66635426429241,
+            "width": 21.8463134765625,
+            "height": 0.8520896790065605
+          }
+        },
+        "item_net_weight": {
+          "text": "7,58",
+          "bbox_percent": {
+            "x": 53.87499999999999,
+            "y": 67.43205248359887,
+            "width": 2.625,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "8,50",
+          "bbox_percent": {
+            "x": 69.5625,
+            "y": 67.43205248359887,
+            "width": 2.625,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-03",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 70.43111527647609,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Модуль контроля",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 70.43111527647609,
+            "width": 8.46002197265625,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_net_weight": {
+          "text": "88,48",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 70.43111527647609,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "98,35",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 70.43111527647609,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-04",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 72.58669165885661,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Телеметрический модуль",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 72.58669165885661,
+            "width": 12.19482421875,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_net_weight": {
+          "text": "12,58",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 72.58669165885661,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "15,94",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 72.58669165885661,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-05",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 74.74226804123711,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Узел питания",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 74.74226804123711,
+            "width": 6.499511718750001,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_boxes_count": {
+          "text": "5",
+          "bbox_percent": {
+            "x": 39.75,
+            "y": 74.74226804123711,
+            "width": 0.75,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_net_weight": {
+          "text": "27,65",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 74.74226804123711,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "31,65",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 74.74226804123711,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-06",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 76.89784442361763,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Блок входных данных",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 76.89784442361763,
+            "width": 10.62213134765625,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_net_weight": {
+          "text": "15,75",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 76.89784442361763,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "23,00",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 76.89784442361763,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-07",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 79.05342080599812,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Согласующее устройство",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 79.05342080599812,
+            "width": 12.2486572265625,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_net_weight": {
+          "text": "70,40",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 79.05342080599812,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "88,11",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 79.05342080599812,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-08",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 81.20899718837863,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Модуль телеметрии",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 81.20899718837863,
+            "width": 9.5745849609375,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_net_weight": {
+          "text": "20,34",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 81.20899718837863,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "24,18",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 81.20899718837863,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      },
+      {
+        "item_article": {
+          "text": "R04004-09",
+          "bbox_percent": {
+            "x": 3.25,
+            "y": 83.36457357075913,
+            "width": 4.5,
+            "height": 0.6816717432052484
+          }
+        },
+        "item_description": {
+          "text": "Блок обработки линии",
+          "bbox_percent": {
+            "x": 14.875,
+            "y": 83.36457357075913,
+            "width": 10.8204345703125,
+            "height": 0.7668807111059045
+          }
+        },
+        "item_boxes_count": {
+          "text": "5",
+          "bbox_percent": {
+            "x": 39.75,
+            "y": 83.36457357075913,
+            "width": 0.75,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_net_weight": {
+          "text": "38,30",
+          "bbox_percent": {
+            "x": 53.5,
+            "y": 83.36457357075913,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        },
+        "item_gross_weight": {
+          "text": "47,20",
+          "bbox_percent": {
+            "x": 69.1875,
+            "y": 83.36457357075913,
+            "width": 3.375,
+            "height": 1.0225076148078727
+          }
+        }
+      }
+    ],
+    "totals": {
+      "item_boxes_count_total": {
+        "text": "28",
+        "bbox_percent": {
+          "x": 39.3125,
+          "y": 86.03561387066541,
+          "width": 1.625,
+          "height": 1.088084656162137
+        }
+      },
+      "total_net_weight": {
+        "text": "355,22",
+        "bbox_percent": {
+          "x": 52.953125,
+          "y": 86.03561387066541,
+          "width": 4.46875,
+          "height": 1.088084656162137
+        }
+      },
+      "total_gross_weight": {
+        "text": "428,78",
+        "bbox_percent": {
+          "x": 68.640625,
+          "y": 86.03561387066541,
+          "width": 4.46875,
+          "height": 1.088084656162137
+        }
+      }
+    },
+    "sender": {
+      "text": "ООО «Delta Прибор»",
+      "bbox_percent": {
+        "x": 35.036468505859375,
+        "y": 2.436738519212746,
+        "width": 29.92706298828125,
+        "height": 2.0924704926194937
+      }
+    },
+    "consignor_address": {
+      "text": "Россия, г. Казань, ул. Заводская, д. 16",
+      "bbox_percent": {
+        "x": 37.9571533203125,
+        "y": 8.153701968134957,
+        "width": 24.085693359375,
+        "height": 1.0225076148078727
+      }
+    },
+    "consignee": {
+      "text": "Delta Rail Equipment Ltd.",
+      "bbox_percent": {
+        "x": 26.625,
+        "y": 34.4892221180881,
+        "width": 18.5655517578125,
+        "height": 1.1929255506091847
+      }
+    },
+    "consignee_address": {
+      "text": "34 East Road, Beijing, China",
+      "bbox_percent": {
+        "x": 15.0,
+        "y": 37.019681349578256,
+        "width": 18.95648193359375,
+        "height": 1.1077165827085285
+      }
+    }
+  },
+  "document_fields": {
+    "invoice_number": "SYN-04004-INV",
+    "document_date": "2026-10-14",
+    "variant_code": "04004"
+  },
+  "group_annotations": [
+    {
+      "rows_1based": [
+        2,
+        3,
+        4
+      ],
+      "item_boxes_count": {
+        "value": 2,
+        "unit": "box"
+      },
+      "evidence": {
+        "text": "2",
+        "bbox_percent": {
+          "x": 39.75,
+          "y": 69.49390815370197,
+          "width": 0.75,
+          "height": 1.0225076148078727
+        }
+      }
+    },
+    {
+      "rows_1based": [
+        6,
+        7,
+        8
+      ],
+      "item_boxes_count": {
+        "value": 5,
+        "unit": "box"
+      },
+      "evidence": {
+        "text": "5",
+        "bbox_percent": {
+          "x": 39.75,
+          "y": 78.95970009372071,
+          "width": 0.75,
+          "height": 1.0225076148078727
+        }
+      }
+    }
+  ]
+}

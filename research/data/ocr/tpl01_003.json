@@ -1,0 +1,1330 @@
+{
+  "page": 1,
+  "page_size_px": {
+    "width": 2033,
+    "height": 1626
+  },
+  "full_text": "SYNTHETIC / NOT FOR SHIPPING\nPACKING LIST\nInvoice No.: SYN-01003-INV\nDate: 2026-10-13\nSELLER:\nCompany Name\nCobalt Industrial Trading Ltd.\nAddress\n23 Meridian Road, Ningbo, China\nContact\nContact: Demo Sales / sales@example.invalid\nBUYER:\nCompany Name\nCobalt Technical Supply LLC\nAddress\n43 Harbor Avenue, Almaty, Kazakhstan\nContact\nContact: Demo Sales / sales@example.invalid\nMark & Nos.\nArticle and Specification\nQuantity (pcs)\npackage size(cm)\nCarton(QTY)\nGross\nWeight\n(KG)\nNet\nWeight(KG)\nСВМ\nAST-SOLAR-01003-1\nMADE IN CHINA\nsolar garden lamp\n12pcs/CTN\n144PCS in total\n46*36*25\n12\n159.00\n141.48\n0.433\nAST-SOLAR-01003-2\nMADE IN CHINA\nsolar wall lantern\n12pcs/CTN\n108PCS in total\n50*39*27\n118.44\n112.68\n0.583\nTotal:\n252PCS\n21\n277.440\n254.160\n1.016\n",
+  "lines": [
+    {
+      "text": "SYNTHETIC / NOT FOR SHIPPING",
+      "bbox_percent": {
+        "x": 45.5485,
+        "y": 1.6605,
+        "width": 9.9361,
+        "height": 0.738
+      }
+    },
+    {
+      "text": "PACKING LIST",
+      "bbox_percent": {
+        "x": 40.5804,
+        "y": 4.305,
+        "width": 19.7245,
+        "height": 2.214
+      }
+    },
+    {
+      "text": "Invoice No.: SYN-01003-INV",
+      "bbox_percent": {
+        "x": 62.8628,
+        "y": 9.4096,
+        "width": 19.577,
+        "height": 1.1685
+      }
+    },
+    {
+      "text": "Date: 2026-10-13",
+      "bbox_percent": {
+        "x": 62.8136,
+        "y": 12.0541,
+        "width": 12.2971,
+        "height": 1.107
+      }
+    },
+    {
+      "text": "SELLER:",
+      "bbox_percent": {
+        "x": 12.002,
+        "y": 15.3752,
+        "width": 6.788,
+        "height": 1.599
+      }
+    },
+    {
+      "text": "Company Name",
+      "bbox_percent": {
+        "x": 18.7408,
+        "y": 15.3752,
+        "width": 11.6576,
+        "height": 1.599
+      }
+    },
+    {
+      "text": "Cobalt Industrial Trading Ltd.",
+      "bbox_percent": {
+        "x": 37.0389,
+        "y": 15.9287,
+        "width": 19.577,
+        "height": 1.353
+      }
+    },
+    {
+      "text": "Address",
+      "bbox_percent": {
+        "x": 18.8392,
+        "y": 20.9102,
+        "width": 5.755,
+        "height": 1.353
+      }
+    },
+    {
+      "text": "23 Meridian Road, Ningbo, China",
+      "bbox_percent": {
+        "x": 36.9405,
+        "y": 21.0332,
+        "width": 21.0034,
+        "height": 1.4145
+      }
+    },
+    {
+      "text": "Contact",
+      "bbox_percent": {
+        "x": 18.8883,
+        "y": 26.8758,
+        "width": 5.6075,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "Contact: Demo Sales / sales@example.invalid",
+      "bbox_percent": {
+        "x": 36.8913,
+        "y": 27.3678,
+        "width": 27.0044,
+        "height": 1.353
+      }
+    },
+    {
+      "text": "BUYER:",
+      "bbox_percent": {
+        "x": 12.3955,
+        "y": 32.6568,
+        "width": 6.1977,
+        "height": 1.6605
+      }
+    },
+    {
+      "text": "Company Name",
+      "bbox_percent": {
+        "x": 18.5932,
+        "y": 32.6568,
+        "width": 11.7068,
+        "height": 1.6605
+      }
+    },
+    {
+      "text": "Cobalt Technical Supply LLC",
+      "bbox_percent": {
+        "x": 36.8421,
+        "y": 33.2718,
+        "width": 19.577,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "Address",
+      "bbox_percent": {
+        "x": 18.6916,
+        "y": 38.1919,
+        "width": 5.7059,
+        "height": 1.4145
+      }
+    },
+    {
+      "text": "43 Harbor Avenue, Almaty, Kazakhstan",
+      "bbox_percent": {
+        "x": 36.9405,
+        "y": 38.3149,
+        "width": 24.6926,
+        "height": 1.5375
+      }
+    },
+    {
+      "text": "Contact",
+      "bbox_percent": {
+        "x": 18.7408,
+        "y": 44.2189,
+        "width": 5.5091,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "Contact: Demo Sales / sales@example.invalid",
+      "bbox_percent": {
+        "x": 36.6945,
+        "y": 44.7109,
+        "width": 27.0536,
+        "height": 1.4145
+      }
+    },
+    {
+      "text": "Mark & Nos.",
+      "bbox_percent": {
+        "x": 5.755,
+        "y": 49.8155,
+        "width": 7.9685,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "Article and Specification",
+      "bbox_percent": {
+        "x": 19.6754,
+        "y": 50.123,
+        "width": 15.6419,
+        "height": 1.1685
+      }
+    },
+    {
+      "text": "Quantity (pcs)",
+      "bbox_percent": {
+        "x": 38.3178,
+        "y": 50.369,
+        "width": 9.2966,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "package size(cm)",
+      "bbox_percent": {
+        "x": 49.9262,
+        "y": 50.6765,
+        "width": 11.215,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "Carton(QTY)",
+      "bbox_percent": {
+        "x": 64.3384,
+        "y": 50.738,
+        "width": 8.1653,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "Gross",
+      "bbox_percent": {
+        "x": 77.2258,
+        "y": 50.984,
+        "width": 4.0826,
+        "height": 0.984
+      }
+    },
+    {
+      "text": "Weight",
+      "bbox_percent": {
+        "x": 76.8323,
+        "y": 52.8905,
+        "width": 4.968,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "(KG)",
+      "bbox_percent": {
+        "x": 77.5701,
+        "y": 54.797,
+        "width": 3.4432,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "Net",
+      "bbox_percent": {
+        "x": 86.3256,
+        "y": 51.107,
+        "width": 2.5578,
+        "height": 0.9225
+      }
+    },
+    {
+      "text": "Weight(KG)",
+      "bbox_percent": {
+        "x": 83.7186,
+        "y": 52.8905,
+        "width": 7.7226,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "СВМ",
+      "bbox_percent": {
+        "x": 93.7039,
+        "y": 51.107,
+        "width": 3.1972,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "AST-SOLAR-01003-1",
+      "bbox_percent": {
+        "x": 3.6399,
+        "y": 63.7761,
+        "width": 11.8544,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "MADE IN CHINA",
+      "bbox_percent": {
+        "x": 4.8697,
+        "y": 66.8512,
+        "width": 9.4442,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "solar garden lamp",
+      "bbox_percent": {
+        "x": 21.5937,
+        "y": 64.3296,
+        "width": 11.7068,
+        "height": 1.23
+      }
+    },
+    {
+      "text": "12pcs/CTN",
+      "bbox_percent": {
+        "x": 39.2031,
+        "y": 64.5756,
+        "width": 7.3291,
+        "height": 0.984
+      }
+    },
+    {
+      "text": "144PCS in total",
+      "bbox_percent": {
+        "x": 38.0718,
+        "y": 66.9742,
+        "width": 9.7885,
+        "height": 1.2915
+      }
+    },
+    {
+      "text": "46*36*25",
+      "bbox_percent": {
+        "x": 52.484,
+        "y": 65.8672,
+        "width": 6.1977,
+        "height": 1.1685
+      }
+    },
+    {
+      "text": "12",
+      "bbox_percent": {
+        "x": 67.3389,
+        "y": 66.1132,
+        "width": 2.0167,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "159.00",
+      "bbox_percent": {
+        "x": 76.8323,
+        "y": 66.2362,
+        "width": 4.6729,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "141.48",
+      "bbox_percent": {
+        "x": 85.0959,
+        "y": 66.4207,
+        "width": 4.7221,
+        "height": 0.984
+      }
+    },
+    {
+      "text": "0.433",
+      "bbox_percent": {
+        "x": 93.3104,
+        "y": 66.4822,
+        "width": 3.7875,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "AST-SOLAR-01003-2",
+      "bbox_percent": {
+        "x": 3.4432,
+        "y": 82.4108,
+        "width": 11.8544,
+        "height": 1.1685
+      }
+    },
+    {
+      "text": "MADE IN CHINA",
+      "bbox_percent": {
+        "x": 4.7221,
+        "y": 85.4244,
+        "width": 9.4442,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "solar wall lantern",
+      "bbox_percent": {
+        "x": 21.6921,
+        "y": 82.9028,
+        "width": 11.0182,
+        "height": 1.1685
+      }
+    },
+    {
+      "text": "12pcs/CTN",
+      "bbox_percent": {
+        "x": 39.0556,
+        "y": 83.0873,
+        "width": 7.1815,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "108PCS in total",
+      "bbox_percent": {
+        "x": 37.8751,
+        "y": 85.4859,
+        "width": 9.7885,
+        "height": 1.476
+      }
+    },
+    {
+      "text": "50*39*27",
+      "bbox_percent": {
+        "x": 52.1397,
+        "y": 84.4403,
+        "width": 6.3453,
+        "height": 1.1685
+      }
+    },
+    {
+      "text": "118.44",
+      "bbox_percent": {
+        "x": 76.7831,
+        "y": 84.8708,
+        "width": 4.6237,
+        "height": 0.984
+      }
+    },
+    {
+      "text": "112.68",
+      "bbox_percent": {
+        "x": 84.8992,
+        "y": 85.0554,
+        "width": 4.7713,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "0.583",
+      "bbox_percent": {
+        "x": 93.0644,
+        "y": 85.1169,
+        "width": 3.7383,
+        "height": 0.984
+      }
+    },
+    {
+      "text": "Total:",
+      "bbox_percent": {
+        "x": 20.1181,
+        "y": 95.695,
+        "width": 4.3778,
+        "height": 1.2915
+      }
+    },
+    {
+      "text": "252PCS",
+      "bbox_percent": {
+        "x": 39.8426,
+        "y": 95.8795,
+        "width": 5.3123,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "21",
+      "bbox_percent": {
+        "x": 66.9946,
+        "y": 96.2485,
+        "width": 1.9183,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "277.440",
+      "bbox_percent": {
+        "x": 76.4388,
+        "y": 96.433,
+        "width": 5.0664,
+        "height": 0.984
+      }
+    },
+    {
+      "text": "254.160",
+      "bbox_percent": {
+        "x": 84.5057,
+        "y": 96.6175,
+        "width": 5.214,
+        "height": 1.0455
+      }
+    },
+    {
+      "text": "1.016",
+      "bbox_percent": {
+        "x": 93.0644,
+        "y": 96.679,
+        "width": 3.7383,
+        "height": 0.984
+      }
+    }
+  ],
+  "tables": [
+    {
+      "row_count": 11,
+      "column_count": 8,
+      "bbox_percent": {
+        "x": 0.0,
+        "y": 9.9631,
+        "width": 99.4097,
+        "height": 89.4834
+      },
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 0.5411,
+            "y": 9.9631,
+            "width": 18.3965,
+            "height": 2.8905
+          }
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 18.2981,
+            "y": 9.9631,
+            "width": 18.3965,
+            "height": 3.075
+          }
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 36.3994,
+            "y": 10.0246,
+            "width": 14.0679,
+            "height": 3.075
+          }
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 48.9424,
+            "y": 10.1476,
+            "width": 13.3792,
+            "height": 2.706
+          }
+        },
+        {
+          "row": 0,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Date: 2026-10-13",
+          "bbox_percent": {
+            "x": 61.1904,
+            "y": 10.2091,
+            "width": 14.4614,
+            "height": 2.6445
+          }
+        },
+        {
+          "row": 0,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.5696,
+            "y": 10.2091,
+            "width": 9.4934,
+            "height": 2.6445
+          }
+        },
+        {
+          "row": 0,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 82.8824,
+            "y": 10.2706,
+            "width": 9.149,
+            "height": 2.583
+          }
+        },
+        {
+          "row": 0,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 90.9985,
+            "y": 10.2706,
+            "width": 8.4112,
+            "height": 2.583
+          }
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "SELLER:",
+          "bbox_percent": {
+            "x": 0.4427,
+            "y": 12.8536,
+            "width": 18.4948,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Company Name",
+          "bbox_percent": {
+            "x": 18.2489,
+            "y": 12.8536,
+            "width": 18.4456,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Cobalt Industrial",
+          "bbox_percent": {
+            "x": 36.301,
+            "y": 12.8536,
+            "width": 14.1171,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Trading Ltd.",
+          "bbox_percent": {
+            "x": 48.9424,
+            "y": 12.8536,
+            "width": 13.3792,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 61.1904,
+            "y": 12.8536,
+            "width": 14.4614,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.5696,
+            "y": 12.8536,
+            "width": 9.4934,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 82.8824,
+            "y": 12.8536,
+            "width": 9.149,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 1,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 90.9985,
+            "y": 12.8536,
+            "width": 8.4112,
+            "height": 7.4416
+          }
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 2,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 0.3935,
+            "y": 18.8807,
+            "width": 18.544,
+            "height": 11.8696
+          }
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Address",
+          "bbox_percent": {
+            "x": 18.1997,
+            "y": 19.0037,
+            "width": 18.4456,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "23 Meridian Road,",
+          "bbox_percent": {
+            "x": 36.2027,
+            "y": 19.0037,
+            "width": 14.1171,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Ningbo, China",
+          "bbox_percent": {
+            "x": 48.9424,
+            "y": 19.0037,
+            "width": 13.3792,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 2,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 61.1904,
+            "y": 19.0037,
+            "width": 14.4614,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 74.5696,
+            "y": 19.0037,
+            "width": 9.4934,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 82.8824,
+            "y": 19.0037,
+            "width": 9.149,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 2,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 90.9985,
+            "y": 19.0037,
+            "width": 8.362,
+            "height": 7.6261
+          }
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 7,
+          "text": "Contact\nContact: Demo Sales / sales@example.invalid",
+          "bbox_percent": {
+            "x": 18.1997,
+            "y": 24.8462,
+            "width": 81.21,
+            "height": 7.0111
+          }
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "BUYER:",
+          "bbox_percent": {
+            "x": 0.3443,
+            "y": 29.8278,
+            "width": 18.4456,
+            "height": 6.7036
+          }
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 7,
+          "text": "Company Name\nCobalt Technical Supply LLC",
+          "bbox_percent": {
+            "x": 18.1505,
+            "y": 30.0738,
+            "width": 81.2592,
+            "height": 7.7491
+          }
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "row_span": 2,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 0.1968,
+            "y": 35.6704,
+            "width": 18.544,
+            "height": 13.5916
+          }
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "row_span": 2,
+          "column_span": 7,
+          "text": "Address\n43 Harbor Avenue, Almaty, Kazakhstan\nContact\nContact: Demo Sales / sales@example.invalid",
+          "bbox_percent": {
+            "x": 18.0521,
+            "y": 35.9164,
+            "width": 81.3576,
+            "height": 13.4686
+          }
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 18.1013,
+            "y": 42.2509,
+            "width": 18.4456,
+            "height": 6.8881
+          }
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 4,
+          "text": "",
+          "bbox_percent": {
+            "x": 35.9567,
+            "y": 42.2509,
+            "width": 48.1062,
+            "height": 6.8881
+          }
+        },
+        {
+          "row": 7,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Mark & Nos.",
+          "bbox_percent": {
+            "x": 0.1968,
+            "y": 47.417,
+            "width": 18.4456,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Article and Specification",
+          "bbox_percent": {
+            "x": 18.0521,
+            "y": 47.417,
+            "width": 18.4456,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Quantity (pcs)",
+          "bbox_percent": {
+            "x": 35.8583,
+            "y": 47.417,
+            "width": 14.1663,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "package size(cm)",
+          "bbox_percent": {
+            "x": 48.9424,
+            "y": 47.417,
+            "width": 13.3792,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Carton(QTY)",
+          "bbox_percent": {
+            "x": 61.1904,
+            "y": 47.417,
+            "width": 14.4614,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Gross\nWeight\n(KG)",
+          "bbox_percent": {
+            "x": 74.5696,
+            "y": 47.417,
+            "width": 9.4934,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Net\nWeight(KG)",
+          "bbox_percent": {
+            "x": 82.8824,
+            "y": 47.417,
+            "width": 9.149,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 7,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "СВМ",
+          "bbox_percent": {
+            "x": 90.9985,
+            "y": 47.417,
+            "width": 8.3128,
+            "height": 11.2546
+          }
+        },
+        {
+          "row": 8,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "AST-SOLAR-01003-1\nMADE IN CHINA",
+          "bbox_percent": {
+            "x": 0.0,
+            "y": 55.9041,
+            "width": 18.6916,
+            "height": 20.1722
+          }
+        },
+        {
+          "row": 8,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "solar garden lamp",
+          "bbox_percent": {
+            "x": 17.8062,
+            "y": 56.2731,
+            "width": 18.79,
+            "height": 20.1722
+          }
+        },
+        {
+          "row": 8,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12pcs/CTN\n144PCS in total",
+          "bbox_percent": {
+            "x": 35.6616,
+            "y": 56.5806,
+            "width": 14.2646,
+            "height": 20.1107
+          }
+        },
+        {
+          "row": 8,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "46*36*25",
+          "bbox_percent": {
+            "x": 48.9424,
+            "y": 56.8266,
+            "width": 13.3792,
+            "height": 20.1107
+          }
+        },
+        {
+          "row": 8,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12",
+          "bbox_percent": {
+            "x": 61.1904,
+            "y": 57.0726,
+            "width": 14.4614,
+            "height": 20.1107
+          }
+        },
+        {
+          "row": 8,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "159.00",
+          "bbox_percent": {
+            "x": 74.5696,
+            "y": 57.3186,
+            "width": 9.4934,
+            "height": 19.9877
+          }
+        },
+        {
+          "row": 8,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "141.48",
+          "bbox_percent": {
+            "x": 82.8824,
+            "y": 57.4416,
+            "width": 9.149,
+            "height": 20.0492
+          }
+        },
+        {
+          "row": 8,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.433",
+          "bbox_percent": {
+            "x": 90.7526,
+            "y": 57.6261,
+            "width": 8.6572,
+            "height": 19.9877
+          }
+        },
+        {
+          "row": 9,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "AST-SOLAR-01003-2\nMADE IN CHINA",
+          "bbox_percent": {
+            "x": 0.0,
+            "y": 75.0923,
+            "width": 18.544,
+            "height": 19.7417
+          }
+        },
+        {
+          "row": 9,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "solar wall lantern",
+          "bbox_percent": {
+            "x": 17.7078,
+            "y": 75.4613,
+            "width": 18.79,
+            "height": 19.7417
+          }
+        },
+        {
+          "row": 9,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "12pcs/CTN\n108PCS in total",
+          "bbox_percent": {
+            "x": 35.4156,
+            "y": 75.8303,
+            "width": 14.2646,
+            "height": 19.6187
+          }
+        },
+        {
+          "row": 9,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "50*39*27",
+          "bbox_percent": {
+            "x": 48.9424,
+            "y": 76.0763,
+            "width": 13.3792,
+            "height": 19.6187
+          }
+        },
+        {
+          "row": 9,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 61.1904,
+            "y": 76.3223,
+            "width": 14.4614,
+            "height": 19.6187
+          }
+        },
+        {
+          "row": 9,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "118.44",
+          "bbox_percent": {
+            "x": 74.5696,
+            "y": 76.5683,
+            "width": 9.4934,
+            "height": 19.5572
+          }
+        },
+        {
+          "row": 9,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "112.68",
+          "bbox_percent": {
+            "x": 82.8824,
+            "y": 76.7528,
+            "width": 9.149,
+            "height": 19.5572
+          }
+        },
+        {
+          "row": 9,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "0.583",
+          "bbox_percent": {
+            "x": 90.7526,
+            "y": 76.9373,
+            "width": 8.608,
+            "height": 19.4957
+          }
+        },
+        {
+          "row": 10,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 0.0,
+            "y": 93.4809,
+            "width": 18.3473,
+            "height": 4.7355
+          }
+        },
+        {
+          "row": 10,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Total:",
+          "bbox_percent": {
+            "x": 17.8062,
+            "y": 93.7269,
+            "width": 18.4456,
+            "height": 4.7355
+          }
+        },
+        {
+          "row": 10,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "252PCS",
+          "bbox_percent": {
+            "x": 35.4156,
+            "y": 94.0344,
+            "width": 14.0679,
+            "height": 4.674
+          }
+        },
+        {
+          "row": 10,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "",
+          "bbox_percent": {
+            "x": 48.8933,
+            "y": 94.2189,
+            "width": 13.4776,
+            "height": 4.674
+          }
+        },
+        {
+          "row": 10,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21",
+          "bbox_percent": {
+            "x": 61.1412,
+            "y": 94.4649,
+            "width": 14.5598,
+            "height": 4.6125
+          }
+        },
+        {
+          "row": 10,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "277.440",
+          "bbox_percent": {
+            "x": 74.5204,
+            "y": 94.6494,
+            "width": 9.5917,
+            "height": 4.6125
+          }
+        },
+        {
+          "row": 10,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "254.160",
+          "bbox_percent": {
+            "x": 82.8333,
+            "y": 94.7724,
+            "width": 9.2474,
+            "height": 4.6125
+          }
+        },
+        {
+          "row": 10,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1.016",
+          "bbox_percent": {
+            "x": 90.9493,
+            "y": 94.8954,
+            "width": 8.3128,
+            "height": 4.6125
+          }
+        }
+      ]
+    }
+  ],
+  "document_id": "tpl01_003.png"
+}

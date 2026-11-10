@@ -1,0 +1,1135 @@
+{
+  "batch_id": "tpl01_008",
+  "documents": [
+    {
+      "document_id": "tpl01_008.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "Horizon Industrial Trading Ltd.",
+          "unit": null,
+          "raw_text": "Horizon Industrial Trading Ltd.",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.463,
+                "y": 15.5625,
+                "width": 20.8147,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.612,
+                "y": 20.75,
+                "width": 21.2121,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "28 Meridian Road, Ningbo, China",
+          "unit": null,
+          "raw_text": "28 Meridian Road, Ningbo, China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.612,
+                "y": 20.75,
+                "width": 21.2121,
+                "height": 1.0625
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Horizon Technical Supply LLC",
+          "unit": null,
+          "raw_text": "Horizon Technical Supply LLC",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.463,
+                "y": 33.125,
+                "width": 20.765,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "Kazakhstan",
+          "unit": null,
+          "raw_text": "Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.5623,
+                "y": 38.375,
+                "width": 24.9876,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "48 Harbor Avenue, Almaty, Kazakhstan",
+          "unit": null,
+          "raw_text": "48 Harbor Avenue, Almaty, Kazakhstan",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 36.5623,
+                "y": 38.375,
+                "width": 24.9876,
+                "height": 1.0625
+              }
+            }
+          ]
+        }
+      },
+      "document_date": {
+        "value": "2026-10-18",
+        "unit": null,
+        "raw_text": "2026-10-18",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 62.5435,
+              "y": 11.125,
+              "width": 12.4193,
+              "height": 1.1875
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-01008-INV",
+        "unit": null,
+        "raw_text": "SYN-01008-INV",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 62.5435,
+              "y": 8.375,
+              "width": 19.7218,
+              "height": 1.25
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": "Ningbo, China",
+        "unit": null,
+        "raw_text": "Ningbo, China",
+        "source_type": "document",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.612,
+              "y": 20.75,
+              "width": 21.2121,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "item_article": {
+            "value": "AST-SOLAR-01008-1",
+            "unit": null,
+            "raw_text": "AST-SOLAR-01008-1",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.4277,
+                  "y": 64.75,
+                  "width": 11.9225,
+                  "height": 1.0
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "solar garden lamp",
+            "unit": null,
+            "raw_text": "solar garden lamp",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 21.5102,
+                  "y": 65.0,
+                  "width": 11.6244,
+                  "height": 0.9375
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 350,
+            "unit": "pcs",
+            "raw_text": "350PCS in total",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 38.152,
+                  "y": 67.375,
+                  "width": 9.7367,
+                  "height": 1.25
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 50,
+            "unit": "pcs/box",
+            "raw_text": "50pcs/CTN",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.2449,
+                  "y": 64.875,
+                  "width": 7.3025,
+                  "height": 1.0625
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 7,
+            "unit": "ctn",
+            "raw_text": "7",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.2563,
+                  "y": 85.1875,
+                  "width": 0.5961,
+                  "height": 0.75
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 91.07,
+            "unit": "kg",
+            "raw_text": "91.07",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 77.6453,
+                  "y": 66.125,
+                  "width": 4.0238,
+                  "height": 1.0625
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 80.99,
+            "unit": "kg",
+            "raw_text": "80.99",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 85.9414,
+                  "y": 66.125,
+                  "width": 4.0238,
+                  "height": 1.0625
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "AST-SOLAR-01008-2",
+            "unit": null,
+            "raw_text": "AST-SOLAR-01008-2",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.4277,
+                  "y": 83.625,
+                  "width": 11.8728,
+                  "height": 1.0
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "solar wall lantern",
+            "unit": null,
+            "raw_text": "solar wall lantern",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 21.8579,
+                  "y": 83.875,
+                  "width": 10.8296,
+                  "height": 0.9375
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 84,
+            "unit": "pcs",
+            "raw_text": "84PCS in total",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 38.5991,
+                  "y": 86.3125,
+                  "width": 8.9419,
+                  "height": 1.1875
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": 12,
+            "unit": "pcs/box",
+            "raw_text": "12pcs/CTN",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.1952,
+                  "y": 83.75,
+                  "width": 7.3522,
+                  "height": 1.125
+                }
+              }
+            ]
+          },
+          "item_boxes_count": {
+            "value": 7,
+            "unit": "ctn",
+            "raw_text": "7",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.2563,
+                  "y": 85.1875,
+                  "width": 0.5961,
+                  "height": 0.75
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 35.0,
+            "unit": "kg",
+            "raw_text": "35.00",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 77.6453,
+                  "y": 85.0,
+                  "width": 4.0238,
+                  "height": 1.0625
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 29.89,
+            "unit": "kg",
+            "raw_text": "29.89",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl01_008.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 85.8917,
+                  "y": 85.0,
+                  "width": 3.9742,
+                  "height": 1.0625
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 434,
+          "unit": "pcs",
+          "raw_text": "434PCS",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 40.3378,
+                "y": 96.75,
+                "width": 5.1664,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 14,
+          "unit": "ctn",
+          "raw_text": "14",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 67.8589,
+                "y": 96.75,
+                "width": 1.689,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 126.07,
+          "unit": "kg",
+          "raw_text": "126.070",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 77.0989,
+                "y": 96.75,
+                "width": 5.1664,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 110.88,
+          "unit": "kg",
+          "raw_text": "110.880",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 85.3949,
+                "y": 96.75,
+                "width": 5.1664,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": 0.66,
+          "unit": "m3",
+          "raw_text": "0.660",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 94.0387,
+                "y": 96.6875,
+                "width": 3.6761,
+                "height": 1.1875
+              }
+            }
+          ]
+        },
+        "total_customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": "Horizon Industrial Trading Ltd.",
+        "unit": null,
+        "raw_text": "Horizon Industrial Trading Ltd.",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.463,
+              "y": 15.5625,
+              "width": 20.8147,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.612,
+              "y": 20.75,
+              "width": 21.2121,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "28 Meridian Road, Ningbo, China",
+        "unit": null,
+        "raw_text": "28 Meridian Road, Ningbo, China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.612,
+              "y": 20.75,
+              "width": 21.2121,
+              "height": 1.0625
+            }
+          }
+        ]
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": "Horizon Technical Supply LLC",
+        "unit": null,
+        "raw_text": "Horizon Technical Supply LLC",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.463,
+              "y": 33.125,
+              "width": 20.765,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "Kazakhstan",
+        "unit": null,
+        "raw_text": "Kazakhstan",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.5623,
+              "y": 38.375,
+              "width": 24.9876,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "48 Harbor Avenue, Almaty, Kazakhstan",
+        "unit": null,
+        "raw_text": "48 Harbor Avenue, Almaty, Kazakhstan",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 36.5623,
+              "y": 38.375,
+              "width": 24.9876,
+              "height": 1.0625
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "item_article": {
+          "value": "AST-SOLAR-01008-1",
+          "unit": null,
+          "raw_text": "AST-SOLAR-01008-1",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.4277,
+                "y": 64.75,
+                "width": 11.9225,
+                "height": 1.0
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "solar garden lamp",
+          "unit": null,
+          "raw_text": "solar garden lamp",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 21.5102,
+                "y": 65.0,
+                "width": 11.6244,
+                "height": 0.9375
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 350,
+          "unit": "pcs",
+          "raw_text": "350PCS in total",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 38.152,
+                "y": 67.375,
+                "width": 9.7367,
+                "height": 1.25
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 50,
+          "unit": "pcs/box",
+          "raw_text": "50pcs/CTN",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.2449,
+                "y": 64.875,
+                "width": 7.3025,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 7,
+          "unit": "ctn",
+          "raw_text": "7",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.2563,
+                "y": 85.1875,
+                "width": 0.5961,
+                "height": 0.75
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 91.07,
+          "unit": "kg",
+          "raw_text": "91.07",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 77.6453,
+                "y": 66.125,
+                "width": 4.0238,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 80.99,
+          "unit": "kg",
+          "raw_text": "80.99",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 85.9414,
+                "y": 66.125,
+                "width": 4.0238,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "AST-SOLAR-01008-2",
+          "unit": null,
+          "raw_text": "AST-SOLAR-01008-2",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.4277,
+                "y": 83.625,
+                "width": 11.8728,
+                "height": 1.0
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "solar wall lantern",
+          "unit": null,
+          "raw_text": "solar wall lantern",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 21.8579,
+                "y": 83.875,
+                "width": 10.8296,
+                "height": 0.9375
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 84,
+          "unit": "pcs",
+          "raw_text": "84PCS in total",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 38.5991,
+                "y": 86.3125,
+                "width": 8.9419,
+                "height": 1.1875
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": 12,
+          "unit": "pcs/box",
+          "raw_text": "12pcs/CTN",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.1952,
+                "y": 83.75,
+                "width": 7.3522,
+                "height": 1.125
+              }
+            }
+          ]
+        },
+        "item_boxes_count": {
+          "value": 7,
+          "unit": "ctn",
+          "raw_text": "7",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.2563,
+                "y": 85.1875,
+                "width": 0.5961,
+                "height": 0.75
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 35.0,
+          "unit": "kg",
+          "raw_text": "35.00",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 77.6453,
+                "y": 85.0,
+                "width": 4.0238,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 29.89,
+          "unit": "kg",
+          "raw_text": "29.89",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl01_008.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 85.8917,
+                "y": 85.0,
+                "width": 3.9742,
+                "height": 1.0625
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 434,
+        "unit": "pcs",
+        "raw_text": "434PCS",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 40.3378,
+              "y": 96.75,
+              "width": 5.1664,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "total_packages": {
+        "value": 14,
+        "unit": "ctn",
+        "raw_text": "14",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 67.8589,
+              "y": 96.75,
+              "width": 1.689,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 126.07,
+        "unit": "kg",
+        "raw_text": "126.070",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 77.0989,
+              "y": 96.75,
+              "width": 5.1664,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 110.88,
+        "unit": "kg",
+        "raw_text": "110.880",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 85.3949,
+              "y": 96.75,
+              "width": 5.1664,
+              "height": 1.0625
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": 0.66,
+        "unit": "m3",
+        "raw_text": "0.660",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl01_008.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 94.0387,
+              "y": 96.6875,
+              "width": 3.6761,
+              "height": 1.1875
+            }
+          }
+        ]
+      },
+      "total_customs_value": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      }
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": true,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "customs_value",
+    "currency"
+  ]
+}

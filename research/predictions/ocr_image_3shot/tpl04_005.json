@@ -1,0 +1,2843 @@
+{
+  "/batch_id": "tpl04_005",
+  "documents": [
+    {
+      "document_id": "tpl04_005.png",
+      "document_type": "packing_list",
+      "pages": [
+        1
+      ],
+      "sender": {
+        "name": {
+          "value": "ООО «Elm Прибор»",
+          "unit": null,
+          "raw_text": "ООО «Elm Прибор»",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 35.5625,
+                "y": 2.671,
+                "width": 29.0625,
+                "height": 1.4058
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "Россия",
+          "unit": null,
+          "raw_text": "Россия",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 37.5625,
+                "y": 8.3411,
+                "width": 24.625,
+                "height": 0.5623
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "Россия, г. Казань, ул. Заводская, д. 17",
+          "unit": null,
+          "raw_text": "Россия, г. Казань, ул. Заводская, д. 17",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 37.5625,
+                "y": 8.3411,
+                "width": 24.625,
+                "height": 0.5623
+              }
+            }
+          ]
+        }
+      },
+      "consignee": {
+        "name": {
+          "value": "Elm Rail Equipment Ltd.",
+          "unit": null,
+          "raw_text": "Elm Rail Equipment Ltd.",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.125,
+                "y": 17.1978,
+                "width": 22.0,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "country": {
+          "value": "China",
+          "unit": null,
+          "raw_text": "China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 7.625,
+                "y": 37.1603,
+                "width": 26.6875,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "address": {
+          "value": "35 East Road, Beijing, China",
+          "unit": null,
+          "raw_text": "35 East Road, Beijing, China",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 7.625,
+                "y": 37.1603,
+                "width": 26.6875,
+                "height": 0.7029
+              }
+            }
+          ]
+        }
+      },
+      "document_date": {
+        "value": "2026-10-15",
+        "unit": null,
+        "raw_text": "2026-10-15",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 87.0,
+              "y": 26.8041,
+              "width": 8.3125,
+              "height": 0.7966
+            }
+          }
+        ]
+      },
+      "invoice_number": {
+        "value": "SYN-04005",
+        "unit": null,
+        "raw_text": "SYN-04005",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 40.25,
+              "y": 20.6186,
+              "width": 19.375,
+              "height": 0.8903
+            }
+          }
+        ]
+      },
+      "origin_location": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "items": [
+        {
+          "item_article": {
+            "value": "R04005-01",
+            "unit": null,
+            "raw_text": "R04005-01",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.375,
+                  "y": 57.0291,
+                  "width": 7.1875,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Устройство контроля без комплекта кабелей",
+            "unit": null,
+            "raw_text": "Устройство контроля без комплекта кабелей",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.5625,
+                  "y": 58.4349,
+                  "width": 23.4375,
+                  "height": 0.5623
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 9,
+            "unit": "box",
+            "raw_text": "9",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.5625,
+                  "y": 69.6813,
+                  "width": 1.125,
+                  "height": 0.6092
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 9,
+            "unit": "box",
+            "raw_text": "9",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.5625,
+                  "y": 69.6813,
+                  "width": 1.125,
+                  "height": 0.6092
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 57.69,
+            "unit": "kg",
+            "raw_text": "57,69",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.8125,
+                  "y": 58.1537,
+                  "width": 4.125,
+                  "height": 0.7966
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 51.03,
+            "unit": "kg",
+            "raw_text": "51,03",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.1875,
+                  "y": 58.1537,
+                  "width": 3.875,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-02",
+            "unit": null,
+            "raw_text": "R04005-02",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.375,
+                  "y": 66.6354,
+                  "width": 6.125,
+                  "height": 0.4686
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Система контроля с комплектом кабелей",
+            "unit": null,
+            "raw_text": "Система контроля с комплектом кабелей",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.4375,
+                  "y": 67.8538,
+                  "width": 22.25,
+                  "height": 0.5155
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 6,
+            "unit": "box",
+            "raw_text": "6",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.5625,
+                  "y": 69.6813,
+                  "width": 1.125,
+                  "height": 0.6092
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 6,
+            "unit": "box",
+            "raw_text": "6",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.5625,
+                  "y": 69.6813,
+                  "width": 1.125,
+                  "height": 0.6092
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 58.92,
+            "unit": "kg",
+            "raw_text": "58,92",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.875,
+                  "y": 67.3852,
+                  "width": 3.9375,
+                  "height": 0.7966
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 56.52,
+            "unit": "kg",
+            "raw_text": "56,52",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.25,
+                  "y": 67.4789,
+                  "width": 4.0,
+                  "height": 0.656
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-03",
+            "unit": null,
+            "raw_text": "R04005-03",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.125,
+                  "y": 70.4311,
+                  "width": 4.75,
+                  "height": 0.3749
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Модуль контроля",
+            "unit": null,
+            "raw_text": "Модуль контроля",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.75,
+                  "y": 70.3374,
+                  "width": 8.875,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "gross_weight": {
+            "value": 104.58,
+            "unit": "kg",
+            "raw_text": "104,58",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.5625,
+                  "y": 70.478,
+                  "width": 4.6875,
+                  "height": 0.656
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 97.86,
+            "unit": "kg",
+            "raw_text": "97,86",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.125,
+                  "y": 70.478,
+                  "width": 4.1875,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-04",
+            "unit": null,
+            "raw_text": "R04005-04",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.125,
+                  "y": 72.5867,
+                  "width": 4.75,
+                  "height": 0.3749
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Телеметрический модуль",
+            "unit": null,
+            "raw_text": "Телеметрический модуль",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.625,
+                  "y": 72.6804,
+                  "width": 12.5625,
+                  "height": 0.4686
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "gross_weight": {
+            "value": 30.48,
+            "unit": "kg",
+            "raw_text": "30,48",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.75,
+                  "y": 72.6804,
+                  "width": 4.125,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 28.56,
+            "unit": "kg",
+            "raw_text": "28,56",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.0625,
+                  "y": 72.5867,
+                  "width": 4.375,
+                  "height": 0.7966
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-05",
+            "unit": null,
+            "raw_text": "R04005-05",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.0625,
+                  "y": 74.7423,
+                  "width": 4.8125,
+                  "height": 0.3749
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Узел питания",
+            "unit": null,
+            "raw_text": "Узел питания",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.6875,
+                  "y": 74.7891,
+                  "width": 6.875,
+                  "height": 0.5623
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 12,
+            "unit": "box",
+            "raw_text": "12",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.125,
+                  "y": 74.6485,
+                  "width": 2.0,
+                  "height": 0.8903
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 12,
+            "unit": "box",
+            "raw_text": "12",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.125,
+                  "y": 74.6485,
+                  "width": 2.0,
+                  "height": 0.8903
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 116.28,
+            "unit": "kg",
+            "raw_text": "116,28",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.625,
+                  "y": 74.7423,
+                  "width": 4.75,
+                  "height": 0.7966
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 111.36,
+            "unit": "kg",
+            "raw_text": "111,36",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 52.9375,
+                  "y": 74.7423,
+                  "width": 4.8125,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-06",
+            "unit": null,
+            "raw_text": "R04005-06",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.125,
+                  "y": 76.8978,
+                  "width": 4.875,
+                  "height": 0.3749
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Блок входных данных",
+            "unit": null,
+            "raw_text": "Блок входных данных",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.75,
+                  "y": 76.9916,
+                  "width": 10.8125,
+                  "height": 0.4217
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "gross_weight": {
+            "value": 176.8,
+            "unit": "kg",
+            "raw_text": "176,80",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.5,
+                  "y": 76.8978,
+                  "width": 4.875,
+                  "height": 0.8435
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 163.8,
+            "unit": "kg",
+            "raw_text": "163,80",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 52.875,
+                  "y": 76.9447,
+                  "width": 4.875,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-07",
+            "unit": null,
+            "raw_text": "R04005-07",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.125,
+                  "y": 79.0534,
+                  "width": 4.8125,
+                  "height": 0.3749
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Согласующее устройство",
+            "unit": null,
+            "raw_text": "Согласующее устройство",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.625,
+                  "y": 79.0534,
+                  "width": 12.75,
+                  "height": 0.5623
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 13,
+            "unit": "box",
+            "raw_text": "13",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.125,
+                  "y": 79.0066,
+                  "width": 2.0,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 13,
+            "unit": "box",
+            "raw_text": "13",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.125,
+                  "y": 79.0066,
+                  "width": 2.0,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 67.7,
+            "unit": "kg",
+            "raw_text": "67,70",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.875,
+                  "y": 79.1471,
+                  "width": 4.125,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 55.6,
+            "unit": "kg",
+            "raw_text": "55,60",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.125,
+                  "y": 79.1003,
+                  "width": 4.125,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-08",
+            "unit": null,
+            "raw_text": "R04005-08",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.125,
+                  "y": 81.209,
+                  "width": 4.75,
+                  "height": 0.3749
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Модуль телеметрии",
+            "unit": null,
+            "raw_text": "Модуль телеметрии",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.75,
+                  "y": 81.1621,
+                  "width": 9.8125,
+                  "height": 0.7029
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "gross_weight": {
+            "value": 106.16,
+            "unit": "kg",
+            "raw_text": "106,16",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.5625,
+                  "y": 81.209,
+                  "width": 4.9375,
+                  "height": 0.7498
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 95.68,
+            "unit": "kg",
+            "raw_text": "95,68",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.0625,
+                  "y": 81.209,
+                  "width": 4.125,
+                  "height": 0.7966
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        },
+        {
+          "item_article": {
+            "value": "R04005-09",
+            "unit": null,
+            "raw_text": "R04005-09",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 3.125,
+                  "y": 83.4114,
+                  "width": 4.75,
+                  "height": 0.4217
+                }
+              }
+            ]
+          },
+          "item_description": {
+            "value": "Блок обработки линии",
+            "unit": null,
+            "raw_text": "Блок обработки линии",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 14.6875,
+                  "y": 83.4583,
+                  "width": 11.0625,
+                  "height": 0.4686
+                }
+              }
+            ]
+          },
+          "item_quantity": {
+            "value": 6,
+            "unit": "box",
+            "raw_text": "6",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.5625,
+                  "y": 83.5989,
+                  "width": 1.125,
+                  "height": 0.4686
+                }
+              }
+            ]
+          },
+          "item_units_per_box": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "item_boxes_count": {
+            "value": 6,
+            "unit": "box",
+            "raw_text": "6",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 39.5625,
+                  "y": 83.5989,
+                  "width": 1.125,
+                  "height": 0.4686
+                }
+              }
+            ]
+          },
+          "gross_weight": {
+            "value": 58.32,
+            "unit": "kg",
+            "raw_text": "58,32",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 68.875,
+                  "y": 83.4114,
+                  "width": 3.9375,
+                  "height": 0.656
+                }
+              }
+            ]
+          },
+          "net_weight": {
+            "value": 50.4,
+            "unit": "kg",
+            "raw_text": "50,40",
+            "source_type": "document",
+            "confidence": 0.98,
+            "evidence": [
+              {
+                "document_id": "tpl04_005.png",
+                "page": 1,
+                "bbox_percent": {
+                  "x": 53.25,
+                  "y": 83.3646,
+                  "width": 4.0625,
+                  "height": 0.7966
+                }
+              }
+            ]
+          },
+          "customs_value": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          },
+          "currency": {
+            "value": null,
+            "unit": null,
+            "raw_text": null,
+            "source_type": "document",
+            "confidence": 0.0,
+            "evidence": []
+          }
+        }
+      ],
+      "totals": {
+        "total_quantity": {
+          "value": 46,
+          "unit": "box",
+          "raw_text": "46",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.0625,
+                "y": 85.9888,
+                "width": 2.3125,
+                "height": 0.8903
+              }
+            }
+          ]
+        },
+        "total_packages": {
+          "value": 46,
+          "unit": "box",
+          "raw_text": "46",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.0625,
+                "y": 85.9888,
+                "width": 2.3125,
+                "height": 0.8903
+              }
+            }
+          ]
+        },
+        "total_gross_weight": {
+          "value": 776.93,
+          "unit": "kg",
+          "raw_text": "776,93",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.4375,
+                "y": 86.0825,
+                "width": 5.125,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "total_net_weight": {
+          "value": 710.81,
+          "unit": "kg",
+          "raw_text": "710,81",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 52.6875,
+                "y": 86.0825,
+                "width": 5.1875,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "total_volume_cbm": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "total_customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    }
+  ],
+  "declaration_draft": {
+    "sender": {
+      "name": {
+        "value": "ООО «Elm Прибор»",
+        "unit": null,
+        "raw_text": "ООО «Elm Прибор»",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 35.5625,
+              "y": 2.671,
+              "width": 29.0625,
+              "height": 1.4058
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "Россия",
+        "unit": null,
+        "raw_text": "Россия",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 37.5625,
+              "y": 8.3411,
+              "width": 24.625,
+              "height": 0.5623
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "Россия, г. Казань, ул. Заводская, д. 17",
+        "unit": null,
+        "raw_text": "Россия, г. Казань, ул. Заводская, д. 17",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 37.5625,
+              "y": 8.3411,
+              "width": 24.625,
+              "height": 0.5623
+            }
+          }
+        ]
+      }
+    },
+    "consignee": {
+      "name": {
+        "value": "Elm Rail Equipment Ltd.",
+        "unit": null,
+        "raw_text": "Elm Rail Equipment Ltd.",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 39.125,
+              "y": 17.1978,
+              "width": 22.0,
+              "height": 0.7966
+            }
+          }
+        ]
+      },
+      "country": {
+        "value": "China",
+        "unit": null,
+        "raw_text": "China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 7.625,
+              "y": 37.1603,
+              "width": 26.6875,
+              "height": 0.7029
+            }
+          }
+        ]
+      },
+      "address": {
+        "value": "35 East Road, Beijing, China",
+        "unit": null,
+        "raw_text": "35 East Road, Beijing, China",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 7.625,
+              "y": 37.1603,
+              "width": 26.6875,
+              "height": 0.7029
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "item_article": {
+          "value": "R04005-01",
+          "unit": null,
+          "raw_text": "R04005-01",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.375,
+                "y": 57.0291,
+                "width": 7.1875,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Устройство контроля без комплекта кабелей",
+          "unit": null,
+          "raw_text": "Устройство контроля без комплекта кабелей",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.5625,
+                "y": 58.4349,
+                "width": 23.4375,
+                "height": 0.5623
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 9,
+          "unit": "box",
+          "raw_text": "9",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.5625,
+                "y": 69.6813,
+                "width": 1.125,
+                "height": 0.6092
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 9,
+          "unit": "box",
+          "raw_text": "9",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.5625,
+                "y": 69.6813,
+                "width": 1.125,
+                "height": 0.6092
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 57.69,
+          "unit": "kg",
+          "raw_text": "57,69",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.8125,
+                "y": 58.1537,
+                "width": 4.125,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 51.03,
+          "unit": "kg",
+          "raw_text": "51,03",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.1875,
+                "y": 58.1537,
+                "width": 3.875,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-02",
+          "unit": null,
+          "raw_text": "R04005-02",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.375,
+                "y": 66.6354,
+                "width": 6.125,
+                "height": 0.4686
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Система контроля с комплектом кабелей",
+          "unit": null,
+          "raw_text": "Система контроля с комплектом кабелей",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.4375,
+                "y": 67.8538,
+                "width": 22.25,
+                "height": 0.5155
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 6,
+          "unit": "box",
+          "raw_text": "6",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.5625,
+                "y": 69.6813,
+                "width": 1.125,
+                "height": 0.6092
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 6,
+          "unit": "box",
+          "raw_text": "6",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.5625,
+                "y": 69.6813,
+                "width": 1.125,
+                "height": 0.6092
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 58.92,
+          "unit": "kg",
+          "raw_text": "58,92",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.875,
+                "y": 67.3852,
+                "width": 3.9375,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 56.52,
+          "unit": "kg",
+          "raw_text": "56,52",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.25,
+                "y": 67.4789,
+                "width": 4.0,
+                "height": 0.656
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-03",
+          "unit": null,
+          "raw_text": "R04005-03",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.125,
+                "y": 70.4311,
+                "width": 4.75,
+                "height": 0.3749
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Модуль контроля",
+          "unit": null,
+          "raw_text": "Модуль контроля",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.75,
+                "y": 70.3374,
+                "width": 8.875,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "gross_weight": {
+          "value": 104.58,
+          "unit": "kg",
+          "raw_text": "104,58",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.5625,
+                "y": 70.478,
+                "width": 4.6875,
+                "height": 0.656
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 97.86,
+          "unit": "kg",
+          "raw_text": "97,86",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.125,
+                "y": 70.478,
+                "width": 4.1875,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-04",
+          "unit": null,
+          "raw_text": "R04005-04",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.125,
+                "y": 72.5867,
+                "width": 4.75,
+                "height": 0.3749
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Телеметрический модуль",
+          "unit": null,
+          "raw_text": "Телеметрический модуль",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.625,
+                "y": 72.6804,
+                "width": 12.5625,
+                "height": 0.4686
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "gross_weight": {
+          "value": 30.48,
+          "unit": "kg",
+          "raw_text": "30,48",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.75,
+                "y": 72.6804,
+                "width": 4.125,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 28.56,
+          "unit": "kg",
+          "raw_text": "28,56",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.0625,
+                "y": 72.5867,
+                "width": 4.375,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-05",
+          "unit": null,
+          "raw_text": "R04005-05",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.0625,
+                "y": 74.7423,
+                "width": 4.8125,
+                "height": 0.3749
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Узел питания",
+          "unit": null,
+          "raw_text": "Узел питания",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.6875,
+                "y": 74.7891,
+                "width": 6.875,
+                "height": 0.5623
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 12,
+          "unit": "box",
+          "raw_text": "12",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.125,
+                "y": 74.6485,
+                "width": 2.0,
+                "height": 0.8903
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 12,
+          "unit": "box",
+          "raw_text": "12",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.125,
+                "y": 74.6485,
+                "width": 2.0,
+                "height": 0.8903
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 116.28,
+          "unit": "kg",
+          "raw_text": "116,28",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.625,
+                "y": 74.7423,
+                "width": 4.75,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 111.36,
+          "unit": "kg",
+          "raw_text": "111,36",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 52.9375,
+                "y": 74.7423,
+                "width": 4.8125,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-06",
+          "unit": null,
+          "raw_text": "R04005-06",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.125,
+                "y": 76.8978,
+                "width": 4.875,
+                "height": 0.3749
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Блок входных данных",
+          "unit": null,
+          "raw_text": "Блок входных данных",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.75,
+                "y": 76.9916,
+                "width": 10.8125,
+                "height": 0.4217
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "gross_weight": {
+          "value": 176.8,
+          "unit": "kg",
+          "raw_text": "176,80",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.5,
+                "y": 76.8978,
+                "width": 4.875,
+                "height": 0.8435
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 163.8,
+          "unit": "kg",
+          "raw_text": "163,80",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 52.875,
+                "y": 76.9447,
+                "width": 4.875,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-07",
+          "unit": null,
+          "raw_text": "R04005-07",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.125,
+                "y": 79.0534,
+                "width": 4.8125,
+                "height": 0.3749
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Согласующее устройство",
+          "unit": null,
+          "raw_text": "Согласующее устройство",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.625,
+                "y": 79.0534,
+                "width": 12.75,
+                "height": 0.5623
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 13,
+          "unit": "box",
+          "raw_text": "13",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.125,
+                "y": 79.0066,
+                "width": 2.0,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 13,
+          "unit": "box",
+          "raw_text": "13",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.125,
+                "y": 79.0066,
+                "width": 2.0,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 67.7,
+          "unit": "kg",
+          "raw_text": "67,70",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.875,
+                "y": 79.1471,
+                "width": 4.125,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 55.6,
+          "unit": "kg",
+          "raw_text": "55,60",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.125,
+                "y": 79.1003,
+                "width": 4.125,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-08",
+          "unit": null,
+          "raw_text": "R04005-08",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.125,
+                "y": 81.209,
+                "width": 4.75,
+                "height": 0.3749
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Модуль телеметрии",
+          "unit": null,
+          "raw_text": "Модуль телеметрии",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.75,
+                "y": 81.1621,
+                "width": 9.8125,
+                "height": 0.7029
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "gross_weight": {
+          "value": 106.16,
+          "unit": "kg",
+          "raw_text": "106,16",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.5625,
+                "y": 81.209,
+                "width": 4.9375,
+                "height": 0.7498
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 95.68,
+          "unit": "kg",
+          "raw_text": "95,68",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.0625,
+                "y": 81.209,
+                "width": 4.125,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      },
+      {
+        "item_article": {
+          "value": "R04005-09",
+          "unit": null,
+          "raw_text": "R04005-09",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 3.125,
+                "y": 83.4114,
+                "width": 4.75,
+                "height": 0.4217
+              }
+            }
+          ]
+        },
+        "item_description": {
+          "value": "Блок обработки линии",
+          "unit": null,
+          "raw_text": "Блок обработки линии",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 14.6875,
+                "y": 83.4583,
+                "width": 11.0625,
+                "height": 0.4686
+              }
+            }
+          ]
+        },
+        "item_quantity": {
+          "value": 6,
+          "unit": "box",
+          "raw_text": "6",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.5625,
+                "y": 83.5989,
+                "width": 1.125,
+                "height": 0.4686
+              }
+            }
+          ]
+        },
+        "item_units_per_box": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "item_boxes_count": {
+          "value": 6,
+          "unit": "box",
+          "raw_text": "6",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 39.5625,
+                "y": 83.5989,
+                "width": 1.125,
+                "height": 0.4686
+              }
+            }
+          ]
+        },
+        "gross_weight": {
+          "value": 58.32,
+          "unit": "kg",
+          "raw_text": "58,32",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 68.875,
+                "y": 83.4114,
+                "width": 3.9375,
+                "height": 0.656
+              }
+            }
+          ]
+        },
+        "net_weight": {
+          "value": 50.4,
+          "unit": "kg",
+          "raw_text": "50,40",
+          "source_type": "document",
+          "confidence": 0.98,
+          "evidence": [
+            {
+              "document_id": "tpl04_005.png",
+              "page": 1,
+              "bbox_percent": {
+                "x": 53.25,
+                "y": 83.3646,
+                "width": 4.0625,
+                "height": 0.7966
+              }
+            }
+          ]
+        },
+        "customs_value": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        },
+        "currency": {
+          "value": null,
+          "unit": null,
+          "raw_text": null,
+          "source_type": "document",
+          "confidence": 0.0,
+          "evidence": []
+        }
+      }
+    ],
+    "totals": {
+      "total_quantity": {
+        "value": 46,
+        "unit": "box",
+        "raw_text": "46",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 39.0625,
+              "y": 85.9888,
+              "width": 2.3125,
+              "height": 0.8903
+            }
+          }
+        ]
+      },
+      "total_packages": {
+        "value": 46,
+        "unit": "box",
+        "raw_text": "46",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 39.0625,
+              "y": 85.9888,
+              "width": 2.3125,
+              "height": 0.8903
+            }
+          }
+        ]
+      },
+      "total_gross_weight": {
+        "value": 776.93,
+        "unit": "kg",
+        "raw_text": "776,93",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 68.4375,
+              "y": 86.0825,
+              "width": 5.125,
+              "height": 0.7029
+            }
+          }
+        ]
+      },
+      "total_net_weight": {
+        "value": 710.81,
+        "unit": "kg",
+        "raw_text": "710,81",
+        "source_type": "document",
+        "confidence": 0.98,
+        "evidence": [
+          {
+            "document_id": "tpl04_005.png",
+            "page": 1,
+            "bbox_percent": {
+              "x": 52.6875,
+              "y": 86.0825,
+              "width": 5.1875,
+              "height": 0.7029
+            }
+          }
+        ]
+      },
+      "total_volume_cbm": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      },
+      "total_customs_value": {
+        "value": null,
+        "unit": null,
+        "raw_text": null,
+        "source_type": "document",
+        "confidence": 0.0,
+        "evidence": []
+      }
+    }
+  },
+  "validation": {
+    "quantity_sum_matches_total": true,
+    "gross_weight_is_not_less_than_net_weight": true,
+    "documents_belong_to_same_shipment": true
+  },
+  "conflicts": [],
+  "missing_fields": [
+    "total_volume_cbm",
+    "total_customs_value",
+    "currency"
+  ]
+}
