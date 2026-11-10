@@ -52,6 +52,10 @@ docker compose stop
 
 ## Проверка качества
 
+В [research](research/) находятся скрипты ipynb, тестирующие гипотезы, а также прочие тестовые документы, эталоны, прогнозы и расчет метрик.
+
+Основная папка — [https://disk.yandex.ru/d/sNIlBrolugMVLw](https://disk.yandex.ru/d/sNIlBrolugMVLw).
+
 Папка [research](research/README.md) содержит 50 синтетических документов,
 gold-разметку, сохранённый OCR, прогнозы трёх режимов, оценщик и два
 выполненных ноутбука. Расчёт метрик и bootstrap воспроизводится локально:
