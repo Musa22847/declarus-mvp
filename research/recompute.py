@@ -7,11 +7,30 @@ ROOT=Path(__file__).resolve().parent
 B=20_000
 SEED=20261107
 KEYS=('true_positive','false_positive','false_negative')
-def read(p): return json.loads(p.read_text())
-def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
-def save(p,v): p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
+def read(p):
+    """Прочитать JSON из пути p и вернуть соответствующий Python-объект."""
+    return json.loads(p.read_text())
+
+def sha(p):
+    """Вернуть SHA-256 содержимого файла p в виде шестнадцатеричной строки."""
+    return hashlib.sha256(p.read_bytes()).hexdigest()
+
+def save(p,v):
+    """Сохранить объект v как JSON по пути p, создав родительские каталоги.
+
+    Существующий файл перезаписывается; функция ничего не возвращает.
+    """
+    p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
 
 def aggregate(rows):
+    """Объединить результаты документов одного режима в словарь общих метрик.
+
+    rows — список записей с metrics и json_valid. Precision, recall и micro-F1
+    считаются из суммарных TP/FP/FN, а не усреднением F1 документов.
+    CER/WER усредняются по документам; bbox IoU взвешивается числом gold-боксов.
+    Знаменатель точных строк — сумма max(gold_items, predicted_items, 1)
+    по документам. Все переданные попытки остаются в расчёте.
+    """
     total=Counter()
     for row in rows:total.update(row['metrics']['counts'])
     tp=total['true_positive'];fp=total['false_positive'];fn=total['false_negative']
@@ -29,13 +48,24 @@ def aggregate(rows):
             'bbox_gold':bbox_n,'bbox_present':sum(x['metrics']['bbox']['counts']['predicted_for_gold'] for x in rows)}
 
 def counts(row):
+    """Извлечь из результата документа кортеж (TP, FP, FN) в порядке KEYS."""
     return tuple(row['metrics']['counts'][k] for k in KEYS)
 
 def f1(rows):
+    """Вернуть micro-F1 в диапазоне [0, 1] из набора кортежей (TP, FP, FN).
+
+    Сначала суммируются счётчики; при нулевом знаменателе возвращается 0.
+    Повторяющиеся строки учитываются повторно, что требуется для bootstrap.
+    """
     tp, fp, fn = (sum(x[i] for x in rows) for i in range(3))
     return 2 * tp / (2 * tp + fp + fn) if 2 * tp + fp + fn else 0.0
 
 def percentile(values, q):
+    """Вернуть квантиль q непустого набора values с линейной интерполяцией.
+
+    q задаётся долей от 0 до 1; например, 0.025 — нижняя граница
+    двустороннего percentile-интервала уровня 95%.
+    """
     a = sorted(values)
     pos = (len(a) - 1) * q
     lo = int(pos)
@@ -43,6 +73,26 @@ def percentile(values, q):
     return a[lo] + (a[hi] - a[lo]) * (pos - lo)
 
 def check(name, baseline, treatment, groups=None):
+    """Оценить прирост micro-F1 парным bootstrap по документам.
+
+    Args:
+        name: Название варианта проверки для итогового отчёта.
+        baseline: Словарь document_id -> (TP, FP, FN) исходного режима.
+        treatment: Такой же словарь нового режима с теми же документами.
+        groups: Необязательный словарь document_id -> шаблон. Если задан,
+            документы выбираются с возвращением внутри каждого шаблона
+            с сохранением его размера в повторной выборке.
+
+    Returns:
+        Пару (result, deltas): словарь наблюдаемого эффекта, 95%-го ДИ
+        и исходных счётчиков, а также B bootstrap-приростов в п.п.
+        Знак эффекта — treatment минус baseline. Положительный эффект
+        поддерживается, если нижняя граница ДИ строго выше 0 п.п.
+
+    Для обоих режимов выбираются одинаковые идентификаторы документов.
+    В каждом повторе F1 пересчитывается из суммарных счётчиков.
+    Число повторов и seed задаются константами B и SEED.
+    """
     assert set(baseline) == set(treatment) and baseline
     ids = sorted(baseline)
     for d in ids:
@@ -64,6 +114,16 @@ def check(name, baseline, treatment, groups=None):
     return result, deltas
 
 def evaluate():
+    """Переоценить сохранённые прогнозы трёх режимов на 50 документах.
+
+    Проверяет хеши данных, трёх few-shot примеров, промпта и оценщика.
+    Передаёт gold и prediction в evaluate_document; неуспешную попытку
+    оценивает как пустое извлечение. Сверяет счётчики и F1 с исходными
+    отчётами и возвращает словарь summary, runs и hypotheses.
+
+    Перезаписывает reports/evaluation.json и reports/extraction_errors.json.
+    API не вызывается; при нарушении контрольных условий возникает AssertionError.
+    """
     manifest=read(ROOT/'data/manifest.json');alignment=read(ROOT/'few_shot_alignment.json')
     assert sha(ROOT/'model_evaluation.py')==alignment['evaluator_sha256']
     assert sha(ROOT.parent/alignment['prompt'])==alignment['prompt_sha256']
@@ -104,6 +164,15 @@ def evaluate():
     return result
 
 def bootstrap(result):
+    """Рассчитать интервалы прироста H1 и H2 по результату evaluate().
+
+    Для каждой гипотезы выполняет три проверки: все 50 попыток,
+    только успешные пары и выборки внутри шаблонов. Основным остаётся
+    расчёт по всем попыткам. Возвращает словарь с параметрами метода,
+    хешем evaluation.json и результатами проверок; тот же словарь
+    записывает в reports/bootstrap.json. Ожидает, что evaluation.json
+    уже сохранён функцией evaluate(). Новых запросов модели не делает.
+    """
     output=[]
     for h,pair in result['hypotheses'].items():
         a=result['runs'][pair['baseline']];b=result['runs'][pair['treatment']]

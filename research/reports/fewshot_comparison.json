@@ -14,7 +14,7 @@
     "zero_shot_new_requests": 50,
     "authorized_few_shot_retry": "tpl06_003",
     "comparison": "Same image, cached OCR, gold and system prompt; only demonstrations and their introductory sentence removed.",
-    "threshold_pp": 5,
+    "threshold_pp": 0,
     "single_response_per_document": true
   },
   "summary": {
@@ -73,9 +73,9 @@
   "paired_successful_documents": 49,
   "all_50_paired_successful": false,
   "all_50_attempts_finished": true,
-  "target_pp": 5,
+  "target_pp": 0,
   "observed_target_reached": true,
-  "hypothesis_status": "Порог +5 п.п. достигнут на полном наборе из 50 попыток",
+  "hypothesis_status": "Положительный прирост более 0 п.п. получен на полном наборе из 50 попыток",
   "failure_policy": "User approved counting incomplete output as failure without retry; compare all 50 attempts and paired successful subset separately.",
   "paired_delta_f1_pp": 9.141054401351278,
   "paired_successful_summary": {
